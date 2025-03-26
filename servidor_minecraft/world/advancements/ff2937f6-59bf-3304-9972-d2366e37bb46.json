@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-03-26 03:57:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-03-26 03:28:06 +0000"
@@ -29,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-03-26 03:58:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-03-26 03:12:15 +0000"
@@ -44,6 +56,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-03-26 03:09:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-03-26 04:03:15 +0000"
     },
     "done": true
   },
@@ -80,6 +98,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-26 03:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-26 04:03:15 +0000"
     },
     "done": true
   },
@@ -128,6 +152,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-03-26 03:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-03-26 04:03:15 +0000"
     },
     "done": true
   },
@@ -227,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-26 04:03:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-03-26 03:28:06 +0000"
@@ -236,6 +272,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-03-26 03:12:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-03-26 04:03:15 +0000"
     },
     "done": true
   },
@@ -272,6 +314,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-26 03:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-26 04:03:15 +0000"
     },
     "done": true
   },
@@ -395,9 +443,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-26 04:03:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-03-26 03:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-03-26 04:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-03-26 04:02:15 +0000"
     },
     "done": true
   },
@@ -416,6 +482,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-03-26 03:09:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-03-26 03:58:44 +0000"
     },
     "done": true
   },
@@ -475,14 +547,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2025-03-26 03:58:23 +0000",
+      "minecraft:snowy_slopes": "2025-03-26 04:03:09 +0000",
       "minecraft:beach": "2025-03-26 03:08:19 +0000",
       "minecraft:old_growth_pine_taiga": "2025-03-26 03:17:57 +0000",
       "minecraft:forest": "2025-03-26 03:26:01 +0000",
       "minecraft:taiga": "2025-03-26 03:18:48 +0000",
       "minecraft:river": "2025-03-26 03:17:52 +0000",
+      "minecraft:dripstone_caves": "2025-03-26 03:28:52 +0000",
+      "minecraft:frozen_peaks": "2025-03-26 04:08:58 +0000",
+      "minecraft:cherry_grove": "2025-03-26 03:57:15 +0000",
+      "minecraft:sunflower_plains": "2025-03-26 03:57:03 +0000",
       "minecraft:meadow": "2025-03-26 03:19:08 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-26 03:07:43 +0000",
-      "minecraft:dripstone_caves": "2025-03-26 03:28:52 +0000",
       "minecraft:plains": "2025-03-26 03:52:56 +0000"
     },
     "done": false
@@ -593,6 +670,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-03-26 04:03:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-03-26 03:23:05 +0000"
@@ -608,6 +691,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-03-26 03:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-03-26 04:02:15 +0000"
     },
     "done": true
   },
