@@ -8,13 +8,21 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-03-26 03:13:39 +0000",
+      "minecraft:savanna_plateau": "2025-03-26 03:53:04 +0000",
+      "minecraft:snowy_slopes": "2025-03-26 03:34:41 +0000",
       "minecraft:beach": "2025-03-26 03:07:17 +0000",
       "minecraft:old_growth_pine_taiga": "2025-03-26 03:15:31 +0000",
-      "minecraft:cherry_grove": "2025-03-26 03:26:34 +0000",
+      "minecraft:stony_peaks": "2025-03-26 03:39:42 +0000",
+      "minecraft:forest": "2025-03-26 03:36:45 +0000",
+      "minecraft:sparse_jungle": "2025-03-26 03:37:58 +0000",
       "minecraft:river": "2025-03-26 03:15:27 +0000",
+      "minecraft:jungle": "2025-03-26 03:38:29 +0000",
+      "minecraft:cherry_grove": "2025-03-26 03:26:34 +0000",
       "minecraft:meadow": "2025-03-26 03:17:39 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-26 03:08:55 +0000",
-      "minecraft:plains": "2025-03-26 03:27:04 +0000"
+      "minecraft:savanna": "2025-03-26 03:46:17 +0000",
+      "minecraft:plains": "2025-03-26 03:27:04 +0000",
+      "minecraft:jagged_peaks": "2025-03-26 03:35:50 +0000"
     },
     "done": false
   },
@@ -377,7 +385,8 @@
       "cooked_porkchop": "2025-03-26 03:23:35 +0000",
       "mutton": "2025-03-26 03:18:12 +0000",
       "bread": "2025-03-26 03:19:24 +0000",
-      "cooked_mutton": "2025-03-26 03:23:28 +0000"
+      "cooked_mutton": "2025-03-26 03:23:28 +0000",
+      "melon_slice": "2025-03-26 03:41:08 +0000"
     },
     "done": false
   },
@@ -402,6 +411,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-03-26 03:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-03-26 03:40:38 +0000"
     },
     "done": true
   },
@@ -441,6 +456,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-03-26 03:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-03-26 03:40:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-03-26 03:25:00 +0000"
@@ -459,6 +486,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-26 03:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-03-26 03:34:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-03-26 03:25:00 +0000"
@@ -471,9 +510,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-03-26 03:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-03-26 03:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-03-26 03:34:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-03-26 03:26:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-03-26 03:40:42 +0000"
     },
     "done": true
   },
@@ -519,15 +582,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-03-26 03:40:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-03-26 03:25:58 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-03-26 03:51:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2025-03-26 03:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-03-26 03:33:40 +0000"
     },
     "done": true
   },
@@ -540,6 +621,18 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-03-26 03:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-26 03:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-03-26 03:34:54 +0000"
     },
     "done": true
   },
@@ -591,9 +684,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-03-26 03:40:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-03-26 03:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-03-26 03:33:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-03-26 03:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-03-26 03:40:45 +0000"
     },
     "done": true
   },
@@ -612,6 +729,24 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-03-26 03:26:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-03-26 03:40:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-03-26 03:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-03-26 03:44:29 +0000"
     },
     "done": true
   },
