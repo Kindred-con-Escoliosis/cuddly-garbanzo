@@ -186,3 +186,52 @@
 [04:27:31] [Server thread/INFO]: Aesthetikkkk fell from a high place
 [04:28:04] [Server thread/INFO]: MIKE lost connection: Disconnected
 [04:28:04] [Server thread/INFO]: MIKE left the game
+[04:28:11] [Server thread/INFO]: SadduranGT has made the advancement [Monster Hunter]
+[04:31:28] [Server thread/INFO]: SadduranGT lost connection: Disconnected
+[04:31:28] [Server thread/INFO]: SadduranGT left the game
+[04:31:59] [Server thread/INFO]: SadduranGT[/100.90.231.18:50800] logged in with entity id 56993 at (1297.633393744103, 39.0, 498.4763036166309)
+[04:31:59] [Server thread/INFO]: SadduranGT joined the game
+[04:33:15] [Server thread/INFO]: MIKE[/100.93.180.103:64419] logged in with entity id 57520 at (1373.104834894283, 134.0, 395.91898756098925)
+[04:33:15] [Server thread/INFO]: MIKE joined the game
+[04:36:31] [Server thread/INFO]: Laudin114 burned to death
+[04:36:33] [Server thread/INFO]: MIKE was slain by Magma Cube
+[04:37:13] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> 104 173
+[04:38:35] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> 104 173
+[04:38:40] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> 104 90 173
+[04:40:38] [Server thread/INFO]: Aesthetikkkk was slain by Magma Cube
+[04:40:58] [Server thread/INFO]: SadduranGT fell from a high place
+[04:42:37] [Server thread/INFO]: Aesthetikkkk burned to death
+[04:43:19] [Server thread/INFO]: Aesthetikkkk tried to swim in lava
+[04:43:44] [Server thread/INFO]: Aesthetikkkk discovered the floor was lava
+[04:46:15] [Server thread/INFO]: MIKE has made the advancement [Who is Cutting Onions?]
+[04:51:00] [Server thread/INFO]: Made saddurand a server operator
+[04:51:06] [Server thread/INFO]: Made MIKE a server operator
+[04:51:24] [Server thread/INFO]: Made Aesthetikkkk a server operator
+[04:51:37] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
+[04:51:53] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Laudin114]
+[04:52:21] [Server thread/INFO]: Aesthetikkkk was killed
+[04:52:21] [Server thread/INFO]: [Aesthetikkkk: Killed Aesthetikkkk]
+[04:52:47] [Server thread/INFO]: MIKE has completed the challenge [Return to Sender]
+[04:54:25] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Laudin114]
+[04:54:53] [Server thread/INFO]: Aesthetikkkk was slain by Hoglin
+[04:54:56] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Laudin114]
+[04:54:59] [Server thread/INFO]: SadduranGT lost connection: Disconnected
+[04:54:59] [Server thread/INFO]: SadduranGT left the game
+[04:56:23] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[04:56:31] [Server thread/INFO]: Aesthetikkkk lost connection: Disconnected
+[04:56:31] [Server thread/INFO]: Aesthetikkkk left the game
+[04:56:32] [Server thread/INFO]: MIKE lost connection: Disconnected
+[04:56:32] [Server thread/INFO]: MIKE left the game
+[04:56:44] [Server thread/INFO]: Laudin114 lost connection: Disconnected
+[04:56:44] [Server thread/INFO]: Laudin114 left the game
+[04:56:49] [Server thread/INFO]: Stopping the server
+[04:56:49] [Server thread/INFO]: Stopping server
+[04:56:49] [Server thread/INFO]: Saving players
+[04:56:49] [Server thread/INFO]: Saving worlds
+[04:56:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:56:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:56:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:56:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:56:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:56:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:56:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
