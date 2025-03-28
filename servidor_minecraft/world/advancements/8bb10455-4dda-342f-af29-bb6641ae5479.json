@@ -17,6 +17,7 @@
       "minecraft:dripstone_caves": "2025-03-26 03:26:24 +0000",
       "minecraft:frozen_peaks": "2025-03-28 03:16:10 +0000",
       "minecraft:deep_dark": "2025-03-28 03:22:13 +0000",
+      "minecraft:ocean": "2025-03-28 04:32:52 +0000",
       "minecraft:cherry_grove": "2025-03-26 04:16:01 +0000",
       "minecraft:sunflower_plains": "2025-03-26 04:17:15 +0000",
       "minecraft:grove": "2025-03-28 04:02:38 +0000",
@@ -634,6 +635,7 @@
       "minecraft:spider": "2025-03-26 03:56:58 +0000",
       "minecraft:zombie": "2025-03-26 03:36:19 +0000",
       "minecraft:creeper": "2025-03-28 03:20:25 +0000",
+      "minecraft:drowned": "2025-03-28 04:32:49 +0000",
       "minecraft:ghast": "2025-03-26 04:52:47 +0000",
       "minecraft:hoglin": "2025-03-26 04:46:56 +0000"
     },
@@ -1853,33 +1855,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
-    "criteria": {
-      "has_pink_petals": "2025-03-28 03:49:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-03-28 03:05:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+  "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
-      "has_raw_copper": "2025-03-28 03:19:51 +0000"
+      "has_quartz": "2025-03-28 03:05:06 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
+  "minecraft:recipes/building_blocks/granite": {
     "criteria": {
-      "tamed_animal": "2025-03-28 04:04:37 +0000"
+      "has_quartz": "2025-03-28 03:05:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
+  "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
-      "has_raw_copper": "2025-03-28 03:19:51 +0000"
+      "has_quartz": "2025-03-28 03:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-03-28 03:05:06 +0000"
     },
     "done": true
   },
@@ -1892,12 +1894,6 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-28 03:19:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-03-28 03:41:18 +0000"
     },
     "done": true
   },
@@ -1919,21 +1915,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-03-28 03:47:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-03-28 03:19:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-03-28 03:23:05 +0000"
     },
     "done": true
   },
@@ -1943,21 +1927,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-03-28 03:05:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-28 03:19:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-03-28 03:05:06 +0000"
     },
     "done": true
   },
@@ -1973,15 +1945,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
-      "has_iron_block": "2025-03-28 03:47:43 +0000"
+      "has_raw_copper": "2025-03-28 03:19:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_block": {
+  "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
-      "has_quartz": "2025-03-28 03:05:06 +0000"
+      "has_raw_copper": "2025-03-28 03:19:51 +0000"
     },
     "done": true
   },
@@ -1991,9 +1963,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/daylight_detector": {
+  "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "has_quartz": "2025-03-28 03:05:06 +0000"
+      "avoid_vibration": "2025-03-28 03:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-03-28 03:41:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-03-28 03:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-03-28 03:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-03-28 03:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-28 04:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-03-28 04:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-28 04:33:35 +0000"
     },
     "done": true
   },

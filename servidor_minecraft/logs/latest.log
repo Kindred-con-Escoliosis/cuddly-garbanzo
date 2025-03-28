@@ -104,3 +104,27 @@
 [04:19:48] [Server thread/WARN]: MIKE moved too quickly! -0.3590119983907698,0.20000004768371582,10.456451325937905
 [04:20:50] [Server thread/INFO]: MIKE lost connection: Disconnected
 [04:20:50] [Server thread/INFO]: MIKE left the game
+[04:30:00] [Server thread/INFO]: MIKE[/100.93.180.103:57868] logged in with entity id 34393 at (1521.520048438048, 70.0, 1867.3241406842342)
+[04:30:00] [Server thread/INFO]: MIKE joined the game
+[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 6.659874111663157,0.0,7.987135104470326
+[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 6.9160245641196525,0.0,8.294334345256857
+[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 7.172175048276586,0.0,8.601533624062313
+[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 7.4283255609643675,0.0,8.908732937084551
+[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 7.684476099329913,0.0,9.215932280902052
+[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 7.940626660805719,0.0,9.523131652435268
+[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 8.19677724308076,0.0,9.830331048912512
+[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 8.45292784407502,0.0,10.137530467839497
+[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 8.709078461915851,0.0,10.444729906971133
+[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 8.965229094919778,0.0,10.75192936428698
+[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 9.221379741569763,0.0,11.059128837968728
+[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 9.477530400501564,0.0,11.366328326379744
+[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 9.733681070486455,0.0,11.6735278280471
+[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 9.989831750419398,0.0,11.980727341645206
+[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 10.245982439305408,0.0,12.287926865980808
+[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 10.50213313624954,0.0,12.595126399980245
+[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 10.758283840445984,0.0,12.90232594267718
+[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 11.01443455116896,0.0,13.209525493201909
+[04:30:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2091ms or 41 ticks behind
+[04:30:23] [Server thread/INFO]: [Not Secure] <Hikejace> 1371 134 393
+[04:30:35] [Server thread/INFO]: [MIKE: Teleported MIKE to 1371.500000, 134.000000, 393.500000]
+[04:32:46] [Server thread/INFO]: [MIKE: Teleported MIKE to Hikejace]
