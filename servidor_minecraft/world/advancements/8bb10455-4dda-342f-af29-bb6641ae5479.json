@@ -18,6 +18,7 @@
       "minecraft:deep_dark": "2025-03-28 03:22:13 +0000",
       "minecraft:cherry_grove": "2025-03-26 04:16:01 +0000",
       "minecraft:sunflower_plains": "2025-03-26 04:17:15 +0000",
+      "minecraft:grove": "2025-03-28 04:02:38 +0000",
       "minecraft:meadow": "2025-03-26 03:15:32 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-26 03:08:21 +0000",
       "minecraft:plains": "2025-03-26 04:16:21 +0000"
@@ -1850,6 +1851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-03-28 03:49:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-03-28 03:05:06 +0000"
@@ -1859,6 +1866,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-03-28 03:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-28 04:04:37 +0000"
     },
     "done": true
   },
@@ -1880,6 +1893,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-03-28 03:41:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-03-28 03:19:48 +0000"
@@ -1895,6 +1914,12 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-28 03:19:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-03-28 03:47:43 +0000"
     },
     "done": true
   },
@@ -1943,6 +1968,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-28 03:19:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-03-28 03:47:43 +0000"
     },
     "done": true
   },

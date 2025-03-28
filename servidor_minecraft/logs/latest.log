@@ -85,3 +85,18 @@
 [03:39:05] [Server thread/INFO]: Hikejace lost connection: Disconnected
 [03:39:05] [Server thread/INFO]: Hikejace left the game
 [03:41:18] [Server thread/INFO]: MIKE has completed the challenge [It Spreads]
+[03:44:57] [Server thread/INFO]: Hikejace[/100.119.199.16:50407] logged in with entity id 9877 at (1327.0898392476413, 50.0, 317.1386303931649)
+[03:44:58] [Server thread/INFO]: Hikejace joined the game
+[03:45:05] [Server thread/INFO]: [MIKE: Teleported MIKE to MIKE]
+[03:45:16] [Server thread/INFO]: [MIKE: Teleported MIKE to Hikejace]
+[04:02:24] [Server thread/INFO]: [Not Secure] <MIKE> 1371 134 393
+[04:02:38] [Server thread/INFO]: [MIKE: Teleported MIKE to Hikejace]
+[04:04:37] [Server thread/INFO]: MIKE has made the advancement [Best Friends Forever]
+[04:04:53] [Server thread/INFO]: Hikejace has made the advancement [Ice Bucket Challenge]
+[04:11:21] [Server thread/WARN]: Hikejace moved too quickly! 10.071817415567693,-1.3693736602695026,0.9674098615332838
+[04:11:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3222ms or 64 ticks behind
+[04:11:57] [Server thread/WARN]: Hikejace moved too quickly! 7.457750804704119,3.252203340253729,-6.2727243244682995
+[04:11:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2268ms or 45 ticks behind
+[04:12:43] [Server thread/WARN]: Hikejace moved too quickly! 0.4931279707552676,-0.604424101326714,-10.39757641370926
+[04:12:43] [Server thread/WARN]: MIKE moved too quickly! -3.045979446985257,-0.2247629905309907,-9.573302845974695
+[04:12:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
