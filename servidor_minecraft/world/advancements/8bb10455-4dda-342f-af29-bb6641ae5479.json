@@ -2307,5 +2307,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-03-28 18:02:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-03-28 18:10:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4082
 }
