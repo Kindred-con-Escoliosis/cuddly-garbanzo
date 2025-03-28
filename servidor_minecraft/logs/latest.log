@@ -1,180 +1,56 @@
-[03:03:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:03:31] [ServerMain/INFO]: Loaded 1337 recipes
-[03:03:31] [ServerMain/INFO]: Loaded 1448 advancements
-[03:03:31] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[03:03:31] [Server thread/INFO]: Loading properties
-[03:03:31] [Server thread/INFO]: Default game type: SURVIVAL
-[03:03:31] [Server thread/INFO]: Generating keypair
-[03:03:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:03:32] [Server thread/INFO]: Using epoll channel type
-[03:03:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:03:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:03:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:03:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:03:32] [Server thread/INFO]: Preparing level "world"
-[03:03:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:03:47] [Server thread/INFO]: Time elapsed: 14255 ms
-[03:03:47] [Server thread/INFO]: Done (15.032s)! For help, type "help"
-[03:04:09] [Server thread/INFO]: Hikejace[/100.119.199.16:57469] logged in with entity id 11 at (1379.3741058894616, 139.0, 378.20108269623046)
-[03:04:09] [Server thread/INFO]: Hikejace joined the game
-[03:04:21] [Server thread/INFO]: MIKE[/100.93.180.103:57455] logged in with entity id 223 at (80.51798559265066, 83.0, 330.7473063340019)
-[03:04:21] [Server thread/INFO]: MIKE joined the game
-[03:05:31] [Server thread/INFO]: [MIKE: Teleported MIKE to Hikejace]
-[03:12:43] [Server thread/INFO]: MIKE fell from a high place
-[03:13:03] [Server thread/INFO]: Hikejace has made the advancement [Sneak 100]
-[03:14:43] [Server thread/INFO]: Hikejace has made the advancement [Not Today, Thank You]
-[03:17:55] [Server thread/INFO]: Hikejace lost connection: Disconnected
-[03:17:55] [Server thread/INFO]: Hikejace left the game
-[03:18:52] [Server thread/INFO]: Hikejace[/100.119.199.16:57635] logged in with entity id 4609 at (1327.0898392476413, 50.76636799395752, 317.1386303931649)
-[03:18:52] [Server thread/INFO]: Hikejace joined the game
-[03:18:57] [Server thread/WARN]: Hikejace was kicked for floating too long!
-[03:18:57] [Server thread/INFO]: Hikejace lost connection: Flying is not enabled on this server
-[03:18:57] [Server thread/INFO]: Hikejace left the game
-[03:21:02] [Server thread/INFO]: Hikejace[/100.119.199.16:57688] logged in with entity id 5053 at (1327.0898392476413, 50.76636799395752, 317.1386303931649)
-[03:21:02] [Server thread/INFO]: Hikejace joined the game
-[03:21:08] [Server thread/INFO]: Hikejace lost connection: Disconnected
-[03:21:08] [Server thread/INFO]: Hikejace left the game
-[03:23:05] [Server thread/INFO]: MIKE has made the advancement [Sneak 100]
-[03:23:21] [Server thread/INFO]: Hikejace[/100.119.199.16:57761] logged in with entity id 5573 at (1327.0898392476413, 50.0, 317.1386303931649)
-[03:23:21] [Server thread/INFO]: Hikejace joined the game
-[03:23:27] [Server thread/INFO]: Hikejace lost connection: Disconnected
-[03:23:27] [Server thread/INFO]: Hikejace left the game
-[03:25:49] [Server thread/INFO]: Hikejace[/100.119.199.16:57875] logged in with entity id 6171 at (1327.0898392476413, 50.0, 317.1386303931649)
-[03:25:49] [Server thread/INFO]: Hikejace joined the game
-[03:25:54] [Server thread/INFO]: Hikejace lost connection: Disconnected
-[03:25:54] [Server thread/INFO]: Hikejace left the game
-[03:30:16] [Server thread/INFO]: Hikejace[/100.119.199.16:58076] logged in with entity id 7251 at (1327.0898392476413, 50.0, 317.1386303931649)
-[03:30:16] [Server thread/INFO]: Hikejace joined the game
-[03:30:21] [Server thread/INFO]: Hikejace lost connection: Disconnected
-[03:30:21] [Server thread/INFO]: Hikejace left the game
-[03:37:08] [Server thread/INFO]: Hikejace[/100.119.199.16:49954] logged in with entity id 8383 at (1327.0898392476413, 50.0, 317.1386303931649)
-[03:37:08] [Server thread/INFO]: Hikejace joined the game
-[03:37:14] [Server thread/INFO]: Hikejace lost connection: Disconnected
-[03:37:14] [Server thread/INFO]: Hikejace left the game
-[03:38:59] [Server thread/INFO]: Hikejace[/100.119.199.16:50005] logged in with entity id 8723 at (1327.0898392476413, 50.0, 317.1386303931649)
-[03:38:59] [Server thread/INFO]: Hikejace joined the game
-[03:39:05] [Server thread/INFO]: Hikejace lost connection: Disconnected
-[03:39:05] [Server thread/INFO]: Hikejace left the game
-[03:41:18] [Server thread/INFO]: MIKE has completed the challenge [It Spreads]
-[03:44:57] [Server thread/INFO]: Hikejace[/100.119.199.16:50407] logged in with entity id 9877 at (1327.0898392476413, 50.0, 317.1386303931649)
-[03:44:58] [Server thread/INFO]: Hikejace joined the game
-[03:45:05] [Server thread/INFO]: [MIKE: Teleported MIKE to MIKE]
-[03:45:16] [Server thread/INFO]: [MIKE: Teleported MIKE to Hikejace]
-[04:02:24] [Server thread/INFO]: [Not Secure] <MIKE> 1371 134 393
-[04:02:38] [Server thread/INFO]: [MIKE: Teleported MIKE to Hikejace]
-[04:04:37] [Server thread/INFO]: MIKE has made the advancement [Best Friends Forever]
-[04:04:53] [Server thread/INFO]: Hikejace has made the advancement [Ice Bucket Challenge]
-[04:11:21] [Server thread/WARN]: Hikejace moved too quickly! 10.071817415567693,-1.3693736602695026,0.9674098615332838
-[04:11:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3222ms or 64 ticks behind
-[04:11:57] [Server thread/WARN]: Hikejace moved too quickly! 7.457750804704119,3.252203340253729,-6.2727243244682995
-[04:11:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2268ms or 45 ticks behind
-[04:12:43] [Server thread/WARN]: Hikejace moved too quickly! 0.4931279707552676,-0.604424101326714,-10.39757641370926
-[04:12:43] [Server thread/WARN]: MIKE moved too quickly! -3.045979446985257,-0.2247629905309907,-9.573302845974695
-[04:12:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[04:18:13] [Server thread/WARN]: Hikejace moved too quickly! 4.403397350543855,-9.623229159753834,-2.079228197840166
-[04:19:48] [Server thread/WARN]: MIKE moved too quickly! -0.3590119983907698,0.20000004768371582,10.456451325937905
-[04:20:50] [Server thread/INFO]: MIKE lost connection: Disconnected
-[04:20:50] [Server thread/INFO]: MIKE left the game
-[04:30:00] [Server thread/INFO]: MIKE[/100.93.180.103:57868] logged in with entity id 34393 at (1521.520048438048, 70.0, 1867.3241406842342)
-[04:30:00] [Server thread/INFO]: MIKE joined the game
-[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 6.659874111663157,0.0,7.987135104470326
-[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 6.9160245641196525,0.0,8.294334345256857
-[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 7.172175048276586,0.0,8.601533624062313
-[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 7.4283255609643675,0.0,8.908732937084551
-[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 7.684476099329913,0.0,9.215932280902052
-[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 7.940626660805719,0.0,9.523131652435268
-[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 8.19677724308076,0.0,9.830331048912512
-[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 8.45292784407502,0.0,10.137530467839497
-[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 8.709078461915851,0.0,10.444729906971133
-[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 8.965229094919778,0.0,10.75192936428698
-[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 9.221379741569763,0.0,11.059128837968728
-[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 9.477530400501564,0.0,11.366328326379744
-[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 9.733681070486455,0.0,11.6735278280471
-[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 9.989831750419398,0.0,11.980727341645206
-[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 10.245982439305408,0.0,12.287926865980808
-[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 10.50213313624954,0.0,12.595126399980245
-[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 10.758283840445984,0.0,12.90232594267718
-[04:30:02] [Server thread/WARN]: Spruce Boat (vehicle of Hikejace) moved too quickly! 11.01443455116896,0.0,13.209525493201909
-[04:30:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2091ms or 41 ticks behind
-[04:30:23] [Server thread/INFO]: [Not Secure] <Hikejace> 1371 134 393
-[04:30:35] [Server thread/INFO]: [MIKE: Teleported MIKE to 1371.500000, 134.000000, 393.500000]
-[04:32:46] [Server thread/INFO]: [MIKE: Teleported MIKE to Hikejace]
-[04:35:54] [Server thread/INFO]: Gato_brujo[/100.95.29.45:57698] logged in with entity id 36669 at (107.5, 64.0, -5.5)
-[04:35:54] [Server thread/INFO]: Gato_brujo joined the game
-[04:36:16] [Server thread/INFO]: [MIKE: Teleported MIKE to 137.500000, 134.000000, 923.500000]
-[04:36:19] [Server thread/WARN]: MIKE moved too quickly! 0.0,-10.806526110008974,0.0
-[04:36:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3264ms or 65 ticks behind
-[04:36:22] [Server thread/INFO]: MIKE fell from a high place
-[04:36:51] [Server thread/INFO]: [MIKE: Teleported MIKE to 1371.500000, 134.000000, 923.500000]
-[04:37:12] [Server thread/INFO]: [MIKE: Teleported MIKE to 1371.500000, 134.000000, 393.500000]
-[04:37:23] [Server thread/INFO]: [MIKE: Teleported Gato_brujo to MIKE]
-[04:37:26] [Server thread/INFO]: Hikejace has made the advancement [Best Friends Forever]
-[04:37:41] [Server thread/INFO]: [MIKE: Teleported MIKE to 137.500000, 34.000000, 923.500000]
-[04:37:46] [Server thread/INFO]: [MIKE: Teleported MIKE to 137.500000, 60.000000, 923.500000]
-[04:37:54] [Server thread/INFO]: [MIKE: Teleported MIKE to 137.500000, 70.000000, 923.500000]
-[04:38:23] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[04:38:54] [Server thread/INFO]: Gato_brujo has made the advancement [Suit Up]
-[04:39:12] [Server thread/INFO]: Gato_brujo has made the advancement [Isn't It Iron Pick]
-[04:39:23] [Server thread/INFO]: Gato_brujo has made the advancement [Sweet Dreams]
-[04:40:38] [Server thread/INFO]: Villager cpj['Villager'/39981, l='ServerLevel[world]', x=5538.70, y=71.56, z=-2183.40] died, message: 'Villager was slain by Zombie'
-[04:41:22] [Server thread/INFO]: Gato_brujo has made the advancement [Not Today, Thank You]
-[04:41:28] [Server thread/INFO]: Gato_brujo has made the advancement [Monster Hunter]
-[04:41:50] [Server thread/INFO]: [Hikejace: Teleported Hikejace to MIKE]
-[04:42:35] [Server thread/INFO]: Hikejace lost connection: Disconnected
-[04:42:35] [Server thread/INFO]: Hikejace left the game
-[04:49:43] [Server thread/INFO]: Gato_brujo has made the advancement [Stone Age]
-[04:54:21] [Server thread/INFO]: Gato_brujo has made the advancement [Acquire Hardware]
-[05:07:02] [Server thread/INFO]: [Not Secure] <MIKE> 1346 118 605
-[05:07:12] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[05:09:14] [Server thread/INFO]: MIKE has made the advancement [Hot Stuff]
-[05:09:57] [Server thread/INFO]: [MIKE: Teleported MIKE to 1346.500000, 118.000000, 605.500000]
-[05:14:19] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[05:15:18] [Server thread/INFO]: [MIKE: Teleported MIKE to 1346.500000, 118.000000, 605.500000]
-[05:32:15] [Server thread/INFO]: Gato_brujo has made the advancement [Getting an Upgrade]
-[05:47:14] [Server thread/INFO]: Gato_brujo has made the advancement [Diamonds!]
-[05:50:34] [Server thread/INFO]: [MIKE: Teleported Gato_brujo to MIKE]
-[05:55:22] [Server thread/INFO]: MIKE lost connection: Disconnected
-[05:55:22] [Server thread/INFO]: MIKE left the game
-[05:55:26] [Server thread/INFO]: Gato_brujo lost connection: Disconnected
-[05:55:26] [Server thread/INFO]: Gato_brujo left the game
-[05:56:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[05:57:36] [Server thread/INFO]: Stopping the server
-[05:57:36] [Server thread/INFO]: Stopping server
-[05:57:36] [Server thread/INFO]: Saving players
-[05:57:36] [Server thread/INFO]: Saving worlds
-[05:57:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:57:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[05:57:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[05:57:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:57:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:57:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:57:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:55:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:56:04] [ServerMain/INFO]: Loaded 1337 recipes
+[17:56:04] [ServerMain/INFO]: Loaded 1448 advancements
+[17:56:04] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[17:56:04] [Server thread/INFO]: Loading properties
+[17:56:04] [Server thread/INFO]: Default game type: SURVIVAL
+[17:56:04] [Server thread/INFO]: Generating keypair
+[17:56:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:56:04] [Server thread/INFO]: Using epoll channel type
+[17:56:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:56:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:56:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:56:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:56:04] [Server thread/INFO]: Preparing level "world"
+[17:56:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:56:22] [Worker-Main-1/INFO]: Preparing spawn area: 28%
+[17:56:23] [Worker-Main-1/INFO]: Preparing spawn area: 67%
+[17:56:23] [Server thread/INFO]: Time elapsed: 17338 ms
+[17:56:23] [Server thread/INFO]: Done (18.389s)! For help, type "help"
+[17:56:35] [Server thread/INFO]: MIKE[/100.93.180.103:51044] logged in with entity id 8 at (1342.657352555415, 121.0, 648.4231124815415)
+[17:56:35] [Server thread/INFO]: MIKE joined the game
+[17:56:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2216ms or 44 ticks behind
+[17:57:00] [Server thread/INFO]: Villager cpj['Farmer'/34, l='ServerLevel[world]', x=1343.73, y=120.00, z=644.54] died, message: 'Farmer was slain by Zombie'
