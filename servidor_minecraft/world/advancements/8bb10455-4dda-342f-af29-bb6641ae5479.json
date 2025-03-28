@@ -15,6 +15,7 @@
       "minecraft:river": "2025-03-26 03:13:18 +0000",
       "minecraft:dripstone_caves": "2025-03-26 03:26:24 +0000",
       "minecraft:frozen_peaks": "2025-03-28 03:16:10 +0000",
+      "minecraft:deep_dark": "2025-03-28 03:22:13 +0000",
       "minecraft:cherry_grove": "2025-03-26 04:16:01 +0000",
       "minecraft:sunflower_plains": "2025-03-26 04:17:15 +0000",
       "minecraft:meadow": "2025-03-26 03:15:32 +0000",
@@ -629,6 +630,7 @@
       "minecraft:magma_cube": "2025-03-26 04:24:35 +0000",
       "minecraft:spider": "2025-03-26 03:56:58 +0000",
       "minecraft:zombie": "2025-03-26 03:36:19 +0000",
+      "minecraft:creeper": "2025-03-28 03:20:25 +0000",
       "minecraft:ghast": "2025-03-26 04:52:47 +0000",
       "minecraft:hoglin": "2025-03-26 04:46:56 +0000"
     },
@@ -1854,9 +1856,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-03-28 03:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-03-28 03:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-03-28 03:19:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-28 03:19:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-03-28 03:19:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-28 03:19:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-28 03:19:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-03-28 03:19:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-03-28 03:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-28 03:19:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-03-28 03:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-28 03:19:48 +0000"
     },
     "done": true
   },
@@ -1866,9 +1934,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-03-28 03:19:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-28 03:19:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-03-28 03:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-03-28 03:19:51 +0000"
     },
     "done": true
   },
