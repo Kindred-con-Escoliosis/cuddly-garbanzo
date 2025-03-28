@@ -166,3 +166,15 @@
 [05:55:22] [Server thread/INFO]: MIKE left the game
 [05:55:26] [Server thread/INFO]: Gato_brujo lost connection: Disconnected
 [05:55:26] [Server thread/INFO]: Gato_brujo left the game
+[05:56:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[05:57:36] [Server thread/INFO]: Stopping the server
+[05:57:36] [Server thread/INFO]: Stopping server
+[05:57:36] [Server thread/INFO]: Saving players
+[05:57:36] [Server thread/INFO]: Saving worlds
+[05:57:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:57:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:57:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:57:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:57:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:57:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:57:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
