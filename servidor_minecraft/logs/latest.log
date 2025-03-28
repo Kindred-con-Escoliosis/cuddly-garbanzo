@@ -128,3 +128,26 @@
 [04:30:23] [Server thread/INFO]: [Not Secure] <Hikejace> 1371 134 393
 [04:30:35] [Server thread/INFO]: [MIKE: Teleported MIKE to 1371.500000, 134.000000, 393.500000]
 [04:32:46] [Server thread/INFO]: [MIKE: Teleported MIKE to Hikejace]
+[04:35:54] [Server thread/INFO]: Gato_brujo[/100.95.29.45:57698] logged in with entity id 36669 at (107.5, 64.0, -5.5)
+[04:35:54] [Server thread/INFO]: Gato_brujo joined the game
+[04:36:16] [Server thread/INFO]: [MIKE: Teleported MIKE to 137.500000, 134.000000, 923.500000]
+[04:36:19] [Server thread/WARN]: MIKE moved too quickly! 0.0,-10.806526110008974,0.0
+[04:36:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3264ms or 65 ticks behind
+[04:36:22] [Server thread/INFO]: MIKE fell from a high place
+[04:36:51] [Server thread/INFO]: [MIKE: Teleported MIKE to 1371.500000, 134.000000, 923.500000]
+[04:37:12] [Server thread/INFO]: [MIKE: Teleported MIKE to 1371.500000, 134.000000, 393.500000]
+[04:37:23] [Server thread/INFO]: [MIKE: Teleported Gato_brujo to MIKE]
+[04:37:26] [Server thread/INFO]: Hikejace has made the advancement [Best Friends Forever]
+[04:37:41] [Server thread/INFO]: [MIKE: Teleported MIKE to 137.500000, 34.000000, 923.500000]
+[04:37:46] [Server thread/INFO]: [MIKE: Teleported MIKE to 137.500000, 60.000000, 923.500000]
+[04:37:54] [Server thread/INFO]: [MIKE: Teleported MIKE to 137.500000, 70.000000, 923.500000]
+[04:38:23] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
+[04:38:54] [Server thread/INFO]: Gato_brujo has made the advancement [Suit Up]
+[04:39:12] [Server thread/INFO]: Gato_brujo has made the advancement [Isn't It Iron Pick]
+[04:39:23] [Server thread/INFO]: Gato_brujo has made the advancement [Sweet Dreams]
+[04:40:38] [Server thread/INFO]: Villager cpj['Villager'/39981, l='ServerLevel[world]', x=5538.70, y=71.56, z=-2183.40] died, message: 'Villager was slain by Zombie'
+[04:41:22] [Server thread/INFO]: Gato_brujo has made the advancement [Not Today, Thank You]
+[04:41:28] [Server thread/INFO]: Gato_brujo has made the advancement [Monster Hunter]
+[04:41:50] [Server thread/INFO]: [Hikejace: Teleported Hikejace to MIKE]
+[04:42:35] [Server thread/INFO]: Hikejace lost connection: Disconnected
+[04:42:35] [Server thread/INFO]: Hikejace left the game
