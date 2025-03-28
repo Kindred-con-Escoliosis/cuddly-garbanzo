@@ -100,3 +100,7 @@
 [04:12:43] [Server thread/WARN]: Hikejace moved too quickly! 0.4931279707552676,-0.604424101326714,-10.39757641370926
 [04:12:43] [Server thread/WARN]: MIKE moved too quickly! -3.045979446985257,-0.2247629905309907,-9.573302845974695
 [04:12:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[04:18:13] [Server thread/WARN]: Hikejace moved too quickly! 4.403397350543855,-9.623229159753834,-2.079228197840166
+[04:19:48] [Server thread/WARN]: MIKE moved too quickly! -0.3590119983907698,0.20000004768371582,10.456451325937905
+[04:20:50] [Server thread/INFO]: MIKE lost connection: Disconnected
+[04:20:50] [Server thread/INFO]: MIKE left the game

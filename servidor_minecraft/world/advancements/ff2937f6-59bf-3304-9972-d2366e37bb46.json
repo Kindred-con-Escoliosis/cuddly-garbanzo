@@ -13,10 +13,12 @@
       "minecraft:old_growth_pine_taiga": "2025-03-26 03:17:57 +0000",
       "minecraft:forest": "2025-03-26 03:26:01 +0000",
       "minecraft:taiga": "2025-03-26 03:18:48 +0000",
+      "minecraft:deep_ocean": "2025-03-28 04:20:50 +0000",
       "minecraft:river": "2025-03-26 03:17:52 +0000",
       "minecraft:dripstone_caves": "2025-03-26 03:28:52 +0000",
       "minecraft:frozen_peaks": "2025-03-26 04:08:58 +0000",
       "minecraft:deep_dark": "2025-03-28 03:10:59 +0000",
+      "minecraft:ocean": "2025-03-28 04:20:27 +0000",
       "minecraft:cherry_grove": "2025-03-26 03:57:15 +0000",
       "minecraft:sunflower_plains": "2025-03-26 03:57:03 +0000",
       "minecraft:grove": "2025-03-28 04:02:24 +0000",
@@ -1189,6 +1191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-28 04:20:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-03-28 03:50:31 +0000"
@@ -1213,6 +1221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-03-28 04:20:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-03-28 03:50:31 +0000"
@@ -1231,9 +1245,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-28 04:22:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-03-28 03:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-28 04:20:13 +0000"
     },
     "done": true
   },
@@ -1249,6 +1275,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-28 04:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-28 04:20:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-03-28 03:50:31 +0000"
@@ -1258,6 +1296,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-03-28 04:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-28 04:20:13 +0000"
     },
     "done": true
   },
@@ -1279,9 +1323,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-28 04:20:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-03-28 04:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-28 04:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-28 04:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-28 04:22:29 +0000"
     },
     "done": true
   },
