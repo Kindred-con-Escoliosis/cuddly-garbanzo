@@ -57,3 +57,6 @@
 [18:10:59] [Server thread/INFO]: MIKE has made the advancement [What a Deal!]
 [18:21:50] [Server thread/INFO]: [MIKE: Set the time to 1000]
 [18:38:03] [Server thread/INFO]: [Not Secure] <MIKE> 1350 121 640
+[18:57:11] [Server thread/INFO]: MIKE lost connection: Disconnected
+[18:57:11] [Server thread/INFO]: MIKE left the game
+[18:58:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
