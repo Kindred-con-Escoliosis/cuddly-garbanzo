@@ -2313,6 +2313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-03-28 18:51:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_yellow_wool": "2025-03-28 18:23:50 +0000"
