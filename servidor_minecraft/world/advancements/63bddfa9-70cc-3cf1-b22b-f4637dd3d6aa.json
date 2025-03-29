@@ -621,6 +621,7 @@
     "criteria": {
       "minecraft:cave_spider": "2025-03-26 03:41:41 +0000",
       "minecraft:skeleton": "2025-03-29 02:40:39 +0000",
+      "minecraft:magma_cube": "2025-03-29 03:21:15 +0000",
       "minecraft:spider": "2025-03-26 03:25:16 +0000"
     },
     "done": false
@@ -1617,6 +1618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-29 03:25:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-03-29 03:07:08 +0000"
@@ -1644,6 +1651,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2025-03-29 03:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-29 03:25:56 +0000"
     },
     "done": true
   },
