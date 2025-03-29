@@ -1,181 +1,47 @@
-[00:58:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:58:52] [ServerMain/INFO]: Loaded 1337 recipes
-[00:58:52] [ServerMain/INFO]: Loaded 1448 advancements
-[00:58:52] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[00:58:52] [Server thread/INFO]: Loading properties
-[00:58:52] [Server thread/INFO]: Default game type: SURVIVAL
-[00:58:52] [Server thread/INFO]: Generating keypair
-[00:58:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:58:52] [Server thread/INFO]: Using epoll channel type
-[00:58:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:58:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:58:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:58:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:58:53] [Server thread/INFO]: Preparing level "world"
-[00:58:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:07] [Server thread/INFO]: Time elapsed: 13989 ms
-[00:59:07] [Server thread/INFO]: Done (14.745s)! For help, type "help"
-[01:00:07] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[01:00:20] [Server thread/INFO]: MIKE[/100.93.180.103:50116] logged in with entity id 8 at (1635.903729970209, 13.0, 687.7640731119048)
-[01:00:20] [Server thread/INFO]: MIKE joined the game
-[01:00:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
-[01:05:13] [Server thread/INFO]: MIKE lost connection: Disconnected
-[01:05:13] [Server thread/INFO]: MIKE left the game
-[01:06:13] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[01:06:14] [Server thread/INFO]: MIKE[/100.93.180.103:50197] logged in with entity id 1116 at (1590.5909478836884, 57.0, 687.4572746083165)
-[01:06:14] [Server thread/INFO]: MIKE joined the game
-[01:11:38] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:45459] logged in with entity id 2796 at (86.35750865389726, 83.0, 348.30950735228316)
-[01:11:38] [Server thread/INFO]: Aesthetikkkk joined the game
-[01:11:48] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[01:11:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4869ms or 97 ticks behind
-[01:12:14] [Server thread/INFO]: [Not Secure] <MIKE> vamos al vc del ds?
-[01:12:28] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> no puedo
-[01:12:32] [Server thread/INFO]: [Not Secure] <MIKE> ok
-[01:12:33] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> el net esta remalo
-[01:12:48] [Server thread/INFO]: [Not Secure] <MIKE> yo voy a prepararme y voy al nether con todo y armadura
-[01:13:42] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> el net esta remalo
-[01:13:45] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[01:14:40] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> este es el de aternos?
-[01:14:45] [Server thread/INFO]: [Not Secure] <MIKE> no
-[01:14:54] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
-[01:15:46] [Server thread/INFO]: MIKE has made the advancement [Cover Me with Diamonds]
-[01:16:30] [Server thread/INFO]: [Not Secure] <MIKE> todos los aldeanos se habian ido al nether jaja
-[01:16:34] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> JKAGAG
-[01:18:57] [Server thread/INFO]: Aesthetikkkk tried to swim in lava to escape Magma Cube
-[01:19:02] [Server thread/INFO]: [Not Secure] <MIKE> increible
-[01:19:09] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> se me peto
-[01:19:12] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> y apareci muerto
-[01:19:14] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> jkagjgak
-[01:19:23] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[01:19:33] [Server thread/INFO]: [Not Secure] <MIKE> ya tenemos el aldeano para las armaduras al full
-[01:20:11] [Server thread/INFO]: Aesthetikkkk was burned to a crisp while fighting Magma Cube
-[01:20:16] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[01:20:48] [Server thread/INFO]: Aesthetikkkk tried to swim in lava
-[01:20:54] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[01:20:59] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> SE ME PETA EL NETHER
-[01:22:36] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[01:22:40] [Server thread/INFO]: Aesthetikkkk lost connection: Disconnected
-[01:22:40] [Server thread/INFO]: Aesthetikkkk left the game
-[01:35:29] [Server thread/INFO]: [Not Secure] <MIKE> 168 81 79
-[01:36:11] [Server thread/INFO]: MIKE has made the advancement [Take Aim]
-[01:41:03] [Server thread/INFO]: Locating element minecraft:fortress took 11 ms
-[01:42:16] [Server thread/INFO]: [MIKE: Teleported MIKE to 168.500000, 81.000000, 79.500000]
-[01:45:23] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[01:45:49] [Server thread/INFO]: [MIKE: Teleported MIKE to -207.500000, 54.000000, -783.500000]
-[01:45:55] [Server thread/INFO]: MIKE has made the advancement [A Terrible Fortress]
-[01:46:35] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[01:55:10] [Server thread/INFO]: MIKE has made the advancement [Into Fire]
-[02:13:55] [Server thread/INFO]: Lcdo_Patino[/100.106.19.60:62006] logged in with entity id 13602 at (170.69999998807907, 65.0, -33.69999998807907)
-[02:13:55] [Server thread/INFO]: Lcdo_Patino joined the game
-[02:14:02] [Server thread/INFO]: [Not Secure] <Lcdo_Patino> hi
-[02:14:04] [Server thread/INFO]: SadduranGT[/100.90.231.18:54576] logged in with entity id 13814 at (1365.6938779194872, 138.0, 388.77102645447326)
-[02:14:04] [Server thread/INFO]: SadduranGT joined the game
-[02:14:05] [Server thread/INFO]: [Not Secure] <MIKE> hola
-[02:14:10] [Server thread/INFO]: [Not Secure] <MIKE> entro al vc?
-[02:14:15] [Server thread/INFO]: Lcdo_Patino has made the advancement [We Need to Go Deeper]
-[02:14:15] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to MIKE]
-[02:14:30] [Server thread/INFO]: MIKE has made the advancement [Oh Shiny]
-[02:15:21] [Server thread/INFO]: [Not Secure] <MIKE> 168 81 79
-[02:15:42] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to 168.500000, 81.000000, 79.500000]
-[02:18:38] [Server thread/INFO]: Lcdo_Patino has made the advancement [What a Deal!]
-[02:19:29] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to MIKE]
-[02:19:36] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to SadduranGT]
-[02:20:56] [Server thread/INFO]: [Lcdo_Patino: The difficulty has been set to Hard]
-[02:22:26] [Server thread/INFO]: Lcdo_Patino has made the advancement [A Seedy Place]
-[02:22:33] [Server thread/INFO]: [MIKE: Teleported MIKE to -207.500000, 62.000000, -783.500000]
-[02:26:28] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[02:27:06] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[02:30:41] [Server thread/INFO]: Lcdo_Patino has made the advancement [Hot Stuff]
-[02:31:09] [Server thread/INFO]: [MIKE: Teleported MIKE to Lcdo_Patino]
-[02:34:42] [Server thread/INFO]: [Lcdo_Patino: Teleported SadduranGT to Lcdo_Patino]
-[02:37:52] [Server thread/INFO]: Locating element minecraft:stronghold took 38 ms
-[02:42:24] [Server thread/INFO]: Lcdo_Patino was blown up by Creeper
-[02:42:27] [Server thread/INFO]: Lcdo_Patino lost connection: Timed out
-[02:42:27] [Server thread/INFO]: Lcdo_Patino left the game
-[02:42:27] [Server thread/WARN]: handleDisconnection() called twice
-[02:42:30] [Server thread/INFO]: SadduranGT lost connection: You logged in from another location
-[02:42:30] [Server thread/INFO]: SadduranGT left the game
-[02:42:30] [Server thread/INFO]: Lcdo_Patino[/100.106.19.60:62350] logged in with entity id 25083 at (1277.016630446994, 124.0, 618.6489033628095)
-[02:42:31] [Server thread/INFO]: Lcdo_Patino joined the game
-[02:42:31] [Server thread/WARN]: handleDisconnection() called twice
-[02:42:31] [Server thread/INFO]: SadduranGT[/100.90.231.18:54750] logged in with entity id 25088 at (1338.300000011921, 118.0, 586.6312658142724)
-[02:42:31] [Server thread/INFO]: SadduranGT joined the game
-[02:46:43] [Server thread/INFO]: [MIKE: Teleported MIKE to Lcdo_Patino]
-[02:48:22] [Server thread/INFO]: [MIKE: Teleported MIKE to Lcdo_Patino]
-[02:54:03] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to SadduranGT]
-[02:56:24] [Server thread/INFO]: MIKE has made the advancement [Eye Spy]
-[02:57:45] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to MIKE]
-[02:57:45] [Server thread/INFO]: Lcdo_Patino has made the advancement [Eye Spy]
-[02:59:54] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to SadduranGT]
-[03:00:58] [Server thread/INFO]: Lcdo_Patino has made the advancement [Cover Me with Diamonds]
-[03:01:15] [Server thread/INFO]: SadduranGT has made the advancement [What a Deal!]
-[03:02:36] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[03:03:26] [Server thread/INFO]: Lcdo_Patino has made the advancement [Sneak 100]
-[03:03:37] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[03:04:22] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to SadduranGT]
-[03:04:52] [Server thread/INFO]: [Not Secure] <Lcdo_Patino> zzz
-[03:07:10] [Server thread/INFO]: MIKE has made the advancement [The End?]
-[03:07:12] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[03:07:12] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[03:07:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2705ms or 54 ticks behind
-[03:14:13] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=379, y=16, z=105} jh{x=376, y=17, z=106}
-[03:14:35] [Server thread/INFO]: SadduranGT lost connection: Disconnected
-[03:14:35] [Server thread/INFO]: SadduranGT left the game
-[03:16:03] [Server thread/INFO]: Lcdo_Patino has made the advancement [Hidden in the Depths]
-[03:17:01] [Server thread/INFO]: MIKE has made the advancement [Free the End]
-[03:20:01] [Server thread/INFO]: MIKE has made the advancement [Remote Getaway]
-[03:20:22] [Server thread/INFO]: Locating element minecraft:end_city took 52 ms
-[03:20:36] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[03:20:38] [Server thread/INFO]: [MIKE: Teleported MIKE to 768.500000, 64.000000, -1519.500000]
-[03:20:50] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[03:20:58] [Server thread/INFO]: MIKE has made the advancement [The City at the End of the Game]
-[03:25:37] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
-[03:25:54] [Server thread/INFO]: MIKE has completed the challenge [Great View From Up Here]
-[03:26:10] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
-[03:26:11] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
-[03:27:02] [Server thread/INFO]: [MIKE: Teleported MIKE to Lcdo_Patino]
-[03:28:22] [Server thread/INFO]: [MIKE: Teleported MIKE to 168.500000, 81.000000, 79.500000]
-[03:30:47] [Server thread/INFO]: Lcdo_Patino lost connection: Disconnected
-[03:30:47] [Server thread/INFO]: Lcdo_Patino left the game
-[03:33:36] [Server thread/INFO]: MIKE has made the advancement [Local Brewery]
-[03:34:56] [Server thread/INFO]: MIKE lost connection: Disconnected
-[03:34:56] [Server thread/INFO]: MIKE left the game
-[03:35:12] [Server thread/INFO]: Stopping the server
-[03:35:12] [Server thread/INFO]: Stopping server
-[03:35:12] [Server thread/INFO]: Saving players
-[03:35:12] [Server thread/INFO]: Saving worlds
-[03:35:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:35:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03:35:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03:35:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:35:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:35:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:35:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:46:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:46:41] [ServerMain/INFO]: Loaded 1337 recipes
+[19:46:41] [ServerMain/INFO]: Loaded 1448 advancements
+[19:46:42] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[19:46:42] [Server thread/INFO]: Loading properties
+[19:46:42] [Server thread/INFO]: Default game type: SURVIVAL
+[19:46:42] [Server thread/INFO]: Generating keypair
+[19:46:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:46:43] [Server thread/INFO]: Using epoll channel type
+[19:46:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:46:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:46:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:46:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:46:43] [Server thread/INFO]: Preparing level "world"
+[19:46:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:46:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:46:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:46:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:46:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:46:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:46:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:46:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:46:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:46:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:46:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:46:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:46:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:46:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:46:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:46:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:46:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:46:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:46:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:46:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:46:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:46:54] [Worker-Main-1/INFO]: Preparing spawn area: 24%
+[19:46:54] [Server thread/INFO]: Time elapsed: 10753 ms
+[19:46:54] [Server thread/INFO]: Done (11.709s)! For help, type "help"
+[19:47:45] [Server thread/INFO]: MIKE[/100.93.180.103:58443] logged in with entity id 41 at (1349.2952917350851, 122.0, 633.0741106525194)
+[19:47:45] [Server thread/INFO]: MIKE joined the game
+[20:02:37] [Server thread/INFO]: Locating element minecraft:stronghold took 18 ms
+[20:04:06] [Server thread/INFO]: [MIKE: Teleported MIKE to 1323.500000, 119.000000, 631.500000]
+[20:04:40] [Server thread/INFO]: Locating element minecraft:fortress took 132 ms
+[20:04:48] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
+[20:04:52] [Server thread/INFO]: [MIKE: Teleported MIKE to 96.500000, 81.000000, 624.500000]
+[20:05:27] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
+[20:12:15] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
