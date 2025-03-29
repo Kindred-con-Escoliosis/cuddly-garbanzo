@@ -72,3 +72,13 @@
 [21:11:05] [Server thread/INFO]: [MIKE: Teleported MIKE to 80.500000, 67.000000, -1247.500000]
 [21:11:09] [Server thread/INFO]: [MIKE: Teleported MIKE to 80.500000, 58.000000, -1247.500000]
 [21:22:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=513, y=18, z=209} jh{x=511, y=17, z=204}
+[21:28:20] [Server thread/INFO]: MIKE has reached the goal [Sky's the Limit]
+[21:32:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=567, y=16, z=265} jh{x=565, y=17, z=265}
+[21:32:40] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=564, y=15, z=276} jh{x=562, y=17, z=276}
+[21:33:40] [Server thread/WARN]: MIKE moved too quickly! 5.920069972235979,-85.0922381927763,-7.25588510150169
+[21:36:05] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=561, y=17, z=340} jh{x=563, y=17, z=346}
+[21:36:05] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=561, y=17, z=340} jh{x=563, y=17, z=346}
+[21:36:06] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=561, y=17, z=340} jh{x=563, y=17, z=346}
+[21:36:06] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=561, y=17, z=340} jh{x=563, y=17, z=346}
+[21:38:38] [Server thread/INFO]: [Lcdo_Patino: Set own game mode to Spectator Mode]
+[21:39:58] [Server thread/INFO]: [Lcdo_Patino: Set own game mode to Survival Mode]
