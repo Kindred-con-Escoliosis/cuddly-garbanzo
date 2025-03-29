@@ -634,17 +634,18 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-03-29 01:53:10 +0000",
-      "minecraft:cave_spider": "2025-03-26 03:38:32 +0000",
       "minecraft:skeleton": "2025-03-26 03:54:25 +0000",
+      "minecraft:wither_skeleton": "2025-03-29 01:48:34 +0000",
+      "minecraft:ghast": "2025-03-26 04:52:47 +0000",
+      "minecraft:hoglin": "2025-03-26 04:46:56 +0000",
+      "minecraft:cave_spider": "2025-03-26 03:38:32 +0000",
+      "minecraft:piglin": "2025-03-29 02:15:09 +0000",
       "minecraft:enderman": "2025-03-28 05:40:39 +0000",
       "minecraft:magma_cube": "2025-03-26 04:24:35 +0000",
       "minecraft:spider": "2025-03-26 03:56:58 +0000",
-      "minecraft:wither_skeleton": "2025-03-29 01:48:34 +0000",
       "minecraft:zombie": "2025-03-26 03:36:19 +0000",
       "minecraft:creeper": "2025-03-28 03:20:25 +0000",
-      "minecraft:drowned": "2025-03-28 04:32:49 +0000",
-      "minecraft:ghast": "2025-03-26 04:52:47 +0000",
-      "minecraft:hoglin": "2025-03-26 04:46:56 +0000"
+      "minecraft:drowned": "2025-03-28 04:32:49 +0000"
     },
     "done": false
   },
@@ -2366,6 +2367,12 @@
     },
     "done": true
   },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-03-29 02:14:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-03-29 01:09:00 +0000"
@@ -2501,6 +2508,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-03-29 01:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-29 02:12:55 +0000"
     },
     "done": true
   },
