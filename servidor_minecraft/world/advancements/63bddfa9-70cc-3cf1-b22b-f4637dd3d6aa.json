@@ -14,9 +14,11 @@
       "minecraft:forest": "2025-03-26 03:36:29 +0000",
       "minecraft:taiga": "2025-03-26 03:14:25 +0000",
       "minecraft:river": "2025-03-26 03:13:33 +0000",
+      "minecraft:dripstone_caves": "2025-03-26 03:27:09 +0000",
+      "minecraft:deep_dark": "2025-03-29 03:03:09 +0000",
+      "minecraft:jungle": "2025-03-29 02:57:45 +0000",
       "minecraft:meadow": "2025-03-26 03:15:39 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-26 03:07:44 +0000",
-      "minecraft:dripstone_caves": "2025-03-26 03:27:09 +0000",
       "minecraft:plains": "2025-03-29 02:15:49 +0000"
     },
     "done": false
@@ -1549,6 +1551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-29 02:57:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-03-29 02:53:33 +0000"
@@ -1558,6 +1566,42 @@
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-03-29 02:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-03-29 03:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-03-29 03:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-03-29 02:57:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-03-29 02:57:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-29 02:57:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-03-29 02:57:45 +0000"
     },
     "done": true
   },
