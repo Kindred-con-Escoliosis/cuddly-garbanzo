@@ -325,7 +325,8 @@
       "cooked_mutton": "2025-03-26 03:41:50 +0000",
       "cooked_cod": "2025-03-26 04:37:58 +0000",
       "sweet_berries": "2025-03-26 03:13:56 +0000",
-      "cooked_beef": "2025-03-29 01:03:28 +0000"
+      "cooked_beef": "2025-03-29 01:03:28 +0000",
+      "pumpkin_pie": "2025-03-29 01:43:13 +0000"
     },
     "done": false
   },
@@ -2407,6 +2408,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-03-29 01:09:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-03-29 01:45:55 +0000"
     },
     "done": true
   },

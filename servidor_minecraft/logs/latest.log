@@ -86,3 +86,9 @@
 [01:22:40] [Server thread/INFO]: Aesthetikkkk left the game
 [01:35:29] [Server thread/INFO]: [Not Secure] <MIKE> 168 81 79
 [01:36:11] [Server thread/INFO]: MIKE has made the advancement [Take Aim]
+[01:41:03] [Server thread/INFO]: Locating element minecraft:fortress took 11 ms
+[01:42:16] [Server thread/INFO]: [MIKE: Teleported MIKE to 168.500000, 81.000000, 79.500000]
+[01:45:23] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
+[01:45:49] [Server thread/INFO]: [MIKE: Teleported MIKE to -207.500000, 54.000000, -783.500000]
+[01:45:55] [Server thread/INFO]: MIKE has made the advancement [A Terrible Fortress]
+[01:46:35] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
