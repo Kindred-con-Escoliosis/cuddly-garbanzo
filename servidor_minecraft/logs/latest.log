@@ -165,3 +165,17 @@
 [03:28:22] [Server thread/INFO]: [MIKE: Teleported MIKE to 168.500000, 81.000000, 79.500000]
 [03:30:47] [Server thread/INFO]: Lcdo_Patino lost connection: Disconnected
 [03:30:47] [Server thread/INFO]: Lcdo_Patino left the game
+[03:33:36] [Server thread/INFO]: MIKE has made the advancement [Local Brewery]
+[03:34:56] [Server thread/INFO]: MIKE lost connection: Disconnected
+[03:34:56] [Server thread/INFO]: MIKE left the game
+[03:35:12] [Server thread/INFO]: Stopping the server
+[03:35:12] [Server thread/INFO]: Stopping server
+[03:35:12] [Server thread/INFO]: Saving players
+[03:35:12] [Server thread/INFO]: Saving worlds
+[03:35:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:35:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:35:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:35:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:35:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:35:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:35:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
