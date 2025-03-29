@@ -71,3 +71,4 @@
 [21:10:43] [Server thread/INFO]: Locating element minecraft:end_city took 8 ms
 [21:11:05] [Server thread/INFO]: [MIKE: Teleported MIKE to 80.500000, 67.000000, -1247.500000]
 [21:11:09] [Server thread/INFO]: [MIKE: Teleported MIKE to 80.500000, 58.000000, -1247.500000]
+[21:22:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=513, y=18, z=209} jh{x=511, y=17, z=204}
