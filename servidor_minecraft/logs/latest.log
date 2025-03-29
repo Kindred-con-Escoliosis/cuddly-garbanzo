@@ -82,3 +82,5 @@
 [21:36:06] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=561, y=17, z=340} jh{x=563, y=17, z=346}
 [21:38:38] [Server thread/INFO]: [Lcdo_Patino: Set own game mode to Spectator Mode]
 [21:39:58] [Server thread/INFO]: [Lcdo_Patino: Set own game mode to Survival Mode]
+[21:50:49] [Server thread/INFO]: Locating element minecraft:end_city took 22 ms
+[21:52:51] [Server thread/WARN]: MIKE moved too quickly! 8.030538755490852,-1.252203340253729,6.232041589081746
