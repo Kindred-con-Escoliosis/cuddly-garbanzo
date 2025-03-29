@@ -2065,6 +2065,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-03-29 22:56:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-03-29 22:13:25 +0000"
