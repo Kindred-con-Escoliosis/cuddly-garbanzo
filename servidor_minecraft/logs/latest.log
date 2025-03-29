@@ -84,3 +84,26 @@
 [21:39:58] [Server thread/INFO]: [Lcdo_Patino: Set own game mode to Survival Mode]
 [21:50:49] [Server thread/INFO]: Locating element minecraft:end_city took 22 ms
 [21:52:51] [Server thread/WARN]: MIKE moved too quickly! 8.030538755490852,-1.252203340253729,6.232041589081746
+[22:00:10] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1309, y=119, z=637} jh{x=442, y=18, z=175}
+[22:00:26] [Server thread/INFO]: Locating element minecraft:end_city took 78 ms
+[22:03:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=655, y=16, z=257} jh{x=654, y=15, z=257}
+[22:03:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=655, y=16, z=257} jh{x=653, y=17, z=257}
+[22:03:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=655, y=16, z=257} jh{x=653, y=17, z=257}
+[22:03:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=655, y=16, z=257} jh{x=653, y=17, z=257}
+[22:03:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=655, y=16, z=257} jh{x=653, y=17, z=257}
+[22:03:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=655, y=16, z=257} jh{x=653, y=17, z=257}
+[22:03:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=655, y=16, z=257} jh{x=653, y=17, z=257}
+[22:03:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=655, y=16, z=257} jh{x=653, y=17, z=257}
+[22:03:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=655, y=16, z=257} jh{x=653, y=17, z=257}
+[22:08:11] [Server thread/INFO]: [MIKE: Teleported MIKE to Lcdo_Patino]
+[22:10:08] [Server thread/INFO]: [Lcdo_Patino: Set own game mode to Spectator Mode]
+[22:11:13] [Server thread/INFO]: [Lcdo_Patino: Set own game mode to Survival Mode]
+[22:11:25] [Server thread/INFO]: [MIKE: Teleported MIKE to Lcdo_Patino]
+[22:15:10] [Server thread/INFO]: Gato_brujo[/100.95.29.45:58800] logged in with entity id 52304 at (1343.699999988079, 122.0, 646.3000000119209)
+[22:15:10] [Server thread/INFO]: Gato_brujo joined the game
+[22:15:52] [Server thread/INFO]: Gato_brujo has made the advancement [Cover Me with Diamonds]
+[22:17:59] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
+[22:26:17] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1620, y=124, z=1105} jh{x=1621, y=122, z=1106}
+[22:26:18] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1622, y=123, z=1106} jh{x=1624, y=122, z=1106}
+[22:26:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1616, y=124, z=1108} jh{x=1616, y=122, z=1108}
+[22:26:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1626, y=125, z=1106} jh{x=1625, y=123, z=1105}
