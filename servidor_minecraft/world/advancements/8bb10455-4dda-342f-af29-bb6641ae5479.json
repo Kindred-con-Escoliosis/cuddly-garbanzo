@@ -332,7 +332,8 @@
       "cooked_cod": "2025-03-26 04:37:58 +0000",
       "sweet_berries": "2025-03-26 03:13:56 +0000",
       "cooked_beef": "2025-03-29 01:03:28 +0000",
-      "pumpkin_pie": "2025-03-29 01:43:13 +0000"
+      "pumpkin_pie": "2025-03-29 01:43:13 +0000",
+      "golden_carrot": "2025-03-29 20:37:43 +0000"
     },
     "done": false
   },
@@ -2845,6 +2846,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-03-29 20:36:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-03-29 19:48:12 +0000"
@@ -2854,6 +2861,12 @@
   "minecraft:recipes/decorations/light_gray_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-03-29 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-03-29 20:36:34 +0000"
     },
     "done": true
   },
@@ -2872,6 +2885,12 @@
   "minecraft:recipes/decorations/orange_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-03-29 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-03-29 20:36:34 +0000"
     },
     "done": true
   },
