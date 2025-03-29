@@ -327,15 +327,16 @@
       "cooked_porkchop": "2025-03-28 03:16:59 +0000",
       "bread": "2025-03-26 03:19:54 +0000",
       "golden_apple": "2025-03-29 01:49:05 +0000",
-      "cooked_chicken": "2025-03-26 03:43:24 +0000",
       "cookie": "2025-03-29 20:01:23 +0000",
       "cooked_mutton": "2025-03-26 03:41:50 +0000",
-      "cooked_cod": "2025-03-26 04:37:58 +0000",
       "sweet_berries": "2025-03-26 03:13:56 +0000",
       "cooked_beef": "2025-03-29 01:03:28 +0000",
       "chorus_fruit": "2025-03-29 21:32:13 +0000",
-      "pumpkin_pie": "2025-03-29 01:43:13 +0000",
-      "golden_carrot": "2025-03-29 20:37:43 +0000"
+      "baked_potato": "2025-03-29 22:43:36 +0000",
+      "golden_carrot": "2025-03-29 20:37:43 +0000",
+      "cooked_chicken": "2025-03-26 03:43:24 +0000",
+      "cooked_cod": "2025-03-26 04:37:58 +0000",
+      "pumpkin_pie": "2025-03-29 01:43:13 +0000"
     },
     "done": false
   },
@@ -643,6 +644,7 @@
     "criteria": {
       "minecraft:blaze": "2025-03-29 01:53:10 +0000",
       "minecraft:skeleton": "2025-03-26 03:54:25 +0000",
+      "minecraft:zombified_piglin": "2025-03-29 22:54:27 +0000",
       "minecraft:wither_skeleton": "2025-03-29 01:48:34 +0000",
       "minecraft:ghast": "2025-03-26 04:52:47 +0000",
       "minecraft:ender_dragon": "2025-03-29 03:17:01 +0000",
@@ -655,6 +657,7 @@
       "minecraft:magma_cube": "2025-03-26 04:24:35 +0000",
       "minecraft:endermite": "2025-03-29 03:25:13 +0000",
       "minecraft:spider": "2025-03-26 03:56:58 +0000",
+      "minecraft:piglin_brute": "2025-03-29 22:49:17 +0000",
       "minecraft:zombie": "2025-03-26 03:36:19 +0000",
       "minecraft:creeper": "2025-03-28 03:20:25 +0000",
       "minecraft:drowned": "2025-03-28 04:32:49 +0000"
@@ -2776,6 +2779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-29 22:48:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2025-03-29 21:06:55 +0000"
@@ -2791,6 +2800,12 @@
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2025-03-29 22:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-29 22:48:43 +0000"
     },
     "done": true
   },
@@ -2854,6 +2869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-03-29 22:48:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-03-29 19:48:12 +0000"
@@ -2902,6 +2923,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-03-29 22:48:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-03-29 20:42:03 +0000"
@@ -2914,6 +2941,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-29 22:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-29 22:48:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2025-03-29 21:28:20 +0000"
@@ -2923,6 +2962,12 @@
   "minecraft:recipes/building_blocks/purpur_stairs": {
     "criteria": {
       "has_purpur_block": "2025-03-29 21:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-29 22:48:43 +0000"
     },
     "done": true
   },
@@ -2950,6 +2995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-29 22:48:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-03-29 19:48:12 +0000"
@@ -2965,6 +3016,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-29 22:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-03-29 22:48:26 +0000"
     },
     "done": true
   },
@@ -3019,6 +3076,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-03-29 20:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-29 22:48:43 +0000"
     },
     "done": true
   },

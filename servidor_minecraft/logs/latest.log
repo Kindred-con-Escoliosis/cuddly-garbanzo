@@ -107,3 +107,15 @@
 [22:26:18] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1622, y=123, z=1106} jh{x=1624, y=122, z=1106}
 [22:26:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1616, y=124, z=1108} jh{x=1616, y=122, z=1108}
 [22:26:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1626, y=125, z=1106} jh{x=1625, y=123, z=1105}
+[22:43:57] [Server thread/INFO]: Locating element minecraft:bastion_remnant took 0 ms
+[22:44:53] [Server thread/INFO]: [MIKE: Teleported MIKE to Lcdo_Patino]
+[22:46:01] [Server thread/INFO]: [Not Secure] <MIKE> 38 304
+[22:48:26] [Server thread/INFO]: MIKE has made the advancement [Those Were the Days]
+[22:48:38] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to MIKE]
+[22:48:38] [Server thread/INFO]: Lcdo_Patino has made the advancement [Those Were the Days]
+[22:48:48] [Server thread/INFO]: MIKE has made the advancement [War Pigs]
+[22:51:52] [Server thread/INFO]: Lcdo_Patino has made the advancement [War Pigs]
+[22:56:45] [Server thread/INFO]: Lcdo_Patino has made the advancement [Who is Cutting Onions?]
+[22:56:56] [Server thread/INFO]: [MIKE: Teleported MIKE to Lcdo_Patino]
+[22:58:25] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to Gato_brujo]
+[22:59:05] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
