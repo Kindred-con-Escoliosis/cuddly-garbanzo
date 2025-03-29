@@ -146,3 +146,13 @@
 [03:07:12] [Server thread/INFO]: Scanning for legacy world dragon fight...
 [03:07:12] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
 [03:07:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2705ms or 54 ticks behind
+[03:14:13] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=379, y=16, z=105} jh{x=376, y=17, z=106}
+[03:14:35] [Server thread/INFO]: SadduranGT lost connection: Disconnected
+[03:14:35] [Server thread/INFO]: SadduranGT left the game
+[03:16:03] [Server thread/INFO]: Lcdo_Patino has made the advancement [Hidden in the Depths]
+[03:17:01] [Server thread/INFO]: MIKE has made the advancement [Free the End]
+[03:20:01] [Server thread/INFO]: MIKE has made the advancement [Remote Getaway]
+[03:20:22] [Server thread/INFO]: Locating element minecraft:end_city took 52 ms
+[03:20:36] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
+[03:20:38] [Server thread/INFO]: [MIKE: Teleported MIKE to 768.500000, 64.000000, -1519.500000]
+[03:20:50] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
