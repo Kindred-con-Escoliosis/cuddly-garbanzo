@@ -1,73 +1,71 @@
-[17:55:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:56:04] [ServerMain/INFO]: Loaded 1337 recipes
-[17:56:04] [ServerMain/INFO]: Loaded 1448 advancements
-[17:56:04] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[17:56:04] [Server thread/INFO]: Loading properties
-[17:56:04] [Server thread/INFO]: Default game type: SURVIVAL
-[17:56:04] [Server thread/INFO]: Generating keypair
-[17:56:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:56:04] [Server thread/INFO]: Using epoll channel type
-[17:56:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:56:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:56:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:56:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:56:04] [Server thread/INFO]: Preparing level "world"
-[17:56:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:22] [Worker-Main-1/INFO]: Preparing spawn area: 28%
-[17:56:23] [Worker-Main-1/INFO]: Preparing spawn area: 67%
-[17:56:23] [Server thread/INFO]: Time elapsed: 17338 ms
-[17:56:23] [Server thread/INFO]: Done (18.389s)! For help, type "help"
-[17:56:35] [Server thread/INFO]: MIKE[/100.93.180.103:51044] logged in with entity id 8 at (1342.657352555415, 121.0, 648.4231124815415)
-[17:56:35] [Server thread/INFO]: MIKE joined the game
-[17:56:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2216ms or 44 ticks behind
-[17:57:00] [Server thread/INFO]: Villager cpj['Farmer'/34, l='ServerLevel[world]', x=1343.73, y=120.00, z=644.54] died, message: 'Farmer was slain by Zombie'
-[18:10:59] [Server thread/INFO]: MIKE has made the advancement [What a Deal!]
-[18:21:50] [Server thread/INFO]: [MIKE: Set the time to 1000]
-[18:38:03] [Server thread/INFO]: [Not Secure] <MIKE> 1350 121 640
-[18:57:11] [Server thread/INFO]: MIKE lost connection: Disconnected
-[18:57:11] [Server thread/INFO]: MIKE left the game
-[18:58:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[19:28:22] [Server thread/INFO]: Stopping the server
-[19:28:23] [Server thread/INFO]: Stopping server
-[19:28:23] [Server thread/INFO]: Saving players
-[19:28:23] [Server thread/INFO]: Saving worlds
-[19:28:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:28:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:28:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:28:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:28:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:28:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:28:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:58:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:58:52] [ServerMain/INFO]: Loaded 1337 recipes
+[00:58:52] [ServerMain/INFO]: Loaded 1448 advancements
+[00:58:52] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[00:58:52] [Server thread/INFO]: Loading properties
+[00:58:52] [Server thread/INFO]: Default game type: SURVIVAL
+[00:58:52] [Server thread/INFO]: Generating keypair
+[00:58:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:58:52] [Server thread/INFO]: Using epoll channel type
+[00:58:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:58:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:58:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:58:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:58:53] [Server thread/INFO]: Preparing level "world"
+[00:58:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:59:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:59:07] [Server thread/INFO]: Time elapsed: 13989 ms
+[00:59:07] [Server thread/INFO]: Done (14.745s)! For help, type "help"
+[01:00:07] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:00:20] [Server thread/INFO]: MIKE[/100.93.180.103:50116] logged in with entity id 8 at (1635.903729970209, 13.0, 687.7640731119048)
+[01:00:20] [Server thread/INFO]: MIKE joined the game
+[01:00:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[01:05:13] [Server thread/INFO]: MIKE lost connection: Disconnected
+[01:05:13] [Server thread/INFO]: MIKE left the game
+[01:06:13] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:06:14] [Server thread/INFO]: MIKE[/100.93.180.103:50197] logged in with entity id 1116 at (1590.5909478836884, 57.0, 687.4572746083165)
+[01:06:14] [Server thread/INFO]: MIKE joined the game
+[01:11:38] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:45459] logged in with entity id 2796 at (86.35750865389726, 83.0, 348.30950735228316)
+[01:11:38] [Server thread/INFO]: Aesthetikkkk joined the game
+[01:11:48] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[01:11:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4869ms or 97 ticks behind
+[01:12:14] [Server thread/INFO]: [Not Secure] <MIKE> vamos al vc del ds?
+[01:12:28] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> no puedo
+[01:12:32] [Server thread/INFO]: [Not Secure] <MIKE> ok
+[01:12:33] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> el net esta remalo
+[01:12:48] [Server thread/INFO]: [Not Secure] <MIKE> yo voy a prepararme y voy al nether con todo y armadura
+[01:13:42] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> el net esta remalo
+[01:13:45] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[01:14:40] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> este es el de aternos?
+[01:14:45] [Server thread/INFO]: [Not Secure] <MIKE> no
+[01:14:54] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
+[01:15:46] [Server thread/INFO]: MIKE has made the advancement [Cover Me with Diamonds]
+[01:16:30] [Server thread/INFO]: [Not Secure] <MIKE> todos los aldeanos se habian ido al nether jaja
+[01:16:34] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> JKAGAG
