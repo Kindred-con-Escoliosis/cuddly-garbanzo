@@ -2775,6 +2775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-03-29 21:06:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-03-29 19:48:12 +0000"
@@ -2790,6 +2796,12 @@
   "minecraft:recipes/decorations/lime_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-03-29 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-03-29 21:11:24 +0000"
     },
     "done": true
   },
@@ -2835,6 +2847,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-03-29 21:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-03-29 21:11:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-03-29 19:48:12 +0000"
@@ -2862,6 +2886,12 @@
   "minecraft:recipes/decorations/magenta_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-03-29 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-03-29 21:11:24 +0000"
     },
     "done": true
   },
@@ -2901,9 +2931,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-03-29 21:11:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-03-29 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-03-29 21:11:24 +0000"
     },
     "done": true
   },
