@@ -106,3 +106,32 @@
 [02:15:21] [Server thread/INFO]: [Not Secure] <MIKE> 168 81 79
 [02:15:42] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to 168.500000, 81.000000, 79.500000]
 [02:18:38] [Server thread/INFO]: Lcdo_Patino has made the advancement [What a Deal!]
+[02:19:29] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to MIKE]
+[02:19:36] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to SadduranGT]
+[02:20:56] [Server thread/INFO]: [Lcdo_Patino: The difficulty has been set to Hard]
+[02:22:26] [Server thread/INFO]: Lcdo_Patino has made the advancement [A Seedy Place]
+[02:22:33] [Server thread/INFO]: [MIKE: Teleported MIKE to -207.500000, 62.000000, -783.500000]
+[02:26:28] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
+[02:27:06] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
+[02:30:41] [Server thread/INFO]: Lcdo_Patino has made the advancement [Hot Stuff]
+[02:31:09] [Server thread/INFO]: [MIKE: Teleported MIKE to Lcdo_Patino]
+[02:34:42] [Server thread/INFO]: [Lcdo_Patino: Teleported SadduranGT to Lcdo_Patino]
+[02:37:52] [Server thread/INFO]: Locating element minecraft:stronghold took 38 ms
+[02:42:24] [Server thread/INFO]: Lcdo_Patino was blown up by Creeper
+[02:42:27] [Server thread/INFO]: Lcdo_Patino lost connection: Timed out
+[02:42:27] [Server thread/INFO]: Lcdo_Patino left the game
+[02:42:27] [Server thread/WARN]: handleDisconnection() called twice
+[02:42:30] [Server thread/INFO]: SadduranGT lost connection: You logged in from another location
+[02:42:30] [Server thread/INFO]: SadduranGT left the game
+[02:42:30] [Server thread/INFO]: Lcdo_Patino[/100.106.19.60:62350] logged in with entity id 25083 at (1277.016630446994, 124.0, 618.6489033628095)
+[02:42:31] [Server thread/INFO]: Lcdo_Patino joined the game
+[02:42:31] [Server thread/WARN]: handleDisconnection() called twice
+[02:42:31] [Server thread/INFO]: SadduranGT[/100.90.231.18:54750] logged in with entity id 25088 at (1338.300000011921, 118.0, 586.6312658142724)
+[02:42:31] [Server thread/INFO]: SadduranGT joined the game
+[02:46:43] [Server thread/INFO]: [MIKE: Teleported MIKE to Lcdo_Patino]
+[02:48:22] [Server thread/INFO]: [MIKE: Teleported MIKE to Lcdo_Patino]
+[02:54:03] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to SadduranGT]
+[02:56:24] [Server thread/INFO]: MIKE has made the advancement [Eye Spy]
+[02:57:45] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to MIKE]
+[02:57:45] [Server thread/INFO]: Lcdo_Patino has made the advancement [Eye Spy]
+[02:59:54] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to SadduranGT]
