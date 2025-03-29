@@ -321,6 +321,7 @@
     "criteria": {
       "cooked_porkchop": "2025-03-28 03:16:59 +0000",
       "bread": "2025-03-26 03:19:54 +0000",
+      "golden_apple": "2025-03-29 01:49:05 +0000",
       "cooked_chicken": "2025-03-26 03:43:24 +0000",
       "cooked_mutton": "2025-03-26 03:41:50 +0000",
       "cooked_cod": "2025-03-26 04:37:58 +0000",
@@ -632,11 +633,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-03-29 01:53:10 +0000",
       "minecraft:cave_spider": "2025-03-26 03:38:32 +0000",
       "minecraft:skeleton": "2025-03-26 03:54:25 +0000",
       "minecraft:enderman": "2025-03-28 05:40:39 +0000",
       "minecraft:magma_cube": "2025-03-26 04:24:35 +0000",
       "minecraft:spider": "2025-03-26 03:56:58 +0000",
+      "minecraft:wither_skeleton": "2025-03-29 01:48:34 +0000",
       "minecraft:zombie": "2025-03-26 03:36:19 +0000",
       "minecraft:creeper": "2025-03-28 03:20:25 +0000",
       "minecraft:drowned": "2025-03-28 04:32:49 +0000",
@@ -2369,9 +2372,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-29 01:54:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-03-29 01:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-29 01:54:04 +0000"
     },
     "done": true
   },
@@ -2381,9 +2396,27 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-03-29 01:55:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-03-29 01:36:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-29 01:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-29 01:54:04 +0000"
     },
     "done": true
   },
@@ -2399,9 +2432,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-03-29 01:50:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-03-29 01:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-29 01:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-29 01:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-29 01:54:04 +0000"
     },
     "done": true
   },
@@ -2411,9 +2468,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-29 01:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-29 01:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-03-29 01:50:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-03-29 01:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-29 01:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-29 01:54:04 +0000"
     },
     "done": true
   },
