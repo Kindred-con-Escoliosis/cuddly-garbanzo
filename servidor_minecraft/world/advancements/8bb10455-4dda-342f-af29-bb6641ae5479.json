@@ -17,6 +17,7 @@
       "minecraft:taiga": "2025-03-26 03:15:22 +0000",
       "minecraft:sparse_jungle": "2025-03-29 02:51:27 +0000",
       "minecraft:river": "2025-03-26 03:13:18 +0000",
+      "minecraft:lush_caves": "2025-03-29 20:51:13 +0000",
       "minecraft:dripstone_caves": "2025-03-26 03:26:24 +0000",
       "minecraft:frozen_peaks": "2025-03-28 03:16:10 +0000",
       "minecraft:deep_dark": "2025-03-28 03:22:13 +0000",
@@ -2825,6 +2826,12 @@
   "minecraft:recipes/decorations/green_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-03-29 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-03-29 20:42:03 +0000"
     },
     "done": true
   },
