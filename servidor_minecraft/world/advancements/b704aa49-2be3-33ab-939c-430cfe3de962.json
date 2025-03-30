@@ -1615,6 +1615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-03-30 00:53:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-29 23:05:32 +0000"
@@ -1642,6 +1648,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-03-29 23:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-03-30 00:53:40 +0000"
     },
     "done": true
   },
@@ -1744,6 +1756,12 @@
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2025-03-29 23:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-03-30 00:53:40 +0000"
     },
     "done": true
   },
@@ -1984,6 +2002,12 @@
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_yellow_wool": "2025-03-29 23:21:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-03-30 00:53:40 +0000"
     },
     "done": true
   },
@@ -2233,6 +2257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-03-30 00:53:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-29 23:07:08 +0000"
@@ -2266,6 +2296,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-29 23:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-03-30 00:53:40 +0000"
     },
     "done": true
   },
@@ -2401,6 +2437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-03-30 00:53:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-03-29 22:22:01 +0000"
@@ -2458,6 +2500,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-03-29 23:05:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-03-30 00:53:40 +0000"
     },
     "done": true
   },
