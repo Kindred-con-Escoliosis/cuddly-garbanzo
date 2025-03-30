@@ -55,3 +55,12 @@
 [01:09:15] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
 [01:14:52] [Server thread/INFO]: MIKE lost connection: Disconnected
 [01:14:52] [Server thread/INFO]: MIKE left the game
+[01:23:29] [Server thread/INFO]: MIKE[/100.93.180.103:59603] logged in with entity id 114069 at (3089.591505762409, 67.0, 513.7769402937795)
+[01:23:29] [Server thread/INFO]: MIKE joined the game
+[01:26:36] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to Gato_brujo]
+[01:27:23] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
+[01:29:38] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
+[01:29:42] [Server thread/INFO]: [MIKE: Teleported MIKE to 3296.500000, 93.738969, 2272.500000]
+[01:30:50] [Server thread/INFO]: Gato_brujo has made the advancement [Sneak 100]
+[01:31:33] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
+[01:31:47] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
