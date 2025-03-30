@@ -15,6 +15,7 @@
       "minecraft:taiga": "2025-03-26 03:19:06 +0000",
       "minecraft:river": "2025-03-26 03:17:19 +0000",
       "minecraft:dripstone_caves": "2025-03-26 03:26:16 +0000",
+      "minecraft:frozen_peaks": "2025-03-30 04:37:21 +0000",
       "minecraft:cherry_grove": "2025-03-26 04:17:10 +0000",
       "minecraft:sunflower_plains": "2025-03-26 04:19:07 +0000",
       "minecraft:meadow": "2025-03-26 03:19:15 +0000",
@@ -491,6 +492,7 @@
       "rotten_flesh": "2025-03-26 04:17:28 +0000",
       "cooked_mutton": "2025-03-26 03:48:01 +0000",
       "sweet_berries": "2025-03-26 04:18:12 +0000",
+      "baked_potato": "2025-03-30 04:46:57 +0000",
       "porkchop": "2025-03-26 04:47:48 +0000",
       "golden_carrot": "2025-03-26 04:22:37 +0000",
       "carrot": "2025-03-30 04:27:21 +0000"
@@ -1723,6 +1725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-03-30 04:35:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/orange_bundle": {
     "criteria": {
       "has_orange_dye": "2025-03-30 04:24:37 +0000"
@@ -1765,6 +1773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-03-30 04:35:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-03-30 04:30:58 +0000"
@@ -1780,6 +1794,12 @@
   "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
       "has_needed_dye": "2025-03-30 04:10:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-30 04:36:04 +0000"
     },
     "done": true
   },
@@ -1897,6 +1917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-03-30 04:35:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-03-30 04:09:45 +0000"
@@ -1918,6 +1944,12 @@
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2025-03-30 04:05:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-30 04:39:50 +0000"
     },
     "done": true
   },
@@ -1954,6 +1986,12 @@
   "minecraft:recipes/building_blocks/dye_orange_wool": {
     "criteria": {
       "has_needed_dye": "2025-03-30 04:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-03-30 04:42:53 +0000"
     },
     "done": true
   },
@@ -2047,6 +2085,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-30 04:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-30 04:36:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_carpet": {
     "criteria": {
       "has_needed_dye": "2025-03-30 04:10:25 +0000"
@@ -2095,6 +2145,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-30 04:39:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-03-30 04:09:45 +0000"
@@ -2113,9 +2169,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-03-30 04:35:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-03-30 04:15:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-03-30 04:42:53 +0000"
     },
     "done": true
   },
@@ -2128,6 +2196,12 @@
   "minecraft:recipes/decorations/black_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-03-30 04:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-03-30 04:35:11 +0000"
     },
     "done": true
   },
