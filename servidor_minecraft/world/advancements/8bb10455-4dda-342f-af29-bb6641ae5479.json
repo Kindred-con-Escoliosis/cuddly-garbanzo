@@ -644,16 +644,19 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-03-29 01:53:10 +0000",
+      "minecraft:pillager": "2025-03-29 23:38:10 +0000",
       "minecraft:skeleton": "2025-03-26 03:54:25 +0000",
       "minecraft:phantom": "2025-03-29 23:03:41 +0000",
       "minecraft:zombified_piglin": "2025-03-29 22:54:27 +0000",
       "minecraft:wither_skeleton": "2025-03-29 01:48:34 +0000",
+      "minecraft:ravager": "2025-03-29 23:44:14 +0000",
       "minecraft:ghast": "2025-03-26 04:52:47 +0000",
       "minecraft:ender_dragon": "2025-03-29 03:17:01 +0000",
       "minecraft:hoglin": "2025-03-26 04:46:56 +0000",
       "minecraft:shulker": "2025-03-29 03:21:02 +0000",
       "minecraft:cave_spider": "2025-03-26 03:38:32 +0000",
       "minecraft:piglin": "2025-03-29 02:15:09 +0000",
+      "minecraft:vindicator": "2025-03-29 23:42:40 +0000",
       "minecraft:enderman": "2025-03-28 05:40:39 +0000",
       "minecraft:silverfish": "2025-03-29 03:01:48 +0000",
       "minecraft:magma_cube": "2025-03-26 04:24:35 +0000",
@@ -3165,6 +3168,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-29 23:38:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_yellow_wool": {
     "criteria": {
       "has_needed_dye": "2025-03-29 23:26:06 +0000"
@@ -3174,6 +3183,12 @@
   "minecraft:recipes/tools/yellow_bundle": {
     "criteria": {
       "has_yellow_dye": "2025-03-29 23:26:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-03-29 23:55:59 +0000"
     },
     "done": true
   },
