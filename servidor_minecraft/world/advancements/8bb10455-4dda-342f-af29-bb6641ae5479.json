@@ -669,7 +669,8 @@
       "minecraft:piglin_brute": "2025-03-29 22:49:17 +0000",
       "minecraft:zombie": "2025-03-26 03:36:19 +0000",
       "minecraft:creeper": "2025-03-28 03:20:25 +0000",
-      "minecraft:drowned": "2025-03-28 04:32:49 +0000"
+      "minecraft:drowned": "2025-03-28 04:32:49 +0000",
+      "minecraft:zombie_villager": "2025-03-30 04:56:27 +0000"
     },
     "done": false
   },
@@ -3335,6 +3336,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:ward_armor_trim_smithing_template_smithing_trim": "2025-03-30 04:47:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/orange_candle": {
     "criteria": {
       "has_orange_dye": "2025-03-30 04:24:53 +0000"
@@ -3416,6 +3423,12 @@
   "minecraft:recipes/food/suspicious_stew_from_allium": {
     "criteria": {
       "has_allium": "2025-03-30 03:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2025-03-30 05:05:57 +0000"
     },
     "done": true
   },
@@ -3539,6 +3552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-30 05:05:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-03-30 03:35:44 +0000"
@@ -3614,6 +3633,12 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-03-30 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:ward_armor_trim_smithing_template_smithing_trim": "2025-03-30 04:47:14 +0000"
     },
     "done": true
   },

@@ -2136,6 +2136,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-03-30 04:50:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-03-29 23:05:32 +0000"
@@ -2487,6 +2493,12 @@
   "minecraft:recipes/tools/blue_bundle": {
     "criteria": {
       "has_blue_dye": "2025-03-30 03:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-03-30 04:56:26 +0000"
     },
     "done": true
   },
@@ -2916,6 +2928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-30 04:56:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-03-30 03:30:21 +0000"
@@ -3279,6 +3297,12 @@
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-03-29 22:24:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-30 04:56:13 +0000"
     },
     "done": true
   },
