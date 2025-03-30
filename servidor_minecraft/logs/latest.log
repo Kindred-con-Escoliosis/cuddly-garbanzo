@@ -326,3 +326,23 @@
 [07:20:04] [Server thread/WARN]: MIKE moved too quickly! -3.8371863475644545,-1.9531908480335716,17.30184267608047
 [07:20:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2183ms or 43 ticks behind
 [07:26:47] [Server thread/INFO]: [Not Secure] <Gato_brujo> sigues aqui en el juego?
+[07:33:15] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
+[07:33:50] [Server thread/INFO]: [MIKE: Teleported MIKE to 1323.500000, 119.000000, 631.500000]
+[07:35:02] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
+[07:39:47] [Server thread/INFO]: [MIKE: Teleported MIKE to 1323.500000, 119.000000, 631.500000]
+[07:40:06] [Server thread/INFO]: [MIKE: Teleported Gato_brujo to MIKE]
+[07:40:11] [Server thread/INFO]: MIKE lost connection: Disconnected
+[07:40:11] [Server thread/INFO]: MIKE left the game
+[07:40:20] [Server thread/INFO]: Gato_brujo lost connection: Disconnected
+[07:40:20] [Server thread/INFO]: Gato_brujo left the game
+[07:40:37] [Server thread/INFO]: Stopping the server
+[07:40:37] [Server thread/INFO]: Stopping server
+[07:40:37] [Server thread/INFO]: Saving players
+[07:40:37] [Server thread/INFO]: Saving worlds
+[07:40:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:40:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07:40:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07:40:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:40:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:40:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:40:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
