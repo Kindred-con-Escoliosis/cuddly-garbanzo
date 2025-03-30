@@ -81,3 +81,11 @@
 [01:59:17] [Server thread/INFO]: Hikejace joined the game
 [02:00:11] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
 [02:00:28] [Server thread/INFO]: [MIKE: Teleported MIKE to 1323.500000, 119.000000, 631.500000]
+[02:04:01] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to MIKE]
+[02:07:46] [Server thread/INFO]: MIKE lost connection: Disconnected
+[02:07:46] [Server thread/INFO]: MIKE left the game
+[02:13:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=527, y=15, z=162} jh{x=527, y=15, z=161}
+[02:13:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=527, y=15, z=162} jh{x=527, y=15, z=161}
+[02:13:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=527, y=15, z=162} jh{x=527, y=15, z=161}
+[02:13:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=527, y=15, z=162} jh{x=527, y=15, z=161}
+[02:13:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=527, y=15, z=162} jh{x=527, y=15, z=161}
