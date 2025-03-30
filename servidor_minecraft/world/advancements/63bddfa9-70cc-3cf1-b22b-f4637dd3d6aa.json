@@ -9,16 +9,25 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-03-26 03:10:53 +0000",
       "minecraft:flower_forest": "2025-03-29 02:21:11 +0000",
+      "minecraft:snowy_slopes": "2025-03-30 02:42:33 +0000",
       "minecraft:beach": "2025-03-26 03:07:32 +0000",
       "minecraft:old_growth_pine_taiga": "2025-03-26 03:13:45 +0000",
+      "minecraft:dark_forest": "2025-03-30 02:59:48 +0000",
       "minecraft:forest": "2025-03-26 03:36:29 +0000",
       "minecraft:taiga": "2025-03-26 03:14:25 +0000",
       "minecraft:river": "2025-03-26 03:13:33 +0000",
+      "minecraft:stony_shore": "2025-03-30 02:51:45 +0000",
       "minecraft:dripstone_caves": "2025-03-26 03:27:09 +0000",
+      "minecraft:frozen_peaks": "2025-03-30 03:24:25 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-30 02:44:06 +0000",
+      "minecraft:windswept_forest": "2025-03-30 03:02:13 +0000",
       "minecraft:deep_dark": "2025-03-29 03:03:09 +0000",
       "minecraft:jungle": "2025-03-29 02:57:45 +0000",
       "minecraft:cherry_grove": "2025-03-30 01:26:36 +0000",
+      "minecraft:sunflower_plains": "2025-03-30 02:41:18 +0000",
+      "minecraft:swamp": "2025-03-30 03:01:50 +0000",
       "minecraft:meadow": "2025-03-26 03:15:39 +0000",
+      "minecraft:birch_forest": "2025-03-30 02:44:51 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-26 03:07:44 +0000",
       "minecraft:plains": "2025-03-29 02:15:49 +0000"
     },
@@ -2878,6 +2887,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-30 02:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-03-30 03:00:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-03-30 01:19:56 +0000"
@@ -2896,9 +2917,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-30 02:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-30 02:57:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-30 02:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-30 03:00:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2025-03-30 01:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-30 02:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-03-30 03:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-30 02:57:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-30 02:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-03-30 03:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-03-30 03:22:15 +0000"
     },
     "done": true
   },
