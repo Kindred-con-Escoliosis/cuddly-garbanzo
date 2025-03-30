@@ -30,3 +30,10 @@
 [00:20:27] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
 [00:20:32] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
 [00:20:39] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
+[00:21:14] [Server thread/INFO]: [MIKE: Teleported Gato_brujo to 1323.500000, 119.000000, 631.500000]
+[00:21:18] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
+[00:21:58] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=621, y=17, z=432} jh{x=621, y=17, z=487}
+[00:25:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=622, y=16, z=562} jh{x=622, y=15, z=561}
+[00:25:54] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to MIKE]
+[00:26:59] [Server thread/INFO]: Lcdo_Patino lost connection: Disconnected
+[00:26:59] [Server thread/INFO]: Lcdo_Patino left the game
