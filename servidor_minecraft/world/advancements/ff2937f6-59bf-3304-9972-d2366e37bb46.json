@@ -391,6 +391,7 @@
       "bread": "2025-03-26 03:23:05 +0000",
       "rabbit": "2025-03-30 04:21:07 +0000",
       "cooked_cod": "2025-03-30 02:40:48 +0000",
+      "baked_potato": "2025-03-30 04:22:52 +0000",
       "porkchop": "2025-03-26 03:49:14 +0000"
     },
     "done": false
@@ -1943,6 +1944,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-30 04:28:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-30 03:32:19 +0000"
@@ -2384,6 +2391,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-30 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-03-30 04:28:03 +0000"
     },
     "done": true
   },
