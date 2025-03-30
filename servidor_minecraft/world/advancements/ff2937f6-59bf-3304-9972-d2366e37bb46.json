@@ -394,6 +394,7 @@
       "rabbit": "2025-03-30 04:21:07 +0000",
       "cooked_cod": "2025-03-30 02:40:48 +0000",
       "baked_potato": "2025-03-30 04:22:52 +0000",
+      "melon_slice": "2025-03-30 05:18:22 +0000",
       "porkchop": "2025-03-26 03:49:14 +0000"
     },
     "done": false
@@ -1634,6 +1635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-03-30 05:18:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2025-03-30 03:23:03 +0000"
@@ -1703,6 +1710,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2025-03-30 03:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-03-30 05:18:13 +0000"
     },
     "done": true
   },
@@ -2048,6 +2061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-03-30 05:18:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-30 03:41:32 +0000"
@@ -2144,6 +2163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-30 05:21:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-03-30 03:26:47 +0000"
@@ -2153,6 +2178,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-30 02:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-30 05:21:03 +0000"
     },
     "done": true
   },
