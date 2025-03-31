@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-31 04:03:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-03-31 03:11:03 +0000"

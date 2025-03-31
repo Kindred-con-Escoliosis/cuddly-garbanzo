@@ -159,3 +159,22 @@
 [03:53:50] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> poifi
 [04:02:51] [Server thread/INFO]: Hikejace lost connection: Disconnected
 [04:02:51] [Server thread/INFO]: Hikejace left the game
+[04:11:19] [Server thread/INFO]: MIKE lost connection: Disconnected
+[04:11:19] [Server thread/INFO]: MIKE left the game
+[04:11:50] [Server thread/INFO]: Vazzzco lost connection: Disconnected
+[04:11:50] [Server thread/INFO]: Vazzzco left the game
+[04:12:56] [Server thread/INFO]: Aesthetikkkk lost connection: Disconnected
+[04:12:56] [Server thread/INFO]: Aesthetikkkk left the game
+[04:13:12] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[04:13:12] [Server thread/INFO]: stopstop<--[HERE]
+[04:13:16] [Server thread/INFO]: Stopping the server
+[04:13:16] [Server thread/INFO]: Stopping server
+[04:13:16] [Server thread/INFO]: Saving players
+[04:13:16] [Server thread/INFO]: Saving worlds
+[04:13:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:13:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:13:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:13:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:13:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:13:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:13:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
