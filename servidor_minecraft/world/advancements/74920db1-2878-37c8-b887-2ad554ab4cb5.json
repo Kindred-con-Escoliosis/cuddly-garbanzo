@@ -335,6 +335,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-03-31 03:38:42 +0000",
       "minecraft:cave_spider": "2025-03-26 03:41:42 +0000",
       "minecraft:skeleton": "2025-03-26 03:52:09 +0000",
       "minecraft:enderman": "2025-03-31 02:12:26 +0000",
@@ -2993,6 +2994,24 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-03-31 03:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-03-31 03:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crafter": {
+    "criteria": {
+      "has_dropper": "2025-03-31 03:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-31 03:38:47 +0000"
     },
     "done": true
   },
