@@ -335,6 +335,7 @@
     "criteria": {
       "minecraft:cave_spider": "2025-03-26 03:41:42 +0000",
       "minecraft:skeleton": "2025-03-26 03:52:09 +0000",
+      "minecraft:enderman": "2025-03-31 02:12:26 +0000",
       "minecraft:magma_cube": "2025-03-26 04:24:38 +0000",
       "minecraft:spider": "2025-03-26 03:19:45 +0000",
       "minecraft:zombie": "2025-03-26 03:28:54 +0000",
@@ -2717,6 +2718,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-03-31 02:11:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-31 02:03:39 +0000"
@@ -2729,6 +2736,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-03-31 02:11:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-03-31 02:11:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-31 02:03:39 +0000"
@@ -2738,6 +2757,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-31 02:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-31 02:09:05 +0000"
     },
     "done": true
   },
@@ -2768,6 +2793,18 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-03-31 02:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-03-31 02:11:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-03-31 02:11:03 +0000"
     },
     "done": true
   },

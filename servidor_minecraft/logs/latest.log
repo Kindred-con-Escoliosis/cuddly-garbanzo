@@ -51,3 +51,11 @@
 [02:07:25] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
 [02:09:09] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
 [02:10:45] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to 1743.500000, -21.000000, 1087.500000]
+[02:12:07] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
+[02:12:27] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
+[02:17:36] [Server thread/INFO]: Aesthetikkkk lost connection: Timed out
+[02:17:36] [Server thread/INFO]: Aesthetikkkk left the game
+[02:17:36] [Server thread/WARN]: handleDisconnection() called twice
+[02:18:52] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:20308] logged in with entity id 5123 at (12.066407214826944, 60.0, -12.948914674972892)
+[02:18:52] [Server thread/INFO]: Aesthetikkkk joined the game
+[02:19:51] [Server thread/INFO]: Villager cpj['Fisherman'/3391, l='ServerLevel[world]', x=1332.95, y=120.23, z=670.02] died, message: 'Fisherman was slain by MIKE'
