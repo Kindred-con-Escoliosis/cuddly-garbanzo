@@ -1,348 +1,59 @@
-[00:01:24] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[00:02:14] [Server thread/INFO]: [MIKE: Teleported MIKE to 1743.500000, -21.000000, 1087.500000]
-[00:04:21] [Server thread/INFO]: Locating element minecraft:end_city took 1 ms
-[00:05:36] [Server thread/INFO]: MIKE lost connection: Disconnected
-[00:05:36] [Server thread/INFO]: MIKE left the game
-[00:05:38] [Server thread/INFO]: MIKE[/100.93.180.103:59322] logged in with entity id 81715 at (696.0735466929532, 62.0, -980.1838507438405)
-[00:05:38] [Server thread/INFO]: MIKE joined the game
-[00:07:57] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=519, y=16, z=312} jh{x=519, y=15, z=311}
-[00:10:41] [Server thread/INFO]: Lcdo_Patino burned to death
-[00:11:44] [Server thread/INFO]: [MIKE: Teleported MIKE to 5.500000, 61.000000, 1.500000]
-[00:12:20] [Server thread/INFO]: [MIKE: Teleported MIKE to 1743.500000, -21.000000, 1087.500000]
-[00:12:29] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[00:12:48] [Server thread/INFO]: [Lcdo_Patino: Set own game mode to Spectator Mode]
-[00:12:55] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[00:13:01] [Server thread/INFO]: [Lcdo_Patino: Set own game mode to Survival Mode]
-[00:14:13] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[00:15:37] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[00:15:51] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[00:16:06] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[00:16:17] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[00:16:56] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[00:17:01] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[00:17:28] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[00:17:49] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[00:18:01] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[00:18:16] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[00:18:24] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[00:18:32] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[00:19:13] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[00:20:27] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[00:20:32] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[00:20:39] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[00:21:14] [Server thread/INFO]: [MIKE: Teleported Gato_brujo to 1323.500000, 119.000000, 631.500000]
-[00:21:18] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[00:21:58] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=621, y=17, z=432} jh{x=621, y=17, z=487}
-[00:25:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=622, y=16, z=562} jh{x=622, y=15, z=561}
-[00:25:54] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to MIKE]
-[00:26:59] [Server thread/INFO]: Lcdo_Patino lost connection: Disconnected
-[00:26:59] [Server thread/INFO]: Lcdo_Patino left the game
-[00:35:51] [Server thread/INFO]: [MIKE: Teleported MIKE to 1743.500000, -21.000000, 1087.500000]
-[01:00:54] [Server thread/INFO]: MIKE fell off a ladder
-[01:01:40] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[01:01:43] [Server thread/INFO]: [MIKE: Teleported MIKE to 1743.500000, -21.000000, 1087.500000]
-[01:01:51] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[01:01:55] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[01:02:11] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[01:02:13] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[01:02:21] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[01:02:25] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[01:04:38] [Server thread/INFO]: [MIKE: Teleported MIKE to 356.500000, 62.000000, -2544.500000]
-[01:04:47] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[01:05:39] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[01:07:50] [Server thread/INFO]: Lcdo_Patino[/100.106.19.60:55318] logged in with entity id 108595 at (1348.277338745039, 122.125, 631.0789450686577)
-[01:07:50] [Server thread/INFO]: Lcdo_Patino joined the game
-[01:09:15] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[01:14:52] [Server thread/INFO]: MIKE lost connection: Disconnected
-[01:14:52] [Server thread/INFO]: MIKE left the game
-[01:23:29] [Server thread/INFO]: MIKE[/100.93.180.103:59603] logged in with entity id 114069 at (3089.591505762409, 67.0, 513.7769402937795)
-[01:23:29] [Server thread/INFO]: MIKE joined the game
-[01:26:36] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to Gato_brujo]
-[01:27:23] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[01:29:38] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
-[01:29:42] [Server thread/INFO]: [MIKE: Teleported MIKE to 3296.500000, 93.738969, 2272.500000]
-[01:30:50] [Server thread/INFO]: Gato_brujo has made the advancement [Sneak 100]
-[01:31:33] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[01:31:47] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[01:35:06] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[01:36:00] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[01:36:13] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[01:38:35] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[01:39:05] [Server thread/INFO]: Lcdo_Patino has reached the goal [Sky's the Limit]
-[01:44:55] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[01:45:56] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[01:46:54] [Server thread/INFO]: [MIKE: Teleported MIKE to 1323.500000, 119.000000, 631.500000]
-[01:53:10] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to Gato_brujo]
-[01:55:08] [Server thread/INFO]: Hikejace[/100.119.199.16:58781] logged in with entity id 125669 at (1374.4801492819943, 134.5625, 398.1807808407887)
-[01:55:08] [Server thread/INFO]: Hikejace joined the game
-[01:57:24] [Server thread/INFO]: Hikejace lost connection: Disconnected
-[01:57:24] [Server thread/INFO]: Hikejace left the game
-[01:59:17] [Server thread/INFO]: Hikejace[/100.119.199.16:58952] logged in with entity id 127400 at (1398.3087165734676, 167.0, 361.9304030088094)
-[01:59:17] [Server thread/INFO]: Hikejace joined the game
-[02:00:11] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[02:00:28] [Server thread/INFO]: [MIKE: Teleported MIKE to 1323.500000, 119.000000, 631.500000]
-[02:04:01] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to MIKE]
-[02:07:46] [Server thread/INFO]: MIKE lost connection: Disconnected
-[02:07:46] [Server thread/INFO]: MIKE left the game
-[02:13:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=527, y=15, z=162} jh{x=527, y=15, z=161}
-[02:13:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=527, y=15, z=162} jh{x=527, y=15, z=161}
-[02:13:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=527, y=15, z=162} jh{x=527, y=15, z=161}
-[02:13:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=527, y=15, z=162} jh{x=527, y=15, z=161}
-[02:13:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=527, y=15, z=162} jh{x=527, y=15, z=161}
-[02:14:57] [Server thread/INFO]: [Hikejace: Teleported Gato_brujo to Hikejace]
-[02:15:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=605, y=16, z=197} jh{x=608, y=17, z=197}
-[02:15:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=605, y=16, z=197} jh{x=608, y=17, z=197}
-[02:15:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=605, y=16, z=197} jh{x=608, y=17, z=197}
-[02:15:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=605, y=16, z=197} jh{x=608, y=17, z=197}
-[02:17:27] [Server thread/INFO]: Hikejace has made the advancement [Take Aim]
-[02:20:02] [Server thread/INFO]: MIKE[/100.93.180.103:59744] logged in with entity id 138967 at (1352.5332487866683, 118.9375, 617.5302472095364)
-[02:20:02] [Server thread/INFO]: MIKE joined the game
-[02:23:05] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=745, y=16, z=325} jh{x=762, y=17, z=334}
-[02:29:21] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[02:29:47] [Server thread/INFO]: Gato_brujo has made the advancement [Best Friends Forever]
-[02:29:51] [Server thread/INFO]: [MIKE: Teleported MIKE to 1323.500000, 119.000000, 631.500000]
-[02:30:50] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1002, y=16, z=335} jh{x=1002, y=17, z=340}
-[02:31:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1024, y=17, z=339} jh{x=1023, y=16, z=339}
-[02:31:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1024, y=17, z=339} jh{x=1022, y=18, z=339}
-[02:31:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1024, y=17, z=339} jh{x=1022, y=18, z=339}
-[02:32:14] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1024, y=18, z=361} jh{x=1022, y=17, z=363}
-[02:32:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1024, y=18, z=361} jh{x=1022, y=17, z=363}
-[02:32:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1024, y=18, z=361} jh{x=1022, y=17, z=363}
-[02:32:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1024, y=18, z=361} jh{x=1022, y=17, z=363}
-[02:32:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1024, y=18, z=361} jh{x=1022, y=17, z=363}
-[02:32:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1024, y=18, z=361} jh{x=1022, y=17, z=363}
-[02:32:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1024, y=18, z=361} jh{x=1022, y=17, z=363}
-[02:32:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1024, y=18, z=361} jh{x=1022, y=17, z=363}
-[02:35:41] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=971, y=18, z=438} jh{x=975, y=18, z=437}
-[02:35:41] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=971, y=18, z=438} jh{x=975, y=18, z=437}
-[02:35:41] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=971, y=18, z=438} jh{x=975, y=18, z=437}
-[02:35:41] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=971, y=18, z=438} jh{x=975, y=18, z=437}
-[02:35:41] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=971, y=18, z=438} jh{x=975, y=18, z=437}
-[02:37:41] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to MIKE]
-[02:46:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
-[02:48:28] [Server thread/WARN]: Lcdo_Patino moved too quickly! 16.87895954052283,-4.697684012836561,2.242355696238974
-[02:53:12] [Server thread/INFO]: [Hikejace: The difficulty has been set to Hard]
-[02:54:35] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to Gato_brujo]
-[02:54:53] [Server thread/INFO]: Hikejace was shot by Skeleton
-[02:56:19] [Server thread/INFO]: Hikejace was shot by Skeleton
-[02:59:36] [Server thread/WARN]: Lcdo_Patino moved too quickly! -10.518016378316588,12.991928991132824,8.012340134232659
-[03:01:36] [Server thread/INFO]: [Not Secure] <Lcdo_Patino> Roble oscuro 607 812
-[03:06:16] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to Hikejace]
-[03:06:28] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to Hikejace]
-[03:06:31] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to Hikejace]
-[03:06:57] [Server thread/WARN]: MIKE moved too quickly! 14.538068407203468,10.39763706294211,3.9918887856647416
-[03:08:16] [Server thread/WARN]: Lcdo_Patino moved too quickly! -3.953852649878627,-0.2468000194787976,9.234225610740452
-[03:09:29] [Server thread/WARN]: MIKE moved too quickly! 16.779551662372455,-2.197877695850053,-6.105795933751779
-[03:09:35] [Server thread/WARN]: MIKE moved too quickly! 14.441374616306689,-5.490999047224662,-9.568234965917327
-[03:09:39] [Server thread/WARN]: MIKE moved too quickly! 14.165809827951762,-6.08251062901644,-8.020072894476016
-[03:09:41] [Server thread/WARN]: MIKE moved too quickly! 12.31002403854859,4.1470844718368625,13.287061013771108
-[03:09:43] [Server thread/WARN]: MIKE moved too quickly! 11.548419297862324,4.177765777310839,13.312006731973725
-[03:09:44] [Server thread/WARN]: MIKE moved too quickly! 10.220601589777289,3.2343087347738333,14.536523140946883
-[03:09:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2541ms or 50 ticks behind
-[03:09:46] [Server thread/WARN]: MIKE moved too quickly! 9.392867576100173,1.4245780412791902,15.529722097441663
-[03:12:02] [Server thread/INFO]: Villager cpj['Villager'/181816, l='ServerLevel[world]', x=1341.05, y=119.19, z=613.77] died, message: 'Villager was slain by Zombie'
-[03:15:19] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[03:15:27] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[03:16:09] [Server thread/INFO]: [MIKE: Teleported MIKE to Lcdo_Patino]
-[03:19:16] [Server thread/INFO]: [MIKE: Teleported Gato_brujo to MIKE]
-[03:20:17] [Server thread/INFO]: [Hikejace: Teleported Gato_brujo to Hikejace]
-[03:21:24] [Server thread/INFO]: Hikejace fell from a high place
-[03:21:26] [Server thread/INFO]: [MIKE: Teleported Gato_brujo to MIKE]
-[03:26:33] [Server thread/INFO]: [Hikejace: Teleported Hikejace to MIKE]
-[03:29:27] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[03:31:45] [Server thread/INFO]: [Hikejace: Teleported Hikejace to Lcdo_Patino]
-[03:32:16] [Server thread/INFO]: Lcdo_Patino lost connection: Disconnected
-[03:32:16] [Server thread/INFO]: Lcdo_Patino left the game
-[03:32:21] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[03:33:13] [Server thread/INFO]: [MIKE: Teleported Gato_brujo to MIKE]
-[03:34:55] [Server thread/INFO]: Hikejace was slain by Zombie
-[03:37:08] [Server thread/INFO]: [MIKE: Teleported Hikejace to MIKE]
-[03:41:36] [Server thread/INFO]: MIKE has completed the challenge [Hot Tourist Destinations]
-[03:42:07] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[03:46:38] [Server thread/INFO]: Hikejace fell from a high place
-[03:49:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1057, y=95, z=-31} jh{x=1053, y=98, z=-30}
-[03:52:48] [Server thread/INFO]: [Hikejace: Teleported Hikejace to Gato_brujo]
-[03:53:27] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[03:56:19] [Server thread/INFO]: [MIKE: Teleported MIKE to 1743.500000, -21.000000, 1087.500000]
-[03:56:30] [Server thread/INFO]: [MIKE: Teleported Gato_brujo to MIKE]
-[03:56:31] [Server thread/INFO]: Gato_brujo has made the advancement [Eye Spy]
-[03:56:35] [Server thread/INFO]: Gato_brujo has made the advancement [The End?]
-[03:57:55] [Server thread/INFO]: Gato_brujo has reached the goal [The End... Again...]
-[03:57:55] [Server thread/INFO]: MIKE has reached the goal [The End... Again...]
-[03:59:16] [Server thread/INFO]: Gato_brujo was slain by Enderman
-[03:59:37] [Server thread/INFO]: [MIKE: Teleported Gato_brujo to MIKE]
-[04:04:26] [Server thread/INFO]: Gato_brujo was slain by Enderman
-[04:04:32] [Server thread/INFO]: [MIKE: Teleported Gato_brujo to MIKE]
-[04:04:33] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:50773] logged in with entity id 212834 at (1281.455696511089, 124.0, 574.3116162766598)
-[04:04:33] [Server thread/INFO]: Aesthetikkkk joined the game
-[04:04:37] [Server thread/INFO]: [MIKE: Teleported Gato_brujo to MIKE]
-[04:05:05] [Server thread/INFO]: [Hikejace: Teleported Hikejace to Aesthetikkkk]
-[04:05:28] [Server thread/INFO]: Aesthetikkkk has made the advancement [Cover Me with Diamonds]
-[04:05:56] [Server thread/INFO]: Gato_brujo has made the advancement [Free the End]
-[04:11:03] [Server thread/INFO]: InmortalPec[/100.73.226.42:50310] logged in with entity id 215747 at (119.5, 67.0, 6.5)
-[04:11:03] [Server thread/INFO]: InmortalPec joined the game
-[04:11:11] [Server thread/INFO]: [Hikejace: Teleported InmortalPec to MIKE]
-[04:12:09] [Server thread/INFO]: [Not Secure] <Gato_brujo> se me apago el celular
-[04:12:14] [Server thread/INFO]: [Not Secure] <Gato_brujo> ajajhsgjhajhhjs
-[04:12:49] [Server thread/INFO]: InmortalPec has made the advancement [Cover Me with Diamonds]
-[04:12:56] [Server thread/INFO]: InmortalPec has made the advancement [Suit Up]
-[04:13:19] [Server thread/INFO]: InmortalPec has made the advancement [Isn't It Iron Pick]
-[04:15:05] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[04:15:20] [Server thread/INFO]: [Not Secure] <MIKE> elo y si pones el ds en el compu?
-[04:15:28] [Server thread/INFO]: [Not Secure] <Gato_brujo> espera
-[04:15:37] [Server thread/INFO]: [Not Secure] <Gato_brujo> ya me esta prendiendo el celu
-[04:16:39] [Server thread/INFO]: MIKE has made the advancement [The Parrots and the Bats]
-[04:17:23] [Server thread/INFO]: Aesthetikkkk was slain by Magma Cube
-[04:18:47] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1754, y=96, z=1065} jh{x=1753, y=97, z=1065}
-[04:20:40] [Server thread/INFO]: Aesthetikkkk was slain by Magma Cube
-[04:21:42] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to 122.500000, 91.000000, 102.500000]
-[04:21:44] [Server thread/INFO]: Hikejace has made the advancement [We Need to Go Deeper]
-[04:21:44] [Server thread/INFO]: [Hikejace: Teleported Hikejace to MIKE]
-[04:21:51] [Server thread/INFO]: [Hikejace: Teleported Hikejace to Gato_brujo]
-[04:21:54] [Server thread/INFO]: Aesthetikkkk burned to death
-[04:21:57] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to 122.500000, 91.000000, 102.500000]
-[04:21:57] [Server thread/INFO]: InmortalPec has made the advancement [Monster Hunter]
-[04:22:04] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Hikejace]
-[04:22:33] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to InmortalPec]
-[04:22:44] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[04:22:52] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to 122.500000, 91.000000, 102.500000]
-[04:23:22] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[04:25:22] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[04:26:26] [Server thread/INFO]: Hikejace was doomed to fall by Goat
-[04:28:19] [Server thread/INFO]: [MIKE: Set the time to 13000]
-[04:30:42] [Server thread/INFO]: InmortalPec has made the advancement [Sweet Dreams]
-[04:31:45] [Server thread/INFO]: InmortalPec has made the advancement [Acquire Hardware]
-[04:32:14] [Server thread/INFO]: InmortalPec has made the advancement [Stone Age]
-[04:33:56] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[04:36:01] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
-[04:37:14] [Server thread/INFO]: Aesthetikkkk was slain by Zombie
-[04:37:21] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[04:38:03] [Server thread/INFO]: Aesthetikkkk fell from a high place
-[04:38:10] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[04:39:50] [Server thread/INFO]: Aesthetikkkk has made the advancement [Ice Bucket Challenge]
-[04:41:42] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Gato_brujo]
-[04:43:38] [Server thread/INFO]: InmortalPec lost connection: Disconnected
-[04:43:38] [Server thread/INFO]: InmortalPec left the game
-[04:45:04] [Server thread/INFO]: MIKE has made the advancement [Enchanter]
-[04:46:59] [Server thread/INFO]: [Hikejace: Teleported Hikejace to MIKE]
-[04:47:14] [Server thread/INFO]: MIKE has made the advancement [Crafting a New Look]
-[04:47:33] [Server thread/INFO]: Hikejace fell from a high place
-[04:47:49] [Server thread/INFO]: [Hikejace: Teleported Hikejace to MIKE]
-[04:49:59] [Server thread/INFO]: [MIKE: Teleported MIKE to 1743.500000, -21.000000, 1087.500000]
-[04:50:41] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[04:51:24] [Server thread/INFO]: [Hikejace: Teleported Hikejace to Aesthetikkkk]
-[04:52:06] [Server thread/INFO]: [MIKE: Teleported MIKE to 1743.500000, -21.000000, 1087.500000]
-[04:52:29] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[04:55:44] [Server thread/INFO]: Aesthetikkkk fell from a high place
-[04:56:03] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[04:56:32] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to 1316.500000, 65.000000, 752.500000]
-[04:58:42] [Server thread/INFO]: [MIKE: Teleported MIKE to 1743.500000, -21.000000, 1087.500000]
-[04:59:07] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Gato_brujo]
-[05:03:14] [Server thread/INFO]: Aesthetikkkk has made the advancement [Local Brewery]
-[05:03:41] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to 1316.500000, 65.000000, 752.500000]
-[05:03:57] [Server thread/INFO]: Aesthetikkkk has made the advancement [The End?]
-[05:03:57] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[05:03:58] [Server thread/INFO]: Aesthetikkkk has made the advancement [The City at the End of the Game]
-[05:04:02] [Server thread/INFO]: Aesthetikkkk has reached the goal [Sky's the Limit]
-[05:05:41] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Gato_brujo]
-[05:06:34] [Server thread/INFO]: MIKE lost connection: Disconnected
-[05:06:34] [Server thread/INFO]: MIKE left the game
-[05:07:10] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to 1316.500000, 65.000000, 752.500000]
-[05:08:08] [Server thread/INFO]: MIKE[/100.93.180.103:60293] logged in with entity id 249518 at (-2184.699999988079, 117.72918992414692, 713.3000000119209)
-[05:08:08] [Server thread/INFO]: MIKE joined the game
-[05:08:20] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Gato_brujo]
-[05:10:58] [Server thread/WARN]: MIKE moved too quickly! -0.5034297117581445,-1.8084926290149212,18.66143065905635
-[05:13:56] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[05:15:53] [Server thread/INFO]: Gato_brujo has reached the goal [Sky's the Limit]
-[05:30:44] [Server thread/INFO]: Locating element minecraft:trial_chambers took 0 ms
-[05:32:10] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[05:32:14] [Server thread/INFO]: [MIKE: Teleported MIKE to 1104.500000, 122.562500, 656.500000]
-[05:32:30] [Server thread/INFO]: MIKE has made the advancement [Minecraft: Trial(s) Edition]
-[05:32:44] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[05:38:13] [Server thread/INFO]: [Aesthetikkkk: Made Gato_brujo a server operator]
-[05:38:48] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[05:38:49] [Server thread/INFO]: Aesthetikkkk has made the advancement [Minecraft: Trial(s) Edition]
-[05:39:09] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Gato_brujo]
-[05:39:50] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Hikejace]
-[05:41:02] [Server thread/INFO]: MIKE has made the advancement [Under Lock and Key]
-[05:41:08] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Gato_brujo]
-[05:43:03] [Server thread/INFO]: [MIKE: Teleported Gato_brujo to MIKE]
-[05:43:04] [Server thread/INFO]: Gato_brujo has made the advancement [Minecraft: Trial(s) Edition]
-[05:46:39] [Server thread/INFO]: [MIKE: Teleported Gato_brujo to 1323.500000, 119.000000, 631.500000]
-[05:52:47] [Server thread/INFO]: Hikejace lost connection: Disconnected
-[05:52:47] [Server thread/INFO]: Hikejace left the game
-[05:52:57] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
-[05:53:57] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Creative Mode]
-[05:54:09] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Spectator Mode]
-[05:54:40] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Survival Mode]
-[05:58:38] [Server thread/INFO]: Aesthetikkkk has made the advancement [Take Aim]
-[06:02:44] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[06:02:45] [Server thread/INFO]: Aesthetikkkk has made the advancement [Those Were the Days]
-[06:02:54] [Server thread/INFO]: MIKE was slain by Piglin Brute
-[06:03:00] [Server thread/INFO]: Aesthetikkkk was slain by Piglin Brute
-[06:03:16] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[06:03:30] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[06:03:32] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Spectator Mode]
-[06:03:37] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[06:03:37] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[06:03:41] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[06:04:00] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[06:04:08] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[06:04:23] [Server thread/INFO]: [MIKE: Teleported MIKE to -134.500000, 83.000000, 297.500000]
-[06:04:26] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[06:05:03] [Server thread/INFO]: [Aesthetikkkk: The difficulty has been set to Peaceful]
-[06:05:06] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Survival Mode]
-[06:05:09] [Server thread/INFO]: Aesthetikkkk has made the advancement [War Pigs]
-[06:05:09] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[06:06:46] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[06:07:26] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[06:07:45] [Server thread/INFO]: [Aesthetikkkk: The difficulty has been set to Hard]
-[06:12:05] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Spectator Mode]
-[06:12:09] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Creative Mode]
-[06:12:38] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[06:12:43] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Survival Mode]
-[06:13:40] [Server thread/INFO]: [Not Secure] <MIKE> dinnerbone
-[06:14:21] [Server thread/INFO]: Hikejace[/100.119.199.16:60742] logged in with entity id 280679 at (1377.5189970273254, 145.0, 380.69999998807907)
-[06:14:21] [Server thread/INFO]: Hikejace joined the game
-[06:14:46] [Server thread/INFO]: [MIKE: Teleported Gato_brujo to MIKE]
-[06:15:15] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Gato_brujo]
-[06:16:39] [Server thread/INFO]: Hikejace lost connection: Disconnected
-[06:16:39] [Server thread/INFO]: Hikejace left the game
-[06:17:44] [Server thread/INFO]: Aesthetikkkk has made the advancement [Ol' Betsy]
-[06:18:46] [Server thread/INFO]: Aesthetikkkk was burned to a crisp while fighting MIKE
-[06:26:58] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[06:26:59] [Server thread/INFO]: [MIKE: Teleported Gato_brujo to MIKE]
-[06:32:42] [Server thread/INFO]: Aesthetikkkk lost connection: Disconnected
-[06:32:42] [Server thread/INFO]: Aesthetikkkk left the game
-[06:46:53] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[06:56:51] [Server thread/INFO]: [Not Secure] <MIKE> necesitas algo?
-[07:01:49] [Server thread/INFO]: Hikejace[/100.119.199.16:61499] logged in with entity id 295952 at (1379.699999988079, 152.0, 374.1263691865689)
-[07:01:49] [Server thread/INFO]: Hikejace joined the game
-[07:03:29] [Server thread/INFO]: Hikejace lost connection: Disconnected
-[07:03:29] [Server thread/INFO]: Hikejace left the game
-[07:06:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2136ms or 42 ticks behind
-[07:11:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
-[07:15:30] [Server thread/WARN]: MIKE moved wrongly!
-[07:20:04] [Server thread/WARN]: MIKE moved too quickly! -3.8371863475644545,-1.9531908480335716,17.30184267608047
-[07:20:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2183ms or 43 ticks behind
-[07:26:47] [Server thread/INFO]: [Not Secure] <Gato_brujo> sigues aqui en el juego?
-[07:33:15] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[07:33:50] [Server thread/INFO]: [MIKE: Teleported MIKE to 1323.500000, 119.000000, 631.500000]
-[07:35:02] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[07:39:47] [Server thread/INFO]: [MIKE: Teleported MIKE to 1323.500000, 119.000000, 631.500000]
-[07:40:06] [Server thread/INFO]: [MIKE: Teleported Gato_brujo to MIKE]
-[07:40:11] [Server thread/INFO]: MIKE lost connection: Disconnected
-[07:40:11] [Server thread/INFO]: MIKE left the game
-[07:40:20] [Server thread/INFO]: Gato_brujo lost connection: Disconnected
-[07:40:20] [Server thread/INFO]: Gato_brujo left the game
-[07:40:37] [Server thread/INFO]: Stopping the server
-[07:40:37] [Server thread/INFO]: Stopping server
-[07:40:37] [Server thread/INFO]: Saving players
-[07:40:37] [Server thread/INFO]: Saving worlds
-[07:40:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:40:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[07:40:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[07:40:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:40:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:40:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:40:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:13:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:13:13] [ServerMain/INFO]: Loaded 1337 recipes
+[00:13:13] [ServerMain/INFO]: Loaded 1448 advancements
+[00:13:14] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[00:13:14] [Server thread/INFO]: Loading properties
+[00:13:14] [Server thread/INFO]: Default game type: SURVIVAL
+[00:13:14] [Server thread/INFO]: Generating keypair
+[00:13:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:13:14] [Server thread/INFO]: Using epoll channel type
+[00:13:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:13:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:13:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:13:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:13:15] [Server thread/INFO]: Preparing level "world"
+[00:13:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 22%
+[00:13:27] [Worker-Main-1/INFO]: Preparing spawn area: 34%
+[00:13:27] [Server thread/INFO]: Time elapsed: 11799 ms
+[00:13:27] [Server thread/INFO]: Done (12.390s)! For help, type "help"
+[00:13:31] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:12881] logged in with entity id 8 at (1354.1465097572755, 122.0, 650.9218565035594)
+[00:13:31] [Server thread/INFO]: Aesthetikkkk joined the game
+[00:13:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2157ms or 43 ticks behind
+[00:16:16] [Server thread/WARN]: Aesthetikkkk moved too quickly! 8.919333302821087,0.756759288177264,-4.661803382307994
+[00:17:31] [Server thread/INFO]: Aesthetikkkk lost connection: Timed out
+[00:17:31] [Server thread/INFO]: Aesthetikkkk left the game
+[00:17:55] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:13031] logged in with entity id 860 at (1350.3469400615702, 122.0, 635.1731952991552)
+[00:17:55] [Server thread/INFO]: Aesthetikkkk joined the game
+[00:18:25] [Server thread/INFO]: Aesthetikkkk lost connection: Timed out
+[00:18:25] [Server thread/INFO]: Aesthetikkkk left the game
+[00:19:25] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:20:22] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:13499] logged in with entity id 1131 at (1365.3445812036614, 121.5, 655.1999999880791)
+[00:20:22] [Server thread/INFO]: Aesthetikkkk joined the game
+[00:20:57] [Server thread/WARN]: Aesthetikkkk moved too quickly! 4.734514349484016,0.057700877005927964,9.168130553605351
+[00:22:08] [Server thread/INFO]: Aesthetikkkk lost connection: Timed out
+[00:22:08] [Server thread/INFO]: Aesthetikkkk left the game
+[00:22:32] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:14015] logged in with entity id 1566 at (1358.1199129424303, 122.0, 652.9644317778262)
+[00:22:32] [Server thread/INFO]: Aesthetikkkk joined the game
