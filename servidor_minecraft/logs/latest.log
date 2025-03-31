@@ -61,3 +61,14 @@
 [02:19:51] [Server thread/INFO]: Villager cpj['Fisherman'/3391, l='ServerLevel[world]', x=1332.95, y=120.23, z=670.02] died, message: 'Fisherman was slain by MIKE'
 [02:24:45] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
 [02:25:15] [Server thread/INFO]: [MIKE: Teleported Aesthetikkkk to 1323.500000, 119.000000, 631.500000]
+[02:37:33] [Server thread/INFO]: MIKE lost connection: Disconnected
+[02:37:33] [Server thread/INFO]: MIKE left the game
+[02:39:08] [Server thread/WARN]: Aesthetikkkk moved too quickly! 1.7604529809982523,2.3680968600179995,-9.649645960603038
+[02:39:22] [Server thread/WARN]: Aesthetikkkk moved too quickly! 7.349916559956455,-0.7220456892706153,-7.372734747318077
+[02:39:53] [Server thread/INFO]: Aesthetikkkk lost connection: Timed out
+[02:39:53] [Server thread/INFO]: Aesthetikkkk left the game
+[02:40:03] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:22859] logged in with entity id 13752 at (1481.306889306952, 114.02442408821369, 959.3000000119209)
+[02:40:03] [Server thread/INFO]: Aesthetikkkk joined the game
+[02:40:15] [Server thread/WARN]: Aesthetikkkk moved too quickly! -2.834733910201976,8.796915465031745,-4.023188042844481
+[02:41:57] [Server thread/INFO]: MIKE[/100.93.180.103:52360] logged in with entity id 14602 at (1346.922033107724, 122.0, 637.637611287613)
+[02:41:57] [Server thread/INFO]: MIKE joined the game
