@@ -72,3 +72,14 @@
 [02:40:15] [Server thread/WARN]: Aesthetikkkk moved too quickly! -2.834733910201976,8.796915465031745,-4.023188042844481
 [02:41:57] [Server thread/INFO]: MIKE[/100.93.180.103:52360] logged in with entity id 14602 at (1346.922033107724, 122.0, 637.637611287613)
 [02:41:57] [Server thread/INFO]: MIKE joined the game
+[02:44:31] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[02:46:12] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Spectator Mode]
+[02:46:27] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Survival Mode]
+[02:58:32] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[03:00:12] [Server thread/WARN]: Aesthetikkkk moved too quickly! -4.995567597231002,-0.2522033402537289,-8.74551917254621
+[03:00:20] [Server thread/INFO]: Aesthetikkkk lost connection: Timed out
+[03:00:20] [Server thread/INFO]: Aesthetikkkk left the game
+[03:00:43] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:23666] logged in with entity id 23054 at (1312.0179441522205, 120.0, 631.4993409000223)
+[03:00:43] [Server thread/INFO]: Aesthetikkkk joined the game
+[03:02:37] [Server thread/INFO]: MIKE lost connection: Disconnected
+[03:02:37] [Server thread/INFO]: MIKE left the game
