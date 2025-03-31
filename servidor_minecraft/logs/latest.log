@@ -59,3 +59,5 @@
 [02:18:52] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:20308] logged in with entity id 5123 at (12.066407214826944, 60.0, -12.948914674972892)
 [02:18:52] [Server thread/INFO]: Aesthetikkkk joined the game
 [02:19:51] [Server thread/INFO]: Villager cpj['Fisherman'/3391, l='ServerLevel[world]', x=1332.95, y=120.23, z=670.02] died, message: 'Fisherman was slain by MIKE'
+[02:24:45] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[02:25:15] [Server thread/INFO]: [MIKE: Teleported Aesthetikkkk to 1323.500000, 119.000000, 631.500000]
