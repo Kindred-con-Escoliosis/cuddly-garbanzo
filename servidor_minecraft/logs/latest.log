@@ -1,59 +1,53 @@
-[00:13:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:13:13] [ServerMain/INFO]: Loaded 1337 recipes
-[00:13:13] [ServerMain/INFO]: Loaded 1448 advancements
-[00:13:14] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[00:13:14] [Server thread/INFO]: Loading properties
-[00:13:14] [Server thread/INFO]: Default game type: SURVIVAL
-[00:13:14] [Server thread/INFO]: Generating keypair
-[00:13:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:13:14] [Server thread/INFO]: Using epoll channel type
-[00:13:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:13:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:13:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:13:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:13:15] [Server thread/INFO]: Preparing level "world"
-[00:13:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[00:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 22%
-[00:13:27] [Worker-Main-1/INFO]: Preparing spawn area: 34%
-[00:13:27] [Server thread/INFO]: Time elapsed: 11799 ms
-[00:13:27] [Server thread/INFO]: Done (12.390s)! For help, type "help"
-[00:13:31] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:12881] logged in with entity id 8 at (1354.1465097572755, 122.0, 650.9218565035594)
-[00:13:31] [Server thread/INFO]: Aesthetikkkk joined the game
-[00:13:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2157ms or 43 ticks behind
-[00:16:16] [Server thread/WARN]: Aesthetikkkk moved too quickly! 8.919333302821087,0.756759288177264,-4.661803382307994
-[00:17:31] [Server thread/INFO]: Aesthetikkkk lost connection: Timed out
-[00:17:31] [Server thread/INFO]: Aesthetikkkk left the game
-[00:17:55] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:13031] logged in with entity id 860 at (1350.3469400615702, 122.0, 635.1731952991552)
-[00:17:55] [Server thread/INFO]: Aesthetikkkk joined the game
-[00:18:25] [Server thread/INFO]: Aesthetikkkk lost connection: Timed out
-[00:18:25] [Server thread/INFO]: Aesthetikkkk left the game
-[00:19:25] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[00:20:22] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:13499] logged in with entity id 1131 at (1365.3445812036614, 121.5, 655.1999999880791)
-[00:20:22] [Server thread/INFO]: Aesthetikkkk joined the game
-[00:20:57] [Server thread/WARN]: Aesthetikkkk moved too quickly! 4.734514349484016,0.057700877005927964,9.168130553605351
-[00:22:08] [Server thread/INFO]: Aesthetikkkk lost connection: Timed out
-[00:22:08] [Server thread/INFO]: Aesthetikkkk left the game
-[00:22:32] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:14015] logged in with entity id 1566 at (1358.1199129424303, 122.0, 652.9644317778262)
-[00:22:32] [Server thread/INFO]: Aesthetikkkk joined the game
+[02:02:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:02:20] [ServerMain/INFO]: Loaded 1337 recipes
+[02:02:20] [ServerMain/INFO]: Loaded 1448 advancements
+[02:02:20] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[02:02:20] [Server thread/INFO]: Loading properties
+[02:02:20] [Server thread/INFO]: Default game type: SURVIVAL
+[02:02:20] [Server thread/INFO]: Generating keypair
+[02:02:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:02:21] [Server thread/INFO]: Using epoll channel type
+[02:02:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:02:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:02:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:02:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:02:21] [Server thread/INFO]: Preparing level "world"
+[02:02:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:02:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:02:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:02:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:02:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:02:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:02:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:02:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:02:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:02:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:02:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:02:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:02:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:02:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:02:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:02:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:02:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:02:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:02:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:02:31] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[02:02:31] [Worker-Main-1/INFO]: Preparing spawn area: 42%
+[02:02:32] [Worker-Main-1/INFO]: Preparing spawn area: 53%
+[02:02:32] [Server thread/INFO]: Time elapsed: 10279 ms
+[02:02:32] [Server thread/INFO]: Done (10.906s)! For help, type "help"
+[02:02:34] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:19181] logged in with entity id 8 at (718.8212947497221, -1.0, 49.41468581039935)
+[02:02:34] [Server thread/INFO]: Aesthetikkkk joined the game
+[02:02:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2283ms or 45 ticks behind
+[02:02:43] [Server thread/INFO]: MIKE[/100.93.180.103:52214] logged in with entity id 191 at (1357.4660881109312, 122.5625, 662.5863634931142)
+[02:02:43] [Server thread/INFO]: MIKE joined the game
+[02:02:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4590ms or 91 ticks behind
+[02:04:08] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[02:04:17] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[02:04:28] [Server thread/INFO]: Villager cpj['Weaponsmith'/216, l='ServerLevel[world]', x=1333.08, y=120.00, z=628.07] died, message: 'Weaponsmith was slain by MIKE'
+[02:04:50] [Server thread/INFO]: [MIKE: The difficulty has been set to Hard]
+[02:07:19] [Server thread/INFO]: [MIKE: Teleported Aesthetikkkk to 1743.500000, -21.000000, 1087.500000]
+[02:07:19] [Server thread/INFO]: Aesthetikkkk has made the advancement [Eye Spy]
+[02:07:25] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[02:09:09] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[02:10:45] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to 1743.500000, -21.000000, 1087.500000]
