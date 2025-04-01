@@ -342,3 +342,37 @@
 [07:01:51] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> no hablan o mori yo
 [07:01:58] [Server thread/INFO]: [Not Secure] <Vazzzco> usted
 [07:05:34] [Server thread/INFO]: Aesthetikkkk has made the advancement [Enchanter]
+[07:08:39] [Server thread/INFO]: Aesthetikkkk lost connection: Timed out
+[07:08:39] [Server thread/INFO]: Aesthetikkkk left the game
+[07:09:55] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:47114] logged in with entity id 146821 at (1353.613776094232, 122.0, 662.8161477815493)
+[07:09:55] [Server thread/INFO]: Aesthetikkkk joined the game
+[07:19:08] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to MIKE]
+[07:19:25] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
+[07:19:29] [Server thread/INFO]: Vazzzco has completed the challenge [It Spreads]
+[07:19:35] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
+[07:19:55] [Server thread/INFO]: [MIKE: Teleported MIKE to 1323.500000, 119.000000, 631.500000]
+[07:20:02] [Server thread/INFO]: [MIKE: Teleported Gato_brujo to MIKE]
+[07:20:36] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
+[07:20:40] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Gato_brujo]
+[07:21:15] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Gato_brujo]
+[07:21:26] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Gato_brujo]
+[07:24:16] [Server thread/INFO]: MIKE lost connection: Disconnected
+[07:24:16] [Server thread/INFO]: MIKE left the game
+[07:25:05] [Server thread/INFO]: Gato_brujo lost connection: Disconnected
+[07:25:05] [Server thread/INFO]: Gato_brujo left the game
+[07:26:10] [Server thread/INFO]: Aesthetikkkk has made the advancement [Crafting a New Look]
+[07:26:26] [Server thread/INFO]: Aesthetikkkk lost connection: Disconnected
+[07:26:26] [Server thread/INFO]: Aesthetikkkk left the game
+[07:26:57] [Server thread/INFO]: Vazzzco lost connection: Disconnected
+[07:26:57] [Server thread/INFO]: Vazzzco left the game
+[07:27:22] [Server thread/INFO]: Stopping the server
+[07:27:22] [Server thread/INFO]: Stopping server
+[07:27:22] [Server thread/INFO]: Saving players
+[07:27:22] [Server thread/INFO]: Saving worlds
+[07:27:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:27:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07:27:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07:27:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:27:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:27:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:27:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
