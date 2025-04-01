@@ -4129,6 +4129,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_the_recipe": "2025-04-01 06:33:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_blue_orchid": {
     "criteria": {
       "has_blue_orchid": "2025-04-01 05:30:45 +0000"
