@@ -170,3 +170,19 @@
 [04:30:45] [Server thread/INFO]: Aesthetikkkk left the game
 [04:30:53] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:45842] logged in with entity id 43846 at (100.5, 49.0, 0.5)
 [04:30:53] [Server thread/INFO]: Aesthetikkkk joined the game
+[04:33:36] [Server thread/INFO]: Aesthetikkkk fell from a high place
+[04:34:11] [Server thread/INFO]: [MIKE: Teleported Aesthetikkkk to 1743.500000, -21.000000, 1087.500000]
+[04:34:23] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to -540.500000, 61.000000, 1074.500000]
+[04:35:07] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to 1538.500000, 135.000000, -227.500000]
+[04:35:44] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Spectator Mode]
+[04:35:57] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to -2151.500000, 60.000000, 680.500000]
+[04:36:14] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Survival Mode]
+[04:36:29] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[04:36:32] [Server thread/WARN]: Aesthetikkkk moved too quickly! 0.0,-10.806526110009003,0.0
+[04:36:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2999ms or 59 ticks behind
+[04:37:15] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[04:38:10] [Server thread/INFO]: Hikejace[/100.119.199.16:57907] logged in with entity id 48959 at (1389.2801643712519, 189.0, 351.45784318153153)
+[04:38:10] [Server thread/INFO]: Hikejace joined the game
+[04:41:31] [Server thread/WARN]: Aesthetikkkk moved too quickly! -4.8059062539484785,-2.857429861998554,-9.393388305794133
+[04:42:59] [Server thread/INFO]: Aesthetikkkk was slain by Hikejace
+[04:43:05] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Hikejace]

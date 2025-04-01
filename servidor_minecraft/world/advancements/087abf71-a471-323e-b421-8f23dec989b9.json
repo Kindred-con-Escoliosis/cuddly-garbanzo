@@ -10,6 +10,7 @@
       "minecraft:flower_forest": "2025-03-31 03:17:12 +0000",
       "minecraft:snowy_slopes": "2025-03-31 03:33:33 +0000",
       "minecraft:beach": "2025-03-31 03:03:40 +0000",
+      "minecraft:dark_forest": "2025-04-01 04:35:08 +0000",
       "minecraft:cherry_grove": "2025-03-31 03:37:25 +0000",
       "minecraft:sunflower_plains": "2025-03-31 03:37:49 +0000",
       "minecraft:river": "2025-03-31 03:08:32 +0000",
@@ -587,6 +588,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-01 04:35:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-04-01 04:17:23 +0000"
@@ -602,6 +609,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-04-01 04:17:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-01 04:35:30 +0000"
     },
     "done": true
   },
