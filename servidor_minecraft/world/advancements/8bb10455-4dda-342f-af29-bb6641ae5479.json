@@ -16,6 +16,8 @@
       "minecraft:lush_caves": "2025-03-29 20:51:13 +0000",
       "minecraft:deep_cold_ocean": "2025-03-30 03:03:58 +0000",
       "minecraft:frozen_ocean": "2025-03-30 07:13:07 +0000",
+      "minecraft:eroded_badlands": "2025-04-02 08:07:06 +0000",
+      "minecraft:desert": "2025-04-02 08:06:59 +0000",
       "minecraft:frozen_river": "2025-03-30 07:14:51 +0000",
       "minecraft:deep_frozen_ocean": "2025-03-30 07:13:02 +0000",
       "minecraft:ocean": "2025-03-28 04:32:52 +0000",
@@ -25,6 +27,9 @@
       "minecraft:birch_forest": "2025-03-28 04:20:33 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-26 03:08:21 +0000",
       "minecraft:snowy_beach": "2025-03-30 07:14:38 +0000",
+      "minecraft:warm_ocean": "2025-04-02 07:58:07 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-02 07:55:16 +0000",
+      "minecraft:badlands": "2025-04-02 08:07:10 +0000",
       "minecraft:flower_forest": "2025-03-28 03:07:05 +0000",
       "minecraft:savanna_plateau": "2025-03-29 02:45:10 +0000",
       "minecraft:beach": "2025-03-26 03:08:03 +0000",
@@ -4418,6 +4423,24 @@
     },
     "done": true
   },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2025-04-02 08:09:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-04-02 08:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-02 08:03:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_grate": {
     "criteria": {
       "has_copper_block": "2025-04-02 06:33:42 +0000"
@@ -4475,6 +4498,12 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-04-02 06:51:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-04-02 08:09:05 +0000"
     },
     "done": true
   },
