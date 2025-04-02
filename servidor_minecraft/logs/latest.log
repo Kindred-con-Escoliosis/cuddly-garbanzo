@@ -1,55 +1,87 @@
-[03:06:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:06:08] [ServerMain/INFO]: Loaded 1337 recipes
-[03:06:08] [ServerMain/INFO]: Loaded 1448 advancements
-[03:06:08] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[03:06:08] [Server thread/INFO]: Loading properties
-[03:06:08] [Server thread/INFO]: Default game type: SURVIVAL
-[03:06:08] [Server thread/INFO]: Generating keypair
-[03:06:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:06:09] [Server thread/INFO]: Using epoll channel type
-[03:06:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:06:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:06:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:06:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:06:09] [Server thread/INFO]: Preparing level "world"
-[03:06:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:06:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:06:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:06:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:06:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:06:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:06:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:06:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:06:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:06:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:06:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:06:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:06:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:06:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:06:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:06:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:06:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:06:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:06:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:06:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:06:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:06:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:06:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:06:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:06:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:06:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:06:22] [Server thread/INFO]: Time elapsed: 12372 ms
-[03:06:22] [Server thread/INFO]: Done (13.048s)! For help, type "help"
-[03:06:25] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:48077] logged in with entity id 14 at (1304.0240994537985, 121.0, 630.1223549690244)
-[03:06:25] [Server thread/INFO]: Aesthetikkkk joined the game
-[03:06:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
-[03:35:05] [Server thread/INFO]: Aesthetikkkk lost connection: Disconnected
-[03:35:05] [Server thread/INFO]: Aesthetikkkk left the game
-[03:36:01] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:48473] logged in with entity id 7054 at (1478.300000011921, 10.0, 156.68512313144097)
-[03:36:01] [Server thread/INFO]: Aesthetikkkk joined the game
-[03:36:03] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to 1568.500000, 135.000000, -226.500000]
-[03:51:52] [Server thread/INFO]: SadduranGT[/100.90.231.18:50601] logged in with entity id 12005 at (1348.476419273651, 122.0, 629.7624999880791)
-[03:51:52] [Server thread/INFO]: SadduranGT joined the game
-[03:51:56] [Server thread/INFO]: Vazzzco[/100.82.32.24:54163] logged in with entity id 12026 at (1320.723836891276, 117.0, 644.2495814910474)
-[03:51:56] [Server thread/INFO]: Vazzzco joined the game
-[03:52:06] [Server thread/INFO]: SadduranGT has made the advancement [Cover Me with Diamonds]
+[04:07:12] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:07:15] [ServerMain/INFO]: Loaded 1337 recipes
+[04:07:15] [ServerMain/INFO]: Loaded 1448 advancements
+[04:07:15] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[04:07:15] [Server thread/INFO]: Loading properties
+[04:07:15] [Server thread/INFO]: Default game type: SURVIVAL
+[04:07:15] [Server thread/INFO]: Generating keypair
+[04:07:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:07:15] [Server thread/INFO]: Using epoll channel type
+[04:07:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:07:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:07:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:07:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:07:15] [Server thread/INFO]: Preparing level "world"
+[04:07:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:07:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:07:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:07:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:07:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:07:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:07:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:07:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:07:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:07:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:07:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:07:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:07:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:07:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:07:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:07:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:07:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:07:23] [Server thread/INFO]: Time elapsed: 7968 ms
+[04:07:23] [Server thread/INFO]: Done (8.324s)! For help, type "help"
+[04:07:29] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:48835] logged in with entity id 14 at (1315.5205509856423, 121.0, 620.6829353134563)
+[04:07:29] [Server thread/INFO]: Aesthetikkkk joined the game
+[04:08:29] [Server thread/INFO]: SadduranGT[/100.90.231.18:50707] logged in with entity id 827 at (1309.699999988079, 66.0, 720.4049455195398)
+[04:08:29] [Server thread/INFO]: SadduranGT joined the game
+[04:08:31] [Server thread/INFO]: Vazzzco[/100.82.32.24:54234] logged in with entity id 915 at (1349.3103037293024, 121.9375, 645.958738922508)
+[04:08:31] [Server thread/INFO]: Vazzzco joined the game
+[04:11:18] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
+[04:15:09] [Server thread/INFO]: SadduranGT has reached the goal [Sky's the Limit]
+[04:15:09] [Server thread/INFO]: [Aesthetikkkk: Gave 1 [Elytra] to SadduranGT]
+[04:16:43] [Server thread/INFO]: Aesthetikkkk was slain by Iron Golem
+[04:17:25] [Server thread/INFO]: Vazzzco fell from a high place
+[04:19:40] [Server thread/INFO]: Locating element minecraft:stronghold took 34 ms
+[04:20:03] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> 1760 x 1040
+[04:21:29] [Server thread/INFO]: Vazzzco fell from a high place
+[04:21:38] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
+[04:21:47] [Server thread/INFO]: Aesthetikkkk tried to swim in lava
+[04:21:47] [Server thread/INFO]: Vazzzco was shot by Skeleton
+[04:21:52] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
+[04:21:56] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
+[04:22:00] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
+[04:22:15] [Server thread/INFO]: Vazzzco was slain by Zombie
+[04:22:19] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
+[04:22:26] [Server thread/INFO]: [Vazzzco: Set own game mode to Spectator Mode]
+[04:22:38] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Spectator Mode]
+[04:22:46] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Survival Mode]
+[04:23:07] [Server thread/INFO]: [Vazzzco: Set own game mode to Survival Mode]
+[04:23:18] [Server thread/INFO]: [Aesthetikkkk: Teleported Vazzzco to Aesthetikkkk]
+[04:23:18] [Server thread/INFO]: Vazzzco has made the advancement [Eye Spy]
+[04:23:46] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
+[04:26:14] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
+[04:31:20] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
+[04:33:22] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
+[04:39:35] [Server thread/INFO]: Aesthetikkkk has made the advancement [Hot Stuff]
+[04:39:50] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
+[04:40:23] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
+[04:40:50] [Server thread/INFO]: Vazzzco has made the advancement [Hot Stuff]
+[04:42:31] [Server thread/INFO]: [Aesthetikkkk: Set the weather to clear]
+[04:45:26] [Server thread/INFO]: SadduranGT lost connection: Disconnected
+[04:45:26] [Server thread/INFO]: SadduranGT left the game
+[04:45:40] [Server thread/INFO]: Aesthetikkkk lost connection: Disconnected
+[04:45:40] [Server thread/INFO]: Aesthetikkkk left the game
+[04:45:53] [Server thread/INFO]: Vazzzco lost connection: Disconnected
+[04:45:53] [Server thread/INFO]: Vazzzco left the game
+[04:45:58] [Server thread/INFO]: Stopping the server
+[04:45:58] [Server thread/INFO]: Stopping server
+[04:45:58] [Server thread/INFO]: Saving players
+[04:45:58] [Server thread/INFO]: Saving worlds
+[04:45:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:45:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:45:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:45:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:45:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:45:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:45:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
