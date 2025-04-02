@@ -83,3 +83,16 @@
 [05:53:20] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
 [05:53:25] [Server thread/INFO]: [MIKE: Teleported Aesthetikkkk to 5.500000, 61.000000, 1.500000]
 [05:53:34] [Server thread/INFO]: [MIKE: Teleported MIKE to 5.500000, 61.000000, 1.500000]
+[05:55:41] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
+[05:59:15] [Server thread/INFO]: Vazzzco hit the ground too hard
+[06:02:16] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
+[06:02:52] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to 218.500000, 46.000000, -29.500000]
+[06:02:54] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=144, y=14, z=472} jh{x=145, y=15, z=472}
+[06:04:13] [Server thread/INFO]: Vazzzco was slain by Muriño
+[06:04:24] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to 218.500000, 46.000000, -29.500000]
+[06:04:34] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
+[06:04:37] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to 218.500000, 46.000000, -29.500000]
+[06:04:46] [Server thread/INFO]: Vazzzco was slain by Muriño
+[06:04:55] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
+[06:04:57] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
+[06:05:00] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to 218.500000, 46.000000, -29.500000]

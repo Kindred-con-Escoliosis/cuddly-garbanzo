@@ -467,6 +467,7 @@
       "minecraft:phantom": "2025-04-01 05:29:34 +0000",
       "minecraft:enderman": "2025-04-01 04:21:48 +0000",
       "minecraft:witch": "2025-04-01 06:51:16 +0000",
+      "minecraft:endermite": "2025-04-02 06:04:09 +0000",
       "minecraft:spider": "2025-03-31 03:47:48 +0000",
       "minecraft:zombie": "2025-03-31 03:26:35 +0000",
       "minecraft:zombie_villager": "2025-04-01 06:15:23 +0000"
@@ -2105,6 +2106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-02 05:58:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-04-02 05:23:37 +0000"
@@ -2120,6 +2127,18 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-04-02 05:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-02 05:58:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-02 05:58:29 +0000"
     },
     "done": true
   },
@@ -2171,6 +2190,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-02 05:58:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-04-02 05:23:35 +0000"
@@ -2192,6 +2217,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-04-02 05:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-04-02 05:58:29 +0000"
     },
     "done": true
   },
