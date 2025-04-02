@@ -65,3 +65,12 @@
 [05:07:53] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Spectator Mode]
 [05:08:05] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Survival Mode]
 [05:10:16] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[05:16:14] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-178, y=15, z=541} jh{x=-178, y=14, z=542}
+[05:18:03] [Server thread/INFO]: [Not Secure] <SadduranGT> 21e
+[05:18:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-155, y=14, z=572} jh{x=-156, y=13, z=572}
+[05:23:44] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
+[05:26:18] [Server thread/INFO]: SadduranGT lost connection: Disconnected
+[05:26:18] [Server thread/INFO]: SadduranGT left the game
+[05:32:30] [Server thread/INFO]: [MIKE: Teleported MIKE to Vazzzco]
+[05:32:49] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
+[05:34:06] [Server thread/INFO]: [MIKE: Teleported MIKE to Vazzzco]
