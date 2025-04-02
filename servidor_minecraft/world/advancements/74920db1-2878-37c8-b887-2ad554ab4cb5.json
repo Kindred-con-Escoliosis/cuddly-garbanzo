@@ -3732,21 +3732,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:recipes/tools/spyglass": {
     "criteria": {
-      "has_smithing_trim_template": "2025-04-01 07:21:45 +0000"
+      "has_amethyst_shard": "2025-04-01 07:21:33 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+  "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
-      "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2025-04-01 07:26:10 +0000"
+      "has_amethyst_shard": "2025-04-01 07:21:33 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:recipes/misc/bolt_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_smithing_trim_template": "2025-04-01 07:21:46 +0000"
+      "has_smithing_trim_template": "2025-04-01 07:21:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-04-01 07:21:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-01 07:21:45 +0000"
     },
     "done": true
   },
@@ -3762,27 +3774,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-04-01 07:21:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
     "criteria": {
       "has_eye_armor_trim_smithing_template": "2025-04-01 07:21:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-04-01 07:21:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-04-01 07:21:33 +0000"
     },
     "done": true
   },
@@ -3792,9 +3786,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/amethyst_block": {
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_amethyst_shard": "2025-04-01 07:21:33 +0000"
+      "has_smithing_trim_template": "2025-04-01 07:21:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-01 07:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-01 07:21:46 +0000"
     },
     "done": true
   },
@@ -3804,27 +3810,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-04-01 07:21:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trim_with_any_armor_pattern": {
-    "criteria": {
-      "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2025-04-01 07:26:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/bolt_armor_trim_smithing_template": {
     "criteria": {
       "has_bolt_armor_trim_smithing_template": "2025-04-01 07:21:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
     "criteria": {
-      "has_vex_armor_trim_smithing_template": "2025-04-01 07:21:43 +0000"
+      "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2025-04-01 07:26:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2025-04-01 07:26:10 +0000"
     },
     "done": true
   },
