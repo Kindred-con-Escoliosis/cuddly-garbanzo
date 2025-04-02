@@ -4376,6 +4376,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-04-02 06:37:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2025-04-02 06:33:42 +0000"
@@ -4403,6 +4409,12 @@
   "minecraft:recipes/misc/silence_armor_trim_smithing_template": {
     "criteria": {
       "has_silence_armor_trim_smithing_template": "2025-04-02 06:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-04-02 06:51:14 +0000"
     },
     "done": true
   },
@@ -4457,6 +4469,12 @@
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2025-04-02 06:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-04-02 06:51:14 +0000"
     },
     "done": true
   },
