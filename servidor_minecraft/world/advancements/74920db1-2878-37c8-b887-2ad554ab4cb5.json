@@ -365,6 +365,7 @@
       "minecraft:wither_skeleton": "2025-04-02 06:59:47 +0000",
       "minecraft:zombie": "2025-03-26 03:28:54 +0000",
       "minecraft:creeper": "2025-03-26 03:29:13 +0000",
+      "minecraft:wither": "2025-04-03 04:18:13 +0000",
       "minecraft:evoker": "2025-04-01 03:11:38 +0000"
     },
     "done": false
@@ -4058,6 +4059,24 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-04-03 01:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-04-03 04:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-04-03 04:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-04-03 04:18:13 +0000"
     },
     "done": true
   },
