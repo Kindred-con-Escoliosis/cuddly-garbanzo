@@ -1,309 +1,42 @@
-[04:54:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:54:08] [ServerMain/INFO]: Loaded 1337 recipes
-[04:54:08] [ServerMain/INFO]: Loaded 1448 advancements
-[04:54:09] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[04:54:09] [Server thread/INFO]: Loading properties
-[04:54:09] [Server thread/INFO]: Default game type: SURVIVAL
-[04:54:09] [Server thread/INFO]: Generating keypair
-[04:54:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:54:09] [Server thread/INFO]: Using epoll channel type
-[04:54:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:54:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:54:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:54:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:54:09] [Server thread/INFO]: Preparing level "world"
-[04:54:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:54:24] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[04:54:25] [Server thread/INFO]: Time elapsed: 14316 ms
-[04:54:25] [Server thread/INFO]: Done (15.096s)! For help, type "help"
-[04:54:32] [Server thread/INFO]: MIKE[/100.93.180.103:54571] logged in with entity id 14 at (1355.3702953660372, 122.0, 662.1842229198968)
-[04:54:32] [Server thread/INFO]: MIKE joined the game
-[04:54:35] [Server thread/INFO]: SadduranGT[/100.90.231.18:50937] logged in with entity id 56 at (1407.8555504940182, 125.0, 520.8942641260438)
-[04:54:35] [Server thread/INFO]: SadduranGT joined the game
-[04:54:40] [Server thread/INFO]: Vazzzco[/100.82.32.24:54620] logged in with entity id 196 at (75.1795290310433, 57.0, -27.879158417747206)
-[04:54:40] [Server thread/INFO]: Vazzzco joined the game
-[04:54:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2554ms or 51 ticks behind
-[04:55:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5104ms or 102 ticks behind
-[04:56:32] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:49204] logged in with entity id 765 at (1645.453119891449, 128.0, -116.83553402885141)
-[04:56:32] [Server thread/INFO]: Aesthetikkkk joined the game
-[05:01:23] [Server thread/WARN]: MIKE moved wrongly!
-[05:04:01] [Server thread/INFO]: [MIKE: Teleported MIKE to 1743.500000, -21.000000, 1087.500000]
-[05:04:39] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[05:05:11] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
-[05:07:05] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
-[05:07:25] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[05:07:43] [Server thread/INFO]: Aesthetikkkk was slain by Enderman
-[05:07:51] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[05:07:53] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Spectator Mode]
-[05:08:05] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Survival Mode]
-[05:10:16] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[05:16:14] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-178, y=15, z=541} jh{x=-178, y=14, z=542}
-[05:18:03] [Server thread/INFO]: [Not Secure] <SadduranGT> 21e
-[05:18:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-155, y=14, z=572} jh{x=-156, y=13, z=572}
-[05:23:44] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
-[05:26:18] [Server thread/INFO]: SadduranGT lost connection: Disconnected
-[05:26:18] [Server thread/INFO]: SadduranGT left the game
-[05:32:30] [Server thread/INFO]: [MIKE: Teleported MIKE to Vazzzco]
-[05:32:49] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
-[05:34:06] [Server thread/INFO]: [MIKE: Teleported MIKE to Vazzzco]
-[05:34:53] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
-[05:42:28] [Server thread/INFO]: [MIKE: Teleported MIKE to 1743.500000, -21.000000, 1087.500000]
-[05:48:32] [Server thread/INFO]: [Not Secure] <MIKE> muriño
-[05:52:15] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[05:53:05] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[05:53:16] [Server thread/INFO]: [MIKE: Teleported MIKE to 5.500000, 61.000000, 1.500000]
-[05:53:20] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
-[05:53:25] [Server thread/INFO]: [MIKE: Teleported Aesthetikkkk to 5.500000, 61.000000, 1.500000]
-[05:53:34] [Server thread/INFO]: [MIKE: Teleported MIKE to 5.500000, 61.000000, 1.500000]
-[05:55:41] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[05:59:15] [Server thread/INFO]: Vazzzco hit the ground too hard
-[06:02:16] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[06:02:52] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to 218.500000, 46.000000, -29.500000]
-[06:02:54] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=144, y=14, z=472} jh{x=145, y=15, z=472}
-[06:04:13] [Server thread/INFO]: Vazzzco was slain by Muriño
-[06:04:24] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to 218.500000, 46.000000, -29.500000]
-[06:04:34] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[06:04:37] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to 218.500000, 46.000000, -29.500000]
-[06:04:46] [Server thread/INFO]: Vazzzco was slain by Muriño
-[06:04:55] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[06:04:57] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[06:05:00] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to 218.500000, 46.000000, -29.500000]
-[06:06:45] [Server thread/INFO]: Vazzzco was slain by Enderman
-[06:06:54] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[06:06:59] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to 218.500000, 46.000000, -29.500000]
-[06:07:40] [Server thread/INFO]: Vazzzco was slain by Enderman
-[06:07:45] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[06:07:46] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to 218.500000, 46.000000, -29.500000]
-[06:09:29] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[06:11:10] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
-[06:16:29] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
-[06:17:32] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[06:19:17] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[06:20:45] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[06:21:14] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to MIKE]
-[06:24:47] [Server thread/INFO]: Vazzzco has made the advancement [Enchanter]
-[06:27:22] [Server thread/INFO]: [MIKE: Set own game mode to Creative Mode]
-[06:27:45] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[06:29:30] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[06:36:10] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[06:36:19] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[06:38:29] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[06:39:17] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to MIKE]
-[06:39:47] [Server thread/INFO]: [MIKE: Teleported MIKE to 121.500000, 73.000000, 620.500000]
-[06:40:23] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[06:42:28] [Server thread/INFO]: MIKE was slain by Zombified Piglin
-[06:43:11] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[06:43:20] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[06:43:27] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[06:43:29] [Server thread/INFO]: [MIKE: Teleported MIKE to 121.500000, 73.000000, 620.500000]
-[06:44:51] [Server thread/INFO]: [MIKE: Teleported MIKE to 107.500000, 67.000000, 583.500000]
-[06:45:03] [Server thread/INFO]: Vazzzco has made the advancement [We Need to Go Deeper]
-[06:45:03] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to MIKE]
-[06:45:04] [Server thread/INFO]: Vazzzco has made the advancement [A Terrible Fortress]
-[06:45:28] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[06:45:55] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[06:46:16] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to MIKE]
-[06:46:28] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[06:51:14] [Server thread/INFO]: MIKE has made the advancement [Spooky Scary Skeleton]
-[06:57:57] [Server thread/INFO]: MIKE was slain by Wither Skeleton
-[06:58:43] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[06:58:56] [Server thread/INFO]: [MIKE: Teleported MIKE to 365.500000, 54.000000, 987.500000]
-[06:59:37] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[06:59:38] [Server thread/INFO]: Aesthetikkkk has made the advancement [A Terrible Fortress]
-[06:59:58] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[07:00:20] [Server thread/INFO]: Aesthetikkkk has made the advancement [Spooky Scary Skeleton]
-[07:00:30] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[07:04:23] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[07:06:59] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[07:07:04] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[07:08:43] [Server thread/INFO]: [Aesthetikkkk: Teleported MIKE to Aesthetikkkk]
-[07:08:44] [Server thread/INFO]: [Vazzzco: Teleported MIKE to Vazzzco]
-[07:13:14] [Server thread/INFO]: [MIKE: Teleported MIKE to 5.500000, 61.000000, 1.500000]
-[07:14:39] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[07:15:40] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
-[07:17:16] [Server thread/INFO]: [MIKE: Teleported MIKE to 5.500000, 61.000000, 1.500000]
-[07:17:23] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to MIKE]
-[07:17:41] [Server thread/INFO]: [MIKE: Teleported MIKE to Vazzzco]
-[07:17:55] [Server thread/INFO]: [MIKE: Teleported MIKE to 1743.500000, -21.000000, 1087.500000]
-[07:18:00] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[07:18:54] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[07:19:06] [Server thread/INFO]: Vazzzco has made the advancement [What a Deal!]
-[07:19:25] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
-[07:20:25] [Server thread/INFO]: [Aesthetikkkk: Set the weather to clear]
-[07:21:17] [Server thread/INFO]: Vazzzco lost connection: Disconnected
-[07:21:17] [Server thread/INFO]: Vazzzco left the game
-[07:21:32] [Server thread/INFO]: Vazzzco[/100.82.32.24:55198] logged in with entity id 114192 at (1357.699999988079, 122.0, 636.3000000119209)
-[07:21:32] [Server thread/INFO]: Vazzzco joined the game
-[07:21:36] [Server thread/INFO]: [Not Secure] <Vazzzco> ya vengo
-[07:21:38] [Server thread/INFO]: Vazzzco lost connection: Disconnected
-[07:21:38] [Server thread/INFO]: Vazzzco left the game
-[07:28:15] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
-[07:33:46] [Server thread/INFO]: Vazzzco[/100.82.32.24:55394] logged in with entity id 120272 at (1357.699999988079, 122.0, 636.3000000119209)
-[07:33:46] [Server thread/INFO]: Vazzzco joined the game
-[07:35:52] [Server thread/INFO]: [MIKE: Teleported Vazzzco to 1743.500000, -21.000000, 1087.500000]
-[07:38:10] [Server thread/INFO]: Aesthetikkkk has made the advancement [Surge Protector]
-[07:38:56] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
-[07:40:43] [Server thread/INFO]: Aesthetikkkk has made the advancement [Is It a Bird?]
-[07:43:54] [Server thread/INFO]: Aesthetikkkk has made the advancement [Is It a Balloon?]
-[07:44:45] [Server thread/INFO]: [Vazzzco: Teleported Aesthetikkkk to Vazzzco]
-[07:47:18] [Server thread/INFO]: Aesthetikkkk has reached the goal [The Next Generation]
-[07:47:18] [Server thread/INFO]: [Aesthetikkkk: Gave 1 [Dragon Egg] to Aesthetikkkk]
-[07:47:29] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[07:47:41] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[07:49:18] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -10.008231375665105,0.0,-2.827585785046267
-[07:49:18] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -10.393163366509498,0.0,-2.93633908910806
-[07:49:25] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -9.370017168955258,0.0,-4.511909108786767
-[07:49:25] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -9.730257818705752,0.0,-4.685762885003896
-[07:49:25] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -10.090495064978512,0.0,-4.859624132729323
-[07:49:25] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -10.45072757919138,0.0,-5.033495558156119
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -0.6293995220194617,0.0,-10.372864347254335
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -0.6193736355928081,0.0,-10.77121074518709
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -0.6039884400130475,0.0,-11.169213331433184
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -0.5833221818138057,0.0,-11.566830029311177
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -0.557495229237503,0.0,-11.964026702549972
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -0.5266543368092442,0.0,-12.360775713046678
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -0.49096983906986225,0.0,-12.75705634020801
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -0.45062937543102777,0.0,-13.152854253111855
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -0.4058322709503557,0.0,-13.54816083056221
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -0.35678450743445467,0.0,-13.942972374049077
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -0.3036942225774908,0.0,-14.337289235500293
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -0.24677141614130704,0.0,-14.731115792217679
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -0.18622396115853235,0.0,-15.12445948927052
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -0.12225776072619254,0.0,-15.51733077858853
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -0.055076892845256964,0.0,-15.909743052968906
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 0.01512741181160493,0.0,-16.301709740560682
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 0.0881643539994812,0.0,-16.693247221957563
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 0.16385470421725046,0.0,-17.084371826667166
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 0.24202594931364274,0.0,-17.47510086639977
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 0.32251163947853456,0.0,-17.865452615078993
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 0.4058277826399319,0.0,-18.255261345089366
-[07:50:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3156ms or 63 ticks behind
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 1.527799000565814,0.0,-10.211039976892607
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 1.6427429539474403,0.0,-10.591604211182357
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 1.7638611234144221,0.0,-10.969998222427876
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 1.8911322565933517,0.0,-11.346139303578411
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 2.0244746209825593,0.0,-11.719973801685
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 2.1637566564251927,0.0,-12.091475035778558
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 2.308809726968825,0.0,-12.460639064851648
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 2.459436036161314,0.0,-12.827482227597102
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 2.615418908000372,0.0,-13.192036652020988
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 2.7765252690728275,0.0,-13.554349771746047
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 2.942517633427279,0.0,-13.91447772905508
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 3.1131484194507735,0.0,-14.272489220241596
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 3.2881743146008944,0.0,-14.628456715122866
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 3.4673528626784744,0.0,-14.982458542103814
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 3.6504426203370812,0.0,-15.334578704649857
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 3.8366233037697555,0.0,-15.685280984851943
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -4.02460181097009,0.0,16.03531057114901
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -4.02460181097009,0.0,16.03531057114901
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -4.02460181097009,0.0,16.03531057114901
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -4.02460181097009,0.0,16.03531057114901
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -4.02460181097009,0.0,16.03531057114901
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -4.02460181097009,0.0,16.03531057114901
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -4.02460181097009,0.0,16.03531057114901
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -4.02460181097009,0.0,16.03531057114901
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -4.02460181097009,0.0,16.03531057114901
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -4.02460181097009,0.0,16.03531057114901
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -4.02460181097009,0.0,16.03531057114901
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -4.02460181097009,0.0,16.03531057114901
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -4.02460181097009,0.0,16.03531057114901
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -4.02460181097009,0.0,16.03531057114901
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -4.02460181097009,0.0,16.03531057114901
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -4.02460181097009,0.0,16.03531057114901
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -4.02460181097009,0.0,16.03531057114901
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -4.02460181097009,0.0,16.03531057114901
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -4.02460181097009,0.0,16.03531057114901
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -4.02460181097009,0.0,16.03531057114901
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -4.02460181097009,0.0,16.03531057114901
-[07:50:44] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -3.852490050273296,0.0,15.68039149067613
-[07:50:46] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -3.696918384662993,0.0,15.32096995652023
-[07:50:46] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 2.6909406907401205,0.0,-9.868510986942283
-[07:50:46] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 2.727720466135132,0.0,-10.263796816720514
-[07:50:46] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 2.761255604189877,0.0,-10.659551706269667
-[07:50:46] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 2.79175552529027,0.0,-11.055729829935672
-[07:50:46] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 2.8194163749208485,0.0,-11.45228957582708
-[07:50:46] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 2.844430022262806,0.0,-11.849193161692028
-[07:50:46] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 2.8669768188377915,0.0,-12.24640636371214
-[07:50:46] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 2.887226750754337,0.0,-12.643898212814292
-[07:50:46] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 2.905340475533194,0.0,-13.041640710172942
-[07:50:46] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 2.921470255104559,0.0,-13.43960857488969
-[07:50:46] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 2.9357607953709746,0.0,-13.837779002002435
-[07:50:46] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! 2.94834616694407,0.0,-14.236131422342396
-[07:50:46] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -2.9890964712934007,0.0,16.230021358665226
-[07:50:48] [Server thread/INFO]: Aesthetikkkk lost connection: Disconnected
-[07:50:48] [Server thread/INFO]: Aesthetikkkk left the game
-[07:50:52] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:50213] logged in with entity id 143383 at (658.9506163842844, 63.36465794354387, -348.5170506508113)
-[07:50:52] [Server thread/INFO]: Aesthetikkkk joined the game
-[07:51:59] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -8.636146912277468,-2.3640044275907712E-5,-5.770119226060615
-[07:51:59] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -8.96867524676189,-2.3865017467983307E-5,-5.992293322391788
-[07:51:59] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -9.301211655298175,-2.3938515326449306E-5,-6.21447281328642
-[07:51:59] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -9.633755330480952,-2.389237608468875E-5,-6.436657159287961
-[08:02:17] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[08:02:25] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[08:02:28] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[08:02:31] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[08:02:54] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[08:03:53] [Server thread/INFO]: Aesthetikkkk lost connection: Timed out
-[08:03:53] [Server thread/INFO]: Aesthetikkkk left the game
-[08:03:53] [Server thread/WARN]: handleDisconnection() called twice
-[08:04:40] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:51025] logged in with entity id 167496 at (-1884.0209945721613, 71.0, -1524.6893504744587)
-[08:04:40] [Server thread/INFO]: Aesthetikkkk joined the game
-[08:06:00] [Server thread/INFO]: Aesthetikkkk has made the advancement [Who's the Pillager Now?]
-[08:06:19] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to 1746.500000, -24.000000, 1089.500000]
-[08:06:35] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -3.7239293985112454,8.769448403711522E-5,-9.651525193088446
-[08:06:35] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -3.8677856445847283,8.838193858196064E-5,-10.024365823127255
-[08:06:35] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -4.011655642113055,8.881069639699035E-5,-10.39724209361384
-[08:06:35] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -4.155538015950242,8.901025153562614E-5,-10.770150440502448
-[08:06:35] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -4.299431528464993,8.902153091128184E-5,-11.143087656152375
-[08:06:35] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -4.443335065789142,8.889067797213102E-5,-11.516050853686465
-[08:06:35] [Server thread/WARN]: Oak Boat (vehicle of MIKE) moved too quickly! -4.587247625441705,8.866396245110764E-5,-11.889037434915963
-[08:09:05] [Server thread/INFO]: MIKE has made the advancement [Ol' Betsy]
-[08:09:05] [Server thread/INFO]: MIKE has made the advancement [Who's the Pillager Now?]
-[08:09:30] [Server thread/WARN]: MIKE moved too quickly! -17.155235123640978,-3.746172495427601,1.5750501239099322
-[08:09:30] [Server thread/WARN]: Aesthetikkkk moved too quickly! -4.001427135503491,0.8800391385729398,9.165654189555198
-[08:09:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2231ms or 44 ticks behind
-[08:10:13] [Server thread/INFO]: MIKE lost connection: Disconnected
-[08:10:13] [Server thread/INFO]: MIKE left the game
-[08:10:31] [Server thread/INFO]: Aesthetikkkk lost connection: Disconnected
-[08:10:31] [Server thread/INFO]: Aesthetikkkk left the game
-[08:10:32] [Server thread/INFO]: Vazzzco lost connection: Disconnected
-[08:10:32] [Server thread/INFO]: Vazzzco left the game
-[08:10:41] [Server thread/INFO]: Stopping the server
-[08:10:41] [Server thread/INFO]: Stopping server
-[08:10:41] [Server thread/INFO]: Saving players
-[08:10:41] [Server thread/INFO]: Saving worlds
-[08:10:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[08:10:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[08:10:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[08:10:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:10:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08:10:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:10:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:02:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:02:35] [ServerMain/INFO]: Loaded 1337 recipes
+[00:02:35] [ServerMain/INFO]: Loaded 1448 advancements
+[00:02:36] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[00:02:36] [Server thread/INFO]: Loading properties
+[00:02:36] [Server thread/INFO]: Default game type: SURVIVAL
+[00:02:36] [Server thread/INFO]: Generating keypair
+[00:02:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:02:36] [Server thread/INFO]: Using epoll channel type
+[00:02:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:02:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:02:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:02:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:02:37] [Server thread/INFO]: Preparing level "world"
+[00:02:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:02:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:49] [Server thread/INFO]: Time elapsed: 11982 ms
+[00:02:49] [Server thread/INFO]: Done (12.595s)! For help, type "help"
+[00:03:49] [Server thread/INFO]: Server empty for 60 seconds, pausing
