@@ -73,3 +73,8 @@
 [05:26:39] [Server thread/INFO]: [Not Secure] <Vazzzco> 218 136
 [05:26:44] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
 [05:27:34] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
+[05:38:27] [Server thread/WARN]: Aesthetikkkk moved too quickly! -11.671700291898361,6.45973986191585,12.357162178345789
+[05:41:56] [Server thread/WARN]: Aesthetikkkk moved too quickly! -10.712005868131428,-9.004825583065752,-10.727258975076893
+[05:44:35] [Server thread/WARN]: Vazzzco moved too quickly! -13.317914491096644,11.33366988980265,-0.587451946952882
+[05:46:07] [Server thread/INFO]: Villager cpj['Villager'/46308, l='ServerLevel[world]', x=-2451.78, y=66.00, z=2025.19] died, message: 'Villager was burned to a crisp while fighting Zombie'
+[05:46:46] [Server thread/INFO]: Villager cpj['Librarian'/46336, l='ServerLevel[world]', x=-2421.36, y=63.94, z=2074.66] died, message: 'Librarian hit the ground too hard'
