@@ -798,7 +798,8 @@
       "minecraft:skeleton": "2025-03-26 04:30:54 +0000",
       "minecraft:spider": "2025-03-26 04:46:04 +0000",
       "minecraft:zombie": "2025-03-26 04:28:11 +0000",
-      "minecraft:creeper": "2025-04-02 04:27:52 +0000"
+      "minecraft:creeper": "2025-04-02 04:27:52 +0000",
+      "minecraft:ghast": "2025-04-03 01:41:59 +0000"
     },
     "done": false
   },
@@ -1276,19 +1277,25 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2025-04-02 04:55:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-04-02 04:55:14 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-04-02 04:55:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-04-02 04:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-04-02 04:55:25 +0000"
     },
@@ -1300,9 +1307,78 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "has_basalt": "2025-04-02 04:55:25 +0000"
+      "minecraft:crimson_forest": "2025-04-03 01:18:05 +0000",
+      "minecraft:nether_wastes": "2025-04-03 01:17:55 +0000",
+      "minecraft:basalt_deltas": "2025-04-03 01:17:25 +0000",
+      "minecraft:warped_forest": "2025-04-03 01:20:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-03 01:17:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-03 01:17:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-03 01:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-04-03 01:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-04-03 01:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-03 01:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-04-03 01:41:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-04-03 01:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-04-03 01:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-03 01:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-04-03 01:21:13 +0000"
     },
     "done": true
   },
