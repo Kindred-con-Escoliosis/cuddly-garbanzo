@@ -1,238 +1,47 @@
-[01:01:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:01:54] [ServerMain/INFO]: Loaded 1337 recipes
-[01:01:54] [ServerMain/INFO]: Loaded 1448 advancements
-[01:01:55] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[01:01:55] [Server thread/INFO]: Loading properties
-[01:01:55] [Server thread/INFO]: Default game type: SURVIVAL
-[01:01:55] [Server thread/INFO]: Generating keypair
-[01:01:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:01:55] [Server thread/INFO]: Using epoll channel type
-[01:01:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:01:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:01:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:01:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:01:56] [Server thread/INFO]: Preparing level "world"
-[01:01:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:02:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:02:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:02:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:02:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:02:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:02:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:02:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:02:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:02:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:02:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:02:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:02:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:02:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:02:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:02:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:02:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:02:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:02:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:02:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:02:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:02:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:02:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:02:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:02:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:02:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:02:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:02:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:02:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:02:10] [Server thread/INFO]: Time elapsed: 13640 ms
-[01:02:10] [Server thread/INFO]: Done (14.382s)! For help, type "help"
-[01:02:12] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:61727] logged in with entity id 16 at (-2915.680759722874, 72.0, -1300.300000011921)
-[01:02:12] [Server thread/INFO]: Aesthetikkkk joined the game
-[01:06:25] [Server thread/WARN]: Aesthetikkkk moved too quickly! -8.0882691263796,15.573371905760467,4.127862448649466
-[01:10:14] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Spectator Mode]
-[01:10:22] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to 1600.500000, 100.000000, 600.500000]
-[01:10:35] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to 1600.500000, 100.000000, 900.500000]
-[01:15:48] [Server thread/INFO]: SadduranGT[/100.90.231.18:50252] logged in with entity id 9180 at (1399.699999988079, 125.0, 531.7860557317334)
-[01:15:48] [Server thread/INFO]: SadduranGT joined the game
-[01:16:23] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
-[01:16:28] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Survival Mode]
-[01:17:24] [Server thread/INFO]: SadduranGT has made the advancement [We Need to Go Deeper]
-[01:28:23] [Server thread/INFO]: Vazzzco[/100.82.32.24:60742] logged in with entity id 13739 at (1351.2906951851262, 122.0, 638.5278683802618)
-[01:28:23] [Server thread/INFO]: Vazzzco joined the game
-[01:34:04] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> no se tepeen sin preguntar que estoy en el nether
-[01:34:19] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Spectator Mode]
-[01:34:56] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to 1746.500000, -24.000000, 1089.500000]
-[01:34:59] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Survival Mode]
-[01:35:06] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=470, y=43, z=-162} jh{x=472, y=45, z=-162}
-[01:36:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=513, y=19, z=-164} jh{x=513, y=18, z=-164}
-[01:37:41] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to SadduranGT]
-[01:37:55] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=530, y=17, z=-142} jh{x=531, y=18, z=-144}
-[01:38:00] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=535, y=17, z=-137} jh{x=535, y=16, z=-138}
-[01:38:50] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=510, y=11, z=-106} jh{x=510, y=11, z=-105}
-[01:38:50] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=510, y=11, z=-106} jh{x=510, y=11, z=-105}
-[01:38:50] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=510, y=11, z=-106} jh{x=510, y=11, z=-105}
-[01:38:50] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=510, y=11, z=-106} jh{x=510, y=11, z=-105}
-[01:38:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=511, y=13, z=-106} jh{x=509, y=11, z=-107}
-[01:39:05] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=510, y=16, z=-102} jh{x=510, y=16, z=-101}
-[01:39:32] [Server thread/INFO]: Locating element minecraft:fortress took 111 ms
-[01:39:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=498, y=16, z=-100} jh{x=497, y=16, z=-100}
-[01:40:14] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=468, y=19, z=-108} jh{x=468, y=18, z=-108}
-[01:40:14] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=468, y=19, z=-108} jh{x=468, y=18, z=-108}
-[01:40:14] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=468, y=19, z=-108} jh{x=468, y=18, z=-108}
-[01:41:05] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to SadduranGT]
-[01:41:59] [Server thread/INFO]: SadduranGT has completed the challenge [Return to Sender]
-[01:42:01] [Server thread/INFO]: Hikejace[/100.119.199.16:63467] logged in with entity id 22918 at (-896.0927445742167, 13.0, 488.24386151462295)
-[01:42:01] [Server thread/INFO]: Hikejace joined the game
-[01:42:15] [Server thread/INFO]: Hikejace tried to swim in lava
-[01:42:22] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Hikejace]
-[01:42:30] [Server thread/INFO]: [Vazzzco: Teleported SadduranGT to Hikejace]
-[01:42:49] [Server thread/INFO]: Aesthetikkkk tried to swim in lava
-[01:42:56] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> bro
-[01:43:04] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> me estaba tomando la pocion ignifuga
-[01:44:09] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to 403.500000, 10.000000, -95.500000]
-[01:44:27] [Server thread/INFO]: SadduranGT lost connection: Disconnected
-[01:44:27] [Server thread/INFO]: SadduranGT left the game
-[01:44:46] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[01:45:30] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Hikejace]
-[01:45:42] [Server thread/INFO]: Hikejace was slain by Zombie
-[01:46:04] [Server thread/INFO]: Hikejace was slain by Zombie
-[01:48:52] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> como esta la granja?
-[01:49:02] [Server thread/INFO]: [Not Secure] <Vazzzco> igual
-[01:50:20] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> voy a sacar una plantilla del creativo q no esta mike y le voy a escribir q la queme
-[01:50:27] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Creative Mode]
-[01:50:47] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Survival Mode]
-[01:51:54] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> andres
-[01:51:57] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> venga
-[01:52:00] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> al piso de arriva
-[01:52:01] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> b
-[01:52:38] [Server thread/INFO]: Hikejace fell from a high place
-[01:52:41] [Server thread/INFO]: Aesthetikkkk has completed the challenge [Cover Me in Debris]
-[01:52:50] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[01:58:01] [Server thread/INFO]: Aesthetikkkk has made the advancement [Glow and Behold!]
-[01:58:27] [Server thread/INFO]: [Not Secure] <Vazzzco> oe, para donde queda la fortaleza del nether?
-[01:58:38] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> cuando entra busque un puente y ahi esta
-[01:58:59] [Server thread/INFO]: Aesthetikkkk has made the advancement [A Seedy Place]
-[01:59:51] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> vengo despues del partido
-[01:59:53] [Server thread/INFO]: Aesthetikkkk lost connection: Disconnected
-[01:59:53] [Server thread/INFO]: Aesthetikkkk left the game
-[01:59:54] [Server thread/INFO]: [Not Secure] <Vazzzco> ale
-[02:03:14] [Server thread/INFO]: Locating element minecraft:fortress took 0 ms
-[02:04:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=66, y=40, z=531} jh{x=87, y=82, z=544}
-[02:06:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=95, y=71, z=634} jh{x=95, y=72, z=635}
-[02:06:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=95, y=71, z=634} jh{x=95, y=72, z=635}
-[02:06:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=95, y=71, z=634} jh{x=95, y=72, z=635}
-[02:06:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=95, y=71, z=634} jh{x=95, y=72, z=635}
-[02:06:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=95, y=71, z=634} jh{x=95, y=72, z=635}
-[02:06:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=95, y=71, z=634} jh{x=95, y=72, z=635}
-[02:06:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=95, y=71, z=634} jh{x=95, y=72, z=635}
-[02:06:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=95, y=71, z=634} jh{x=95, y=72, z=635}
-[02:06:18] [Server thread/INFO]: MIKE[/100.93.180.103:51036] logged in with entity id 36703 at (-2731.1734797815875, 82.0, -2213.2878586672346)
-[02:06:18] [Server thread/INFO]: MIKE joined the game
-[02:07:13] [Server thread/INFO]: [MIKE: Teleported MIKE to Vazzzco]
-[02:09:36] [Server thread/INFO]: Vazzzco has made the advancement [Into Fire]
-[02:10:15] [Server thread/INFO]: Vazzzco has made the advancement [Ice Bucket Challenge]
-[02:10:57] [Server thread/INFO]: [MIKE: Teleported MIKE to Vazzzco]
-[02:11:45] [Server thread/INFO]: Hikejace fell from a high place
-[02:13:14] [Server thread/INFO]: MIKE lost connection: Disconnected
-[02:13:14] [Server thread/INFO]: MIKE left the game
-[02:13:17] [Server thread/INFO]: MIKE[/100.93.180.103:51095] logged in with entity id 40623 at (100.65410192981791, 67.0, 679.7660043031677)
-[02:13:17] [Server thread/INFO]: MIKE joined the game
-[02:16:25] [Server thread/INFO]: [MIKE: Teleported MIKE to 167.500000, 81.000000, 77.500000]
-[02:18:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=83, y=61, z=716} jh{x=79, y=62, z=740}
-[02:18:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=83, y=61, z=716} jh{x=79, y=62, z=740}
-[02:18:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=83, y=61, z=716} jh{x=79, y=62, z=740}
-[02:18:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=83, y=61, z=716} jh{x=79, y=62, z=740}
-[02:18:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=83, y=61, z=716} jh{x=79, y=62, z=740}
-[02:22:33] [Server thread/INFO]: MIKE lost connection: Timed out
-[02:22:33] [Server thread/INFO]: MIKE left the game
-[02:22:33] [Server thread/WARN]: handleDisconnection() called twice
-[02:22:36] [Server thread/INFO]: Vazzzco has completed the challenge [Return to Sender]
-[02:22:45] [Server thread/INFO]: MIKE[/100.93.180.103:51135] logged in with entity id 47177 at (1341.5755296367113, 119.0, 633.4658032778128)
-[02:22:45] [Server thread/INFO]: MIKE joined the game
-[02:22:56] [Server thread/INFO]: MIKE lost connection: Disconnected
-[02:22:56] [Server thread/INFO]: MIKE left the game
-[02:23:53] [Server thread/INFO]: MIKE[/100.93.180.103:51154] logged in with entity id 47906 at (1340.7435932768165, 119.0, 633.5595251622743)
-[02:23:53] [Server thread/INFO]: MIKE joined the game
-[02:24:28] [Server thread/INFO]: [Hikejace: Teleported Hikejace to MIKE]
-[02:24:37] [Server thread/INFO]: MIKE lost connection: Disconnected
-[02:24:37] [Server thread/INFO]: MIKE left the game
-[02:24:44] [Server thread/INFO]: Vazzzco has completed the challenge [Hot Tourist Destinations]
-[02:25:59] [Server thread/INFO]: Locating element minecraft:fortress took 3 ms
-[02:27:47] [Server thread/WARN]: Vazzzco moved too quickly! 10.904569283150181,-2.6977425205623717,-14.789957227318723
-[02:28:38] [Server thread/INFO]: Locating element minecraft:fortress took 0 ms
-[02:40:42] [Server thread/WARN]: Vazzzco moved too quickly! 0.4050787374889069,-0.03496793747090976,-10.305849488606839
-[02:47:14] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Hikejace]
-[02:52:52] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to 712.500000, 54.000000, 125.500000]
-[02:59:38] [Server thread/INFO]: Vazzzco has made the advancement [Spooky Scary Skeleton]
-[03:02:29] [Server thread/INFO]: Vazzzco lost connection: Disconnected
-[03:02:29] [Server thread/INFO]: Vazzzco left the game
-[03:04:43] [Server thread/INFO]: Vazzzco[/100.82.32.24:61314] logged in with entity id 61743 at (695.3000000119209, 74.0, 92.69999998807907)
-[03:04:43] [Server thread/INFO]: Vazzzco joined the game
-[03:07:08] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Hikejace]
-[03:18:00] [Server thread/INFO]: Hikejace lost connection: Disconnected
-[03:18:00] [Server thread/INFO]: Hikejace left the game
-[03:21:56] [Server thread/INFO]: Hikejace[/100.119.199.16:64111] logged in with entity id 68021 at (1388.6877376610646, 191.0, 347.34423454066655)
-[03:21:56] [Server thread/INFO]: Hikejace joined the game
-[03:22:15] [Server thread/INFO]: Hikejace fell from a high place
-[03:22:44] [Server thread/INFO]: Vazzzco lost connection: Disconnected
-[03:22:44] [Server thread/INFO]: Vazzzco left the game
-[03:22:58] [Server thread/INFO]: Vazzzco[/100.82.32.24:61387] logged in with entity id 68885 at (1275.5932946829407, 150.0, 742.5563825042365)
-[03:22:58] [Server thread/INFO]: Vazzzco joined the game
-[03:25:21] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1297, y=149, z=749} jh{x=1300, y=150, z=749}
-[03:46:58] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Hikejace]
-[03:47:10] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Hikejace]
-[03:49:30] [Server thread/INFO]: [Vazzzco: Set the time to 13000]
-[03:49:54] [Server thread/INFO]: Hikejace was slain by Zombie
-[03:59:13] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:62641] logged in with entity id 85574 at (1353.987500011921, 123.0, 661.5846043347722)
-[03:59:13] [Server thread/INFO]: Aesthetikkkk joined the game
-[04:00:27] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Hikejace]
-[04:02:18] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Hikejace]
-[04:02:26] [Server thread/INFO]: Hikejace was shot by Skeleton
-[04:05:05] [Server thread/INFO]: MIKE[/100.93.180.103:53660] logged in with entity id 89364 at (1344.699999988079, 121.0, 636.95508285384)
-[04:05:05] [Server thread/INFO]: MIKE joined the game
-[04:07:18] [Server thread/INFO]: MIKE lost connection: Disconnected
-[04:07:18] [Server thread/INFO]: MIKE left the game
-[04:07:32] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Hikejace]
-[04:07:47] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[04:07:53] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Hikejace]
-[04:08:22] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[04:09:35] [Server thread/INFO]: [Hikejace: Teleported Hikejace to Aesthetikkkk]
-[04:11:39] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[04:12:51] [Server thread/INFO]: [Hikejace: Teleported Hikejace to Vazzzco]
-[04:14:08] [Server thread/INFO]: [Hikejace: Teleported Hikejace to Vazzzco]
-[04:14:51] [Server thread/INFO]: [Hikejace: Teleported Hikejace to Aesthetikkkk]
-[04:15:21] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Hikejace]
-[04:16:18] [Server thread/INFO]: Hikejace has made the advancement [Withering Heights]
-[04:16:18] [Server thread/INFO]: Vazzzco has made the advancement [Withering Heights]
-[04:16:18] [Server thread/INFO]: Aesthetikkkk has made the advancement [Withering Heights]
-[04:16:29] [Server thread/INFO]: Vazzzco was blown up by Wither
-[04:16:34] [Server thread/INFO]: Hikejace has reached the goal [Sky's the Limit]
-[04:16:41] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[04:16:49] [Server thread/INFO]: Vazzzco was shot by a skull from Wither
-[04:17:16] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[04:17:21] [Server thread/INFO]: Vazzzco was shot by a skull from Wither
-[04:17:26] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[04:18:38] [Server thread/INFO]: Hikejace withered away
-[04:18:46] [Server thread/INFO]: [Hikejace: Teleported Hikejace to Vazzzco]
-[04:20:23] [Server thread/INFO]: [Hikejace: Teleported Hikejace to Aesthetikkkk]
-[04:20:24] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Hikejace]
-[04:21:58] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to 1746.500000, -24.000000, 1089.500000]
-[04:22:09] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[04:22:23] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to 1746.500000, -24.000000, 1089.500000]
-[04:22:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3405ms or 68 ticks behind
-[04:24:19] [Server thread/INFO]: Aesthetikkkk has made the advancement [Bring Home the Beacon]
-[04:26:35] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[04:29:12] [Server thread/INFO]: Aesthetikkkk lost connection: Disconnected
-[04:29:12] [Server thread/INFO]: Aesthetikkkk left the game
-[04:29:12] [Server thread/INFO]: Vazzzco lost connection: Disconnected
-[04:29:12] [Server thread/INFO]: Vazzzco left the game
-[04:30:03] [Server thread/INFO]: Hikejace lost connection: Disconnected
-[04:30:03] [Server thread/INFO]: Hikejace left the game
-[04:30:09] [Server thread/INFO]: Stopping the server
-[04:30:09] [Server thread/INFO]: Stopping server
-[04:30:09] [Server thread/INFO]: Saving players
-[04:30:09] [Server thread/INFO]: Saving worlds
-[04:30:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:30:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[04:30:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[04:30:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:30:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:30:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:30:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:37:13] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:37:18] [ServerMain/INFO]: Loaded 1337 recipes
+[04:37:19] [ServerMain/INFO]: Loaded 1448 advancements
+[04:37:19] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[04:37:19] [Server thread/INFO]: Loading properties
+[04:37:19] [Server thread/INFO]: Default game type: SURVIVAL
+[04:37:19] [Server thread/INFO]: Generating keypair
+[04:37:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:37:20] [Server thread/INFO]: Using epoll channel type
+[04:37:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:37:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:37:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:37:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:37:20] [Server thread/INFO]: Preparing level "world"
+[04:37:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:37:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:37:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:37:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:37:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:37:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:37:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:37:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:37:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:37:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:37:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:37:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:37:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:37:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:37:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:37:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:37:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:37:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:37:29] [Server thread/INFO]: Time elapsed: 8449 ms
+[04:37:29] [Server thread/INFO]: Done (9.209s)! For help, type "help"
+[04:37:51] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:63512] logged in with entity id 16 at (220.57513625006754, 1.0, -27.505746323916696)
+[04:37:51] [Server thread/INFO]: Aesthetikkkk joined the game
+[04:37:52] [Server thread/INFO]: Vazzzco[/100.82.32.24:61850] logged in with entity id 17 at (220.05778002762668, 2.0625, -20.710752680924763)
+[04:37:53] [Server thread/INFO]: Vazzzco joined the game
+[04:40:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2480ms or 49 ticks behind
+[04:40:19] [Server thread/INFO]: Vazzzco has made the advancement [Bring Home the Beacon]
+[04:40:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3100ms or 62 ticks behind
+[04:44:05] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
+[04:44:22] [Server thread/INFO]: Aesthetikkkk lost connection: Timed out
+[04:44:22] [Server thread/INFO]: Aesthetikkkk left the game
+[04:44:22] [Server thread/WARN]: handleDisconnection() called twice
+[04:44:28] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:63562] logged in with entity id 8160 at (1350.392529465937, 122.0, 634.0695260095641)
+[04:44:28] [Server thread/INFO]: Aesthetikkkk joined the game
