@@ -1307,15 +1307,6 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2025-04-03 01:18:05 +0000",
-      "minecraft:nether_wastes": "2025-04-03 01:17:55 +0000",
-      "minecraft:basalt_deltas": "2025-04-03 01:17:25 +0000",
-      "minecraft:warped_forest": "2025-04-03 01:20:48 +0000"
-    },
-    "done": false
-  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-04-03 01:17:24 +0000"
@@ -1328,9 +1319,18 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "has_gold_nugget": "2025-04-03 01:18:47 +0000"
+      "minecraft:crimson_forest": "2025-04-03 01:18:05 +0000",
+      "minecraft:nether_wastes": "2025-04-03 01:17:55 +0000",
+      "minecraft:basalt_deltas": "2025-04-03 01:17:25 +0000",
+      "minecraft:warped_forest": "2025-04-03 01:20:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-03 01:18:17 +0000"
     },
     "done": true
   },
@@ -1346,15 +1346,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/golden_carrot": {
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-04-03 01:18:47 +0000"
     },
     "done": true
   },
-  "minecraft:nether/return_to_sender": {
+  "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
-      "killed_ghast": "2025-04-03 01:41:59 +0000"
+      "has_gold_nugget": "2025-04-03 01:18:47 +0000"
     },
     "done": true
   },
@@ -1370,15 +1370,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-04-03 01:18:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2025-04-03 01:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-04-03 01:41:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-04 03:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-04-04 03:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-04 03:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-04-04 03:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-04-04 03:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-04 03:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-04 03:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-04-04 03:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-04-04 03:23:46 +0000"
     },
     "done": true
   },
