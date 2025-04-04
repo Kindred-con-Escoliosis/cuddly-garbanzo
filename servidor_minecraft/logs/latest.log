@@ -1,217 +1,39 @@
-[02:46:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:46:04] [ServerMain/INFO]: Loaded 1337 recipes
-[02:46:04] [ServerMain/INFO]: Loaded 1448 advancements
-[02:46:04] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[02:46:04] [Server thread/INFO]: Loading properties
-[02:46:04] [Server thread/INFO]: Default game type: SURVIVAL
-[02:46:04] [Server thread/INFO]: Generating keypair
-[02:46:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:46:04] [Server thread/INFO]: Using epoll channel type
-[02:46:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:46:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:46:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:46:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:46:04] [Server thread/INFO]: Preparing level "world"
-[02:46:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:46:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:46:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:46:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:46:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:46:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:46:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:46:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:46:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:46:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:46:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:46:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:46:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:46:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:46:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:46:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:46:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:46:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:46:13] [Server thread/INFO]: Time elapsed: 8418 ms
-[02:46:13] [Server thread/INFO]: Done (8.840s)! For help, type "help"
-[02:46:59] [Server thread/INFO]: MIKE[/100.93.180.103:58246] logged in with entity id 16 at (1355.7578043997726, 122.0, 659.2059395028458)
-[02:46:59] [Server thread/INFO]: MIKE joined the game
-[02:49:46] [Server thread/INFO]: MIKE has made the advancement [Bring Home the Beacon]
-[03:02:17] [Server thread/INFO]: [MIKE: Teleported MIKE to 5.500000, 61.000000, 1.500000]
-[03:06:49] [Server thread/INFO]: MIKE was blown up by Creeper
-[03:06:57] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[03:07:23] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[03:09:24] [Server thread/INFO]: [MIKE: Teleported MIKE to 1323.500000, 119.000000, 631.500000]
-[03:23:14] [Server thread/INFO]: SadduranGT[/100.90.231.18:51882] logged in with entity id 12607 at (1398.3626055227405, 125.0, 525.6837248794172)
-[03:23:14] [Server thread/INFO]: SadduranGT joined the game
-[03:23:22] [Server thread/INFO]: [Not Secure] <MIKE> hi
-[03:23:27] [Server thread/INFO]: [Not Secure] <SadduranGT> hello
-[03:26:27] [Server thread/INFO]: [Not Secure] <MIKE> tu tienes elytras?
-[03:26:31] [Server thread/INFO]: [Not Secure] <SadduranGT> szs
-[03:26:33] [Server thread/INFO]: [Not Secure] <MIKE> melo
-[03:26:38] [Server thread/INFO]: [Not Secure] <SadduranGT> hay eficiencia?
-[03:26:50] [Server thread/INFO]: [Not Secure] <MIKE> voy a mirar
-[03:27:34] [Server thread/INFO]: [Not Secure] <MIKE> al parecer no
-[03:28:09] [Server thread/INFO]: [Not Secure] <SadduranGT> voy a empezar a construir un lugar q podemos utilizar de tradeo con aldeanos
-[03:28:22] [Server thread/INFO]: [Not Secure] <SadduranGT> para avanzar con esos aldeanos
-[03:28:29] [Server thread/INFO]: [Not Secure] <MIKE> bien, yo tengo que sacar al aldeano de prote 4
-[03:28:52] [Server thread/INFO]: [Not Secure] <MIKE> estas en la base?
-[03:28:55] [Server thread/INFO]: [Not Secure] <SadduranGT> si
-[03:29:03] [Server thread/INFO]: [MIKE: Teleported MIKE to SadduranGT]
-[03:29:18] [Server thread/INFO]: [Not Secure] <MIKE> tienes comida?
-[03:29:22] [Server thread/INFO]: [Not Secure] <SadduranGT> si
-[03:29:26] [Server thread/INFO]: [Not Secure] <MIKE> suficiente?
-[03:29:40] [Server thread/INFO]: [Not Secure] <SadduranGT> dos stack de zanahorias
-[03:29:49] [Server thread/INFO]: [Not Secure] <MIKE> a bien
-[03:34:47] [Server thread/INFO]: Vazzzco[/100.82.32.24:50800] logged in with entity id 17843 at (212.0544456288237, 1.0, -19.266782608600156)
-[03:34:47] [Server thread/INFO]: Vazzzco joined the game
-[03:34:55] [Server thread/INFO]: [Not Secure] <MIKE> hi
-[03:35:01] [Server thread/INFO]: [Not Secure] <Vazzzco> Buenas
-[03:35:03] [Server thread/INFO]: [Not Secure] <Vazzzco> mano
-[03:35:11] [Server thread/INFO]: [Not Secure] <MIKE> eu
-[03:35:14] [Server thread/INFO]: [Not Secure] <Vazzzco> usted no estaba en una fiesta?
-[03:35:25] [Server thread/INFO]: [Not Secure] <MIKE> al final por la lluvia no fui con mi hermana
-[03:35:30] [Server thread/INFO]: [Not Secure] <Vazzzco> a
-[03:35:34] [Server thread/INFO]: [Not Secure] <MIKE> pero en cambio me dio 70 para que fuiera yo luego
-[03:35:47] [Server thread/INFO]: [Not Secure] <Vazzzco> melo
-[03:35:52] [Server thread/INFO]: [Not Secure] <Vazzzco> pa otro dia
-[03:35:59] [Server thread/INFO]: [Not Secure] <MIKE> szs apenas es
-[03:36:32] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:53948] logged in with entity id 19204 at (-2414.5690610524093, 66.5, 2007.1270198868806)
-[03:36:32] [Server thread/INFO]: Aesthetikkkk joined the game
-[03:36:39] [Server thread/INFO]: [Not Secure] <MIKE> hi x3
-[03:36:58] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> hola fiestero uwu
-[03:37:16] [Server thread/INFO]: [Not Secure] <MIKE> al final no fuimos por la lluvia y me dio 70
-[03:37:21] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> epicooo
-[03:38:58] [Server thread/INFO]: [Not Secure] <SadduranGT> mike como se hacia el cortador de piedra?
-[03:39:05] [Server thread/INFO]: [Not Secure] <MIKE> nose
-[03:39:08] [Server thread/INFO]: [Not Secure] <MIKE> ya miro
-[03:39:12] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to SadduranGT]
-[03:39:24] [Server thread/INFO]: [Not Secure] <MIKE> 3 de piedra abajo y 1 de hierro en el medio
-[03:41:40] [Server thread/WARN]: Aesthetikkkk moved wrongly!
-[03:43:12] [Server thread/INFO]: Aesthetikkkk lost connection: Disconnected
-[03:43:12] [Server thread/INFO]: Aesthetikkkk left the game
-[03:51:26] [Server thread/INFO]: [Not Secure] <MIKE> mka no entiendo como putas me duele tanto la cabeza si hoy no hice ni chimba
-[03:51:45] [Server thread/INFO]: [Not Secure] <Vazzzco> ni idea
-[03:52:01] [Server thread/INFO]: [Not Secure] <Vazzzco> poe que la verdad, solo fue quedarnos a hablar y ya
-[03:52:16] [Server thread/INFO]: [Not Secure] <Vazzzco> aunque bueno, ustedes levaban todo el dia en clase
-[03:52:25] [Server thread/INFO]: [Not Secure] <MIKE> puede que sea la lluvia o el que no este durmiendo un culo
-[03:52:34] [Server thread/INFO]: [Not Secure] <Vazzzco> si
-[04:02:15] [Server thread/INFO]: [Not Secure] <MIKE> ustedes saben como usar la consola?
-[04:02:36] [Server thread/INFO]: [Not Secure] <Vazzzco> yo no
-[04:03:16] [Server thread/INFO]: [Not Secure] <MIKE> bueno me rindo, yo me salgo y les dejo el server prendido, cualquier cosa me tagean en el discord
-[04:03:23] [Server thread/INFO]: [Not Secure] <MIKE> hoy voy a estar modo hike
-[04:03:33] [Server thread/INFO]: [Not Secure] <Vazzzco> bueno, ta bien
-[04:03:49] [Server thread/INFO]: [Not Secure] <MIKE> cuando todos salgan me avisan para no dejar el sv prendido
-[04:03:53] [Server thread/INFO]: [Not Secure] <MIKE> bueno chaos
-[04:03:54] [Server thread/INFO]: MIKE lost connection: Disconnected
-[04:03:54] [Server thread/INFO]: MIKE left the game
-[04:07:46] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:54216] logged in with entity id 31691 at (-2526.9289400096363, 75.0, 2375.459698840047)
-[04:07:46] [Server thread/INFO]: Aesthetikkkk joined the game
-[04:08:48] [Server thread/WARN]: Aesthetikkkk moved too quickly! 11.46968156755156,-2.2441966994586267,14.041854672794216
-[04:10:01] [Server thread/INFO]: [Aesthetikkkk: Set the weather to clear]
-[04:10:10] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> &tp a
-[04:10:23] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
-[04:18:52] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[04:19:34] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[04:19:41] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to SadduranGT]
-[04:23:49] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to 1798.500000, 145.000000, -582.500000]
-[04:26:42] [Server thread/WARN]: Aesthetikkkk moved too quickly! 9.935508535034842,-1.3767356137817153,0.5710754416649308
-[04:26:56] [Server thread/INFO]: [Vazzzco: Teleported Aesthetikkkk to Vazzzco]
-[04:28:34] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
-[04:31:02] [Server thread/INFO]: SadduranGT was blown up by Creeper
-[04:31:29] [Server thread/INFO]: [Aesthetikkkk: Gave 1 [Crossbow] to Aesthetikkkk]
-[04:31:46] [Server thread/INFO]: [Aesthetikkkk: Set the time to 13000]
-[04:32:19] [Server thread/INFO]: [Aesthetikkkk: Set the time to 1000]
-[04:34:51] [Server thread/WARN]: Aesthetikkkk moved too quickly! 10.602257188595615,0.12160004615783748,-1.012674471673776
-[04:37:31] [Server thread/INFO]: [Aesthetikkkk: Set the time to 1000]
-[04:37:35] [Server thread/INFO]: [Aesthetikkkk: Set the time to 13000]
-[04:49:08] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
-[04:50:33] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to SadduranGT]
-[04:52:16] [Server thread/INFO]: Villager cpj['Librarian'/12798, l='ServerLevel[world]', x=1339.17, y=119.00, z=628.46] was struck by lightning bwf['Lightning Bolt'/63449, l='ServerLevel[world]', x=1341.50, y=119.00, z=629.50].
-[05:05:12] [Server thread/WARN]: Oak Boat (vehicle of Vazzzco) moved too quickly! -4.52622664612818,0.0,9.363207763866285
-[05:05:12] [Server thread/WARN]: Oak Boat (vehicle of Vazzzco) moved too quickly! -4.7002401055358405,0.0,9.723372005814099
-[05:05:12] [Server thread/WARN]: Oak Boat (vehicle of Vazzzco) moved too quickly! -4.874251974817071,0.0,10.083537147206016
-[05:05:12] [Server thread/WARN]: Oak Boat (vehicle of Vazzzco) moved too quickly! -5.048262412984627,0.0,10.443703098097785
-[05:05:12] [Server thread/WARN]: Oak Boat (vehicle of Vazzzco) moved too quickly! -5.222271563149775,0.0,10.803869777539376
-[05:05:12] [Server thread/WARN]: Oak Boat (vehicle of Vazzzco) moved too quickly! -5.39627955411288,0.0,11.164037112675942
-[05:05:12] [Server thread/WARN]: Oak Boat (vehicle of Vazzzco) moved too quickly! -5.570286501794158,0.0,11.52420503793769
-[05:06:34] [Server thread/WARN]: Aesthetikkkk moved too quickly! 12.234129866221338,-1.8542851412907453,-12.354357757948264
-[05:06:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2239ms or 44 ticks behind
-[05:08:25] [Server thread/WARN]: Aesthetikkkk moved too quickly! 6.327111759699619,14.257133012731657,8.339070532915605
-[05:08:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6439ms or 128 ticks behind
-[05:08:34] [Server thread/WARN]: Aesthetikkkk moved too quickly! 10.272190657128704,-4.167106230077422,13.541348476295365
-[05:08:44] [Server thread/WARN]: Aesthetikkkk moved too quickly! -2.8590943260105632,-3.46165103700163,16.99264996410929
-[05:08:48] [Server thread/WARN]: Aesthetikkkk moved too quickly! -2.4883751687166296,-8.26498069141816,15.351805768988598
-[05:08:55] [Server thread/WARN]: Aesthetikkkk moved too quickly! -3.0331165071484065,-3.1866939529773646,17.907819935677963
-[05:08:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6107ms or 122 ticks behind
-[05:09:08] [Server thread/WARN]: Aesthetikkkk moved too quickly! -3.9692318607694688,-2.2790965053326175,17.000495826292422
-[05:09:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3849ms or 76 ticks behind
-[05:10:57] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
-[05:11:34] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[05:11:43] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
-[05:13:39] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[05:14:44] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[05:15:18] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[05:16:12] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[05:16:26] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[05:16:29] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
-[05:16:34] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[05:16:38] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to SadduranGT]
-[05:16:44] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[05:17:31] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
-[05:17:35] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[05:18:34] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[05:18:36] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
-[05:18:40] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[05:18:43] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to SadduranGT]
-[05:18:57] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[05:19:38] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
-[05:20:00] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[05:20:02] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to SadduranGT]
-[05:20:12] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[05:20:52] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[05:21:17] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to SadduranGT]
-[05:21:24] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[05:22:04] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[05:22:06] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
-[05:22:35] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[05:22:38] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to SadduranGT]
-[05:22:44] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[05:23:09] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[05:23:19] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
-[05:23:33] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[05:24:08] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to SadduranGT]
-[05:24:12] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[05:24:21] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
-[05:24:33] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[05:25:13] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
-[05:25:32] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[05:25:46] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to SadduranGT]
-[05:25:52] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[05:27:00] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
-[05:27:22] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[05:27:24] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to SadduranGT]
-[05:28:08] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[05:33:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1388, y=128, z=539} jh{x=1388, y=127, z=540}
-[05:33:39] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
-[05:33:47] [Server thread/INFO]: Vazzzco was slain by Guardian
-[05:33:57] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[05:34:06] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[05:34:51] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
-[05:36:39] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[05:38:13] [Server thread/INFO]: Aesthetikkkk lost connection: Disconnected
-[05:38:13] [Server thread/INFO]: Aesthetikkkk left the game
-[05:38:27] [Server thread/INFO]: Vazzzco lost connection: Disconnected
-[05:38:27] [Server thread/INFO]: Vazzzco left the game
-[05:42:35] [Server thread/INFO]: SadduranGT lost connection: Disconnected
-[05:42:35] [Server thread/INFO]: SadduranGT left the game
-[05:43:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[05:44:23] [Server thread/INFO]: Stopping the server
-[05:44:23] [Server thread/INFO]: Stopping server
-[05:44:23] [Server thread/INFO]: Saving players
-[05:44:23] [Server thread/INFO]: Saving worlds
-[05:44:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:44:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[05:44:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[05:44:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:44:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:44:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:44:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:27:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:27:37] [ServerMain/INFO]: Loaded 1337 recipes
+[22:27:37] [ServerMain/INFO]: Loaded 1448 advancements
+[22:27:39] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[22:27:39] [Server thread/INFO]: Loading properties
+[22:27:39] [Server thread/INFO]: Default game type: SURVIVAL
+[22:27:39] [Server thread/INFO]: Generating keypair
+[22:27:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:27:39] [Server thread/INFO]: Using epoll channel type
+[22:27:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:27:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:27:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:27:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:27:39] [Server thread/INFO]: Preparing level "world"
+[22:27:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 42%
+[22:27:49] [Server thread/INFO]: Time elapsed: 9264 ms
+[22:27:49] [Server thread/INFO]: Done (10.302s)! For help, type "help"
+[22:27:52] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:62344] logged in with entity id 16 at (1430.946564503729, 125.0, 526.0355092964081)
+[22:27:52] [Server thread/INFO]: Aesthetikkkk joined the game
+[22:28:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
