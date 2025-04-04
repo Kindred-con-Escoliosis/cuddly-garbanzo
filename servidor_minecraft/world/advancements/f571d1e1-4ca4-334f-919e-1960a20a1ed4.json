@@ -801,6 +801,7 @@
       "minecraft:spider": "2025-03-26 04:46:04 +0000",
       "minecraft:zombie": "2025-03-26 04:28:11 +0000",
       "minecraft:creeper": "2025-04-02 04:27:52 +0000",
+      "minecraft:zombie_villager": "2025-04-04 04:51:23 +0000",
       "minecraft:ghast": "2025-04-03 01:41:59 +0000"
     },
     "done": false
@@ -1582,9 +1583,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-04 04:31:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-04 03:32:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-04 04:31:31 +0000"
     },
     "done": true
   },
