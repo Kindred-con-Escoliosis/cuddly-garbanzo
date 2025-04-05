@@ -7,28 +7,31 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:flower_forest": "2025-03-26 03:58:23 +0000",
-      "minecraft:savanna_plateau": "2025-03-30 02:24:14 +0000",
       "minecraft:snowy_slopes": "2025-03-26 04:03:09 +0000",
-      "minecraft:beach": "2025-03-26 03:08:19 +0000",
       "minecraft:old_growth_pine_taiga": "2025-03-26 03:17:57 +0000",
-      "minecraft:stony_peaks": "2025-03-30 02:38:53 +0000",
       "minecraft:forest": "2025-03-26 03:26:01 +0000",
       "minecraft:taiga": "2025-03-26 03:18:48 +0000",
-      "minecraft:sparse_jungle": "2025-03-30 02:25:30 +0000",
       "minecraft:deep_ocean": "2025-03-28 04:20:50 +0000",
-      "minecraft:river": "2025-03-26 03:17:52 +0000",
-      "minecraft:dripstone_caves": "2025-03-26 03:28:52 +0000",
-      "minecraft:frozen_peaks": "2025-03-26 04:08:58 +0000",
-      "minecraft:deep_dark": "2025-03-28 03:10:59 +0000",
       "minecraft:ocean": "2025-03-28 04:20:27 +0000",
       "minecraft:jungle": "2025-03-30 02:25:50 +0000",
       "minecraft:cherry_grove": "2025-03-26 03:57:15 +0000",
       "minecraft:sunflower_plains": "2025-03-26 03:57:03 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-03-26 03:07:43 +0000",
+      "minecraft:flower_forest": "2025-03-26 03:58:23 +0000",
+      "minecraft:savanna_plateau": "2025-03-30 02:24:14 +0000",
+      "minecraft:beach": "2025-03-26 03:08:19 +0000",
+      "minecraft:stony_peaks": "2025-03-30 02:38:53 +0000",
+      "minecraft:dark_forest": "2025-04-05 04:11:00 +0000",
+      "minecraft:sparse_jungle": "2025-03-30 02:25:30 +0000",
+      "minecraft:river": "2025-03-26 03:17:52 +0000",
+      "minecraft:dripstone_caves": "2025-03-26 03:28:52 +0000",
+      "minecraft:frozen_peaks": "2025-03-26 04:08:58 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-05 04:10:51 +0000",
+      "minecraft:deep_dark": "2025-03-28 03:10:59 +0000",
       "minecraft:grove": "2025-03-28 04:02:24 +0000",
       "minecraft:meadow": "2025-03-26 03:19:08 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-03-26 03:07:43 +0000",
-      "minecraft:plains": "2025-03-26 03:52:56 +0000"
+      "minecraft:plains": "2025-03-26 03:52:56 +0000",
+      "minecraft:jagged_peaks": "2025-04-05 04:13:20 +0000"
     },
     "done": false
   },
@@ -391,15 +394,16 @@
     "criteria": {
       "cooked_porkchop": "2025-03-26 03:35:41 +0000",
       "mutton": "2025-03-26 03:49:24 +0000",
-      "apple": "2025-03-31 03:37:07 +0000",
       "chicken": "2025-03-26 03:48:42 +0000",
       "bread": "2025-03-26 03:23:05 +0000",
-      "rabbit": "2025-03-30 04:21:07 +0000",
-      "cooked_cod": "2025-03-30 02:40:48 +0000",
       "baked_potato": "2025-03-30 04:22:52 +0000",
+      "beef": "2025-04-05 04:14:22 +0000",
       "melon_slice": "2025-03-30 05:18:22 +0000",
       "porkchop": "2025-03-26 03:49:14 +0000",
       "golden_carrot": "2025-04-03 04:10:01 +0000",
+      "apple": "2025-03-31 03:37:07 +0000",
+      "rabbit": "2025-03-30 04:21:07 +0000",
+      "cooked_cod": "2025-03-30 02:40:48 +0000",
       "carrot": "2025-03-31 03:52:39 +0000"
     },
     "done": false
@@ -3029,9 +3033,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/suspicious_stew_from_wither_rose": {
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
-      "has_wither_rose": "2025-04-03 04:16:37 +0000"
+      "has_iron_nugget": "2025-04-03 04:08:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-04-03 04:16:18 +0000"
     },
     "done": true
   },
@@ -3047,21 +3057,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+  "minecraft:recipes/food/suspicious_stew_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2025-04-03 04:16:37 +0000"
     },
     "done": true
   },
-  "minecraft:nether/summon_wither": {
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
-      "summoned": "2025-04-03 04:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-04-03 04:08:00 +0000"
+      "has_wither_rose": "2025-04-03 04:16:37 +0000"
     },
     "done": true
   },
