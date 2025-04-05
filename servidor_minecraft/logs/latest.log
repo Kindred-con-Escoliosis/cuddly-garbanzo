@@ -1,54 +1,54 @@
-[22:27:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:27:37] [ServerMain/INFO]: Loaded 1337 recipes
-[22:27:37] [ServerMain/INFO]: Loaded 1448 advancements
-[22:27:39] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[22:27:39] [Server thread/INFO]: Loading properties
-[22:27:39] [Server thread/INFO]: Default game type: SURVIVAL
-[22:27:39] [Server thread/INFO]: Generating keypair
-[22:27:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:27:39] [Server thread/INFO]: Using epoll channel type
-[22:27:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:27:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:27:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:27:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:27:39] [Server thread/INFO]: Preparing level "world"
-[22:27:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:27:49] [Worker-Main-1/INFO]: Preparing spawn area: 42%
-[22:27:49] [Server thread/INFO]: Time elapsed: 9264 ms
-[22:27:49] [Server thread/INFO]: Done (10.302s)! For help, type "help"
-[22:27:52] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:62344] logged in with entity id 16 at (1430.946564503729, 125.0, 526.0355092964081)
-[22:27:52] [Server thread/INFO]: Aesthetikkkk joined the game
-[22:28:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[22:47:58] [Server thread/INFO]: SadduranGT[/100.90.231.18:55114] logged in with entity id 8057 at (1407.5665164558889, 125.0, 542.7006038258801)
-[22:47:58] [Server thread/INFO]: SadduranGT joined the game
-[22:48:09] [Server thread/INFO]: [Not Secure] <SadduranGT> hi
-[22:48:13] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> holi uwu}
-[23:06:42] [Server thread/INFO]: [Not Secure] <SadduranGT> como es q se arreglan las elitras
-[23:14:31] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> tienes mending?
-[23:14:37] [Server thread/INFO]: [Not Secure] <SadduranGT> no
-[23:14:46] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> se lo puedes poner e ir a la granja
-[23:14:52] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> o con los pedazos de phantom
-[23:15:13] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
-[23:15:15] [Server thread/INFO]: [Not Secure] <SadduranGT> con los pedazos de phantom es en un yunke o q
-[23:15:21] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> creo que si
-[23:22:07] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> no deje un pico? xd
-[23:22:18] [Server thread/INFO]: [Not Secure] <SadduranGT> no
-[23:22:31] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> epico
+[03:27:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:27:24] [ServerMain/INFO]: Loaded 1337 recipes
+[03:27:24] [ServerMain/INFO]: Loaded 1448 advancements
+[03:27:25] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[03:27:25] [Server thread/INFO]: Loading properties
+[03:27:25] [Server thread/INFO]: Default game type: SURVIVAL
+[03:27:25] [Server thread/INFO]: Generating keypair
+[03:27:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:27:25] [Server thread/INFO]: Using epoll channel type
+[03:27:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:27:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:27:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:27:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:27:25] [Server thread/INFO]: Preparing level "world"
+[03:27:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 22%
+[03:27:38] [Worker-Main-1/INFO]: Preparing spawn area: 69%
+[03:27:38] [Server thread/INFO]: Time elapsed: 12071 ms
+[03:27:38] [Server thread/INFO]: Done (12.818s)! For help, type "help"
+[03:27:40] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:9131] logged in with entity id 16 at (218.89878364069642, 1.0, -26.76485699156566)
+[03:27:40] [Server thread/INFO]: Aesthetikkkk joined the game
+[03:27:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[03:27:49] [Server thread/INFO]: SadduranGT[/100.90.231.18:57483] logged in with entity id 310 at (1380.4481714039944, 126.0, 532.533823480178)
+[03:27:49] [Server thread/INFO]: SadduranGT joined the game
+[03:28:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6257ms or 125 ticks behind
+[03:28:53] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
+[03:29:09] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
+[03:29:12] [Server thread/INFO]: Aesthetikkkk lost connection: Timed out
+[03:29:12] [Server thread/INFO]: Aesthetikkkk left the game
+[03:29:18] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:9137] logged in with entity id 725 at (1365.3828119828843, 125.0, 527.0459182621732)
+[03:29:18] [Server thread/INFO]: Aesthetikkkk joined the game
