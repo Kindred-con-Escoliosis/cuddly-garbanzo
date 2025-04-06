@@ -177,3 +177,24 @@
 [05:04:43] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
 [05:04:54] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
 [05:06:23] [Server thread/WARN]: MIKE moved too quickly! -17.81198476668942,-1.0364567119264336,-2.388880322134355
+[05:06:57] [Server thread/INFO]: [MIKE: Teleported MIKE to 1323.500000, 119.000000, 631.500000]
+[05:07:13] [Server thread/INFO]: MIKE lost connection: Disconnected
+[05:07:13] [Server thread/INFO]: MIKE left the game
+[05:07:25] [Server thread/INFO]: Hikejace[/100.119.199.16:55105] logged in with entity id 95407 at (1389.2813453695157, 184.0, 347.695423783752)
+[05:07:25] [Server thread/INFO]: Hikejace joined the game
+[05:07:54] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
+[05:08:00] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
+[05:09:56] [Server thread/WARN]: Vazzzco moved too quickly! 11.337076282891303,-6.118846989855541,-12.946024084894816
+[05:09:59] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
+[05:10:01] [Server thread/WARN]: Vazzzco moved too quickly! -1.8833331814480516,12.78453688288549,-12.59106504745796
+[05:11:51] [Server thread/INFO]: MIKE[/100.93.180.103:62571] logged in with entity id 99161 at (1356.495994025679, 122.0, 660.6989404879115)
+[05:11:51] [Server thread/INFO]: MIKE joined the game
+[05:12:36] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
+[05:12:44] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to MIKE]
+[05:13:07] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[05:14:19] [Server thread/INFO]: [MIKE: Teleported MIKE to 2271.500000, 76.000000, -10720.500000]
+[05:14:24] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to 712.500000, 54.000000, 125.500000]
+[05:15:02] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Hikejace]
+[05:16:58] [Server thread/INFO]: Villager cpj['Villager'/101603, l='ServerLevel[world]', x=2263.52, y=70.00, z=-10692.92] died, message: 'Villager was shot by Pillager'
+[05:17:24] [Server thread/INFO]: Villager cpj['Nitwit'/101583, l='ServerLevel[world]', x=2278.64, y=65.00, z=-10734.39] died, message: 'Nitwit was slain by Vindicator'
+[05:17:29] [Server thread/INFO]: Villager cpj['Villager'/101573, l='ServerLevel[world]', x=2282.10, y=63.00, z=-10754.85] died, message: 'Villager was slain by Vindicator'
