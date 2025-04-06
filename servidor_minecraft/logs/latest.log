@@ -46,3 +46,17 @@
 [23:22:51] [Server thread/INFO]: MIKE left the game
 [23:22:55] [Server thread/INFO]: MIKE[/100.93.180.103:49672] logged in with entity id 2331 at (1301.3304418242442, 151.0, 724.592468386946)
 [23:22:55] [Server thread/INFO]: MIKE joined the game
+[23:28:35] [Server thread/INFO]: MIKE lost connection: Disconnected
+[23:28:35] [Server thread/INFO]: MIKE left the game
+[23:29:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[23:30:51] [Server thread/INFO]: Stopping the server
+[23:30:51] [Server thread/INFO]: Stopping server
+[23:30:51] [Server thread/INFO]: Saving players
+[23:30:51] [Server thread/INFO]: Saving worlds
+[23:30:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:30:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:30:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:30:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:30:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:30:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:30:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
