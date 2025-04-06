@@ -487,6 +487,7 @@
       "minecraft:zombified_piglin": "2025-04-03 02:19:30 +0000",
       "minecraft:witch": "2025-04-01 06:51:16 +0000",
       "minecraft:wither_skeleton": "2025-04-03 02:15:36 +0000",
+      "minecraft:ravager": "2025-04-06 05:25:34 +0000",
       "minecraft:ghast": "2025-04-03 02:22:36 +0000",
       "minecraft:hoglin": "2025-04-03 01:41:46 +0000",
       "minecraft:piglin": "2025-04-03 01:41:44 +0000",
@@ -496,10 +497,12 @@
       "minecraft:magma_cube": "2025-04-03 02:00:08 +0000",
       "minecraft:endermite": "2025-04-02 06:04:09 +0000",
       "minecraft:spider": "2025-03-31 03:47:48 +0000",
+      "minecraft:vex": "2025-04-06 05:26:09 +0000",
       "minecraft:zombie": "2025-03-31 03:26:35 +0000",
       "minecraft:creeper": "2025-04-03 01:44:09 +0000",
       "minecraft:drowned": "2025-04-04 05:03:59 +0000",
-      "minecraft:zombie_villager": "2025-04-01 06:15:23 +0000"
+      "minecraft:zombie_villager": "2025-04-01 06:15:23 +0000",
+      "minecraft:evoker": "2025-04-06 05:25:21 +0000"
     },
     "done": false
   },
@@ -3189,9 +3192,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 05:51:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-04-06 05:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 05:51:27 +0000"
     },
     "done": true
   },
@@ -3201,9 +3216,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-04-06 05:51:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-04-06 05:03:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 05:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 05:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-04-06 05:28:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 05:51:27 +0000"
     },
     "done": true
   },
@@ -3213,9 +3258,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 05:51:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/copper_door": {
     "criteria": {
       "has_copper_ingot": "2025-04-06 05:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 05:51:27 +0000"
     },
     "done": true
   },
@@ -3231,9 +3288,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 05:51:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-06 05:03:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 05:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 05:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 05:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 05:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 05:51:27 +0000"
     },
     "done": true
   },
@@ -3249,9 +3342,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 05:51:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-04-06 05:21:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/spyglass_at_parrot": {
+    "criteria": {
+      "spyglass_at_parrot": "2025-04-06 05:31:50 +0000"
     },
     "done": true
   },
@@ -3261,9 +3366,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-06 05:27:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-06 05:03:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-04-06 05:26:17 +0000"
     },
     "done": true
   },
@@ -3276,6 +3393,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-06 05:03:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-06 05:30:24 +0000"
     },
     "done": true
   },
@@ -3294,6 +3417,36 @@
   "minecraft:recipes/redstone/copper_trapdoor": {
     "criteria": {
       "has_copper_ingot": "2025-04-06 05:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-04-06 05:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-06 05:27:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-04-06 05:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 05:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 05:51:27 +0000"
     },
     "done": true
   },

@@ -212,3 +212,78 @@
 [05:24:41] [Server thread/INFO]: Aesthetikkkk was slain by Vindicator
 [05:24:44] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
 [05:26:17] [Server thread/INFO]: Vazzzco has reached the goal [Postmortal]
+[05:28:30] [Server thread/INFO]: [MIKE: Set the time to 1000]
+[05:30:24] [Server thread/INFO]: Vazzzco has completed the challenge [Hero of the Village]
+[05:30:24] [Server thread/INFO]: Aesthetikkkk has completed the challenge [Hero of the Village]
+[05:30:37] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Hikejace]
+[05:31:13] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
+[05:31:32] [Server thread/INFO]: [MIKE: Teleported MIKE to 1323.500000, 119.000000, 631.500000]
+[05:31:50] [Server thread/INFO]: Vazzzco has made the advancement [Is It a Bird?]
+[05:32:13] [Server thread/WARN]: MIKE moved too quickly! 9.89325122343098,-0.4988926314579203,-15.180695680932786
+[05:32:33] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[05:32:39] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Hikejace]
+[05:33:45] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
+[05:33:48] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
+[05:34:01] [Server thread/WARN]: MIKE moved too quickly! -16.738641043285384,-2.4011251758124104,7.316019534391216
+[05:34:16] [Server thread/INFO]: MIKE lost connection: Disconnected
+[05:34:16] [Server thread/INFO]: MIKE left the game
+[05:34:52] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
+[05:37:35] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Hikejace]
+[05:37:51] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
+[05:37:59] [Server thread/INFO]: Villager cpj['Leatherworker'/119172, l='ServerLevel[world]', x=71.68, y=68.00, z=1356.29] died, message: 'Leatherworker withered away'
+[05:38:01] [Server thread/INFO]: Villager cpj['Leatherworker'/119405, l='ServerLevel[world]', x=65.65, y=66.00, z=1349.30] died, message: 'Leatherworker withered away while fighting Wither'
+[05:38:03] [Server thread/INFO]: Vazzzco withered away
+[05:38:17] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
+[05:38:31] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Creative Mode]
+[05:38:32] [Server thread/INFO]: Vazzzco withered away
+[05:38:37] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
+[05:38:52] [Server thread/INFO]: Vazzzco withered away
+[05:38:54] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
+[05:38:59] [Server thread/INFO]: Villager cpj['Fisherman'/119502, l='ServerLevel[world]', x=42.54, y=76.00, z=1382.71] died, message: 'Fisherman withered away'
+[05:38:59] [Server thread/INFO]: Vazzzco was shot by a skull from Wither
+[05:39:00] [Server thread/INFO]: Villager cpj['Villager'/119509, l='ServerLevel[world]', x=62.70, y=70.00, z=1398.42] died, message: 'Villager withered away while fighting Wither'
+[05:39:06] [Server thread/INFO]: Vazzzco was shot by a skull from Wither
+[05:39:13] [Server thread/INFO]: Villager cpj['Fisherman'/119506, l='ServerLevel[world]', x=77.33, y=71.00, z=1391.55] died, message: 'Fisherman was shot by a skull from Wither'
+[05:39:51] [Server thread/INFO]: [Vazzzco: Set own game mode to Spectator Mode]
+[05:40:20] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
+[05:40:23] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Survival Mode]
+[05:40:30] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Hikejace]
+[05:40:53] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to 51.500000, 70.000000, 1392.500000]
+[05:41:13] [Server thread/INFO]: Hikejace has made the advancement [Eye Spy]
+[05:41:18] [Server thread/WARN]: Vazzzco moved too quickly! 7.093383644346737,0.0,-7.594433595792907
+[05:41:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3326ms or 66 ticks behind
+[05:41:33] [Server thread/INFO]: [Vazzzco: Set own game mode to Survival Mode]
+[05:41:56] [Server thread/INFO]: Hikejace lost connection: Disconnected
+[05:41:56] [Server thread/INFO]: Hikejace left the game
+[05:41:59] [Server thread/INFO]: Hikejace[/100.119.199.16:55437] logged in with entity id 124853 at (1739.300000011921, -23.0, 1088.2025213273384)
+[05:41:59] [Server thread/INFO]: Hikejace joined the game
+[05:42:08] [Server thread/INFO]: Hikejace has made the advancement [The End?]
+[05:42:08] [Server thread/INFO]: [Hikejace: Teleported Hikejace to Aesthetikkkk]
+[05:42:29] [Server thread/INFO]: [Hikejace: Teleported Hikejace to Aesthetikkkk]
+[05:42:48] [Server thread/INFO]: Vazzzco was blown up by Creeper
+[05:43:13] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to 92.500000, 8.000000, 1409.500000]
+[05:43:43] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Hikejace]
+[05:44:29] [Server thread/INFO]: Aesthetikkkk has made the advancement [Remote Getaway]
+[05:44:36] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
+[05:45:05] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Creative Mode]
+[05:45:26] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Survival Mode]
+[05:46:24] [Server thread/INFO]: Vazzzco withered away
+[05:46:29] [Server thread/INFO]: [Hikejace: Teleported Hikejace to Vazzzco]
+[05:46:37] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
+[05:47:16] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Hikejace]
+[05:47:17] [Server thread/INFO]: [Hikejace: Teleported Hikejace to Aesthetikkkk]
+[05:47:19] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Hikejace]
+[05:47:40] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to 1746.500000, -24.000000, 1089.500000]
+[05:47:44] [Server thread/INFO]: [Hikejace: Teleported Hikejace to Vazzzco]
+[05:47:53] [Server thread/INFO]: MIKE[/100.93.180.103:62723] logged in with entity id 129461 at (945.3000000119209, 68.0, 521.3987840692256)
+[05:47:53] [Server thread/INFO]: MIKE joined the game
+[05:47:58] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
+[05:48:01] [Server thread/INFO]: Aesthetikkkk lost connection: Disconnected
+[05:48:01] [Server thread/INFO]: Aesthetikkkk left the game
+[05:48:13] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Hikejace]
+[05:48:15] [Server thread/INFO]: [MIKE: Teleported MIKE to Hikejace]
+[05:48:24] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Hikejace]
+[05:49:05] [Server thread/INFO]: Hikejace has made the advancement [What a Deal!]
+[05:50:09] [Server thread/INFO]: [Hikejace: Teleported Hikejace to Vazzzco]
+[05:55:30] [Server thread/INFO]: Hikejace has made the advancement [Enchanter]
+[05:57:40] [Server thread/INFO]: [MIKE: Teleported MIKE to Hikejace]

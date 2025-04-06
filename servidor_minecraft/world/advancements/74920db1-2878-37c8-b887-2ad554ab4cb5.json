@@ -16,6 +16,7 @@
       "minecraft:deep_cold_ocean": "2025-04-03 05:38:31 +0000",
       "minecraft:eroded_badlands": "2025-04-02 08:07:34 +0000",
       "minecraft:desert": "2025-04-02 08:07:29 +0000",
+      "minecraft:windswept_forest": "2025-04-06 05:34:31 +0000",
       "minecraft:jungle": "2025-03-31 02:07:19 +0000",
       "minecraft:ocean": "2025-04-01 05:26:02 +0000",
       "minecraft:cherry_grove": "2025-03-26 04:17:10 +0000",
@@ -373,6 +374,7 @@
       "minecraft:enderman": "2025-03-31 02:12:26 +0000",
       "minecraft:magma_cube": "2025-03-26 04:24:38 +0000",
       "minecraft:spider": "2025-03-26 03:19:45 +0000",
+      "minecraft:vex": "2025-04-06 05:27:29 +0000",
       "minecraft:zombie": "2025-03-26 03:28:54 +0000",
       "minecraft:creeper": "2025-03-26 03:29:13 +0000",
       "minecraft:drowned": "2025-04-06 05:08:15 +0000",
@@ -4327,15 +4329,39 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-04-06 05:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-06 05:26:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
       "has_nether_brick_slab": "2025-04-06 03:43:34 +0000"
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-06 05:30:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/fast_travel": {
     "criteria": {
       "travelled": "2025-04-06 05:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-06 05:26:43 +0000"
     },
     "done": true
   },
