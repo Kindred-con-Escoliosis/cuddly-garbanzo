@@ -287,3 +287,11 @@
 [05:50:09] [Server thread/INFO]: [Hikejace: Teleported Hikejace to Vazzzco]
 [05:55:30] [Server thread/INFO]: Hikejace has made the advancement [Enchanter]
 [05:57:40] [Server thread/INFO]: [MIKE: Teleported MIKE to Hikejace]
+[05:59:40] [Server thread/INFO]: Vazzzco has reached the goal [Beaconator]
+[06:05:10] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to MIKE]
+[06:08:21] [Server thread/INFO]: [Hikejace: Teleported Hikejace to Vazzzco]
+[06:13:10] [Server thread/INFO]: [MIKE: Teleported MIKE to Hikejace]
+[06:13:21] [Server thread/INFO]: [MIKE: Teleported MIKE to Vazzzco]
+[06:15:18] [Server thread/WARN]: MIKE moved too quickly! 0.155879232600455,17.780771083256397,-0.1579231462263806
+[06:15:25] [Server thread/WARN]: MIKE moved too quickly! 8.191385462886274,-2.95872591648984,-15.372280272337036
+[06:15:55] [Server thread/INFO]: [Hikejace: Teleported Hikejace to Vazzzco]
