@@ -1775,7 +1775,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-05 04:26:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-04-05 04:38:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_white_tulip": {
     "criteria": {
       "has_white_tulip": "2025-04-05 04:38:11 +0000"
     },
@@ -1784,18 +1796,6 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-04-05 04:59:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-04-05 04:26:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_white_tulip": {
-    "criteria": {
-      "has_white_tulip": "2025-04-05 04:38:11 +0000"
     },
     "done": true
   },
