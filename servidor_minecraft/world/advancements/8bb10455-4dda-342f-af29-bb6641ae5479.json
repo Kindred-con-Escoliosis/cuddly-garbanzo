@@ -3706,7 +3706,8 @@
     "criteria": {
       "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2025-04-06 03:10:08 +0000",
       "armor_trimmed_minecraft:spire_armor_trim_smithing_template_smithing_trim": "2025-04-01 07:20:42 +0000",
-      "armor_trimmed_minecraft:ward_armor_trim_smithing_template_smithing_trim": "2025-03-30 04:47:14 +0000"
+      "armor_trimmed_minecraft:ward_armor_trim_smithing_template_smithing_trim": "2025-03-30 04:47:14 +0000",
+      "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "2025-04-06 04:57:57 +0000"
     },
     "done": false
   },
@@ -4586,9 +4587,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-04-06 04:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-04-06 05:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-06 04:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-06 04:57:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-04-06 04:57:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/create_full_beacon": {
     "criteria": {
       "beacon": "2025-04-06 03:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-04-06 05:02:47 +0000"
     },
     "done": true
   },
