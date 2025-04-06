@@ -480,6 +480,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-04-03 02:07:18 +0000",
+      "minecraft:pillager": "2025-04-06 05:20:08 +0000",
       "minecraft:skeleton": "2025-03-31 03:47:51 +0000",
       "minecraft:elder_guardian": "2025-04-04 05:14:49 +0000",
       "minecraft:phantom": "2025-04-01 05:29:34 +0000",
@@ -3248,6 +3249,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-06 05:21:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-04-06 05:01:02 +0000"
@@ -3293,6 +3300,12 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2025-04-06 05:12:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-04-06 05:24:12 +0000"
     },
     "done": true
   },

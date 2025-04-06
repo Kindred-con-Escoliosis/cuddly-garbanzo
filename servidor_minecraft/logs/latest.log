@@ -198,3 +198,17 @@
 [05:16:58] [Server thread/INFO]: Villager cpj['Villager'/101603, l='ServerLevel[world]', x=2263.52, y=70.00, z=-10692.92] died, message: 'Villager was shot by Pillager'
 [05:17:24] [Server thread/INFO]: Villager cpj['Nitwit'/101583, l='ServerLevel[world]', x=2278.64, y=65.00, z=-10734.39] died, message: 'Nitwit was slain by Vindicator'
 [05:17:29] [Server thread/INFO]: Villager cpj['Villager'/101573, l='ServerLevel[world]', x=2282.10, y=63.00, z=-10754.85] died, message: 'Villager was slain by Vindicator'
+[05:17:46] [Server thread/INFO]: Villager cpj['Villager'/101611, l='ServerLevel[world]', x=2273.88, y=64.00, z=-10770.50] died, message: 'Villager was slain by Vindicator'
+[05:17:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[05:19:38] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
+[05:19:53] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[05:20:03] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to MIKE]
+[05:20:12] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[05:20:17] [Server thread/INFO]: Villager cpj['Villager'/101580, l='ServerLevel[world]', x=2271.56, y=67.56, z=-10719.06] died, message: 'Villager was slain by Vindicator'
+[05:20:18] [Server thread/INFO]: Villager cpj['Villager'/101608, l='ServerLevel[world]', x=2269.30, y=67.00, z=-10719.18] died, message: 'Villager was slain by Vindicator'
+[05:20:22] [Server thread/INFO]: Villager cpj['Villager'/101607, l='ServerLevel[world]', x=2260.73, y=67.00, z=-10721.49] died, message: 'Villager was slain by Vindicator'
+[05:21:39] [Server thread/INFO]: Vazzzco has made the advancement [Voluntary Exile]
+[05:24:12] [Server thread/INFO]: Vazzzco has made the advancement [Ol' Betsy]
+[05:24:41] [Server thread/INFO]: Aesthetikkkk was slain by Vindicator
+[05:24:44] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[05:26:17] [Server thread/INFO]: Vazzzco has reached the goal [Postmortal]
