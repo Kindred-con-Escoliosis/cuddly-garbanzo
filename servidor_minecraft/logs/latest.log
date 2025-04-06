@@ -317,3 +317,16 @@
 [06:56:39] [Server thread/INFO]: [Hikejace: Teleported Hikejace to MIKE]
 [07:01:52] [Server thread/INFO]: MIKE lost connection: Disconnected
 [07:01:52] [Server thread/INFO]: MIKE left the game
+[07:06:36] [Server thread/INFO]: Hikejace lost connection: Disconnected
+[07:06:36] [Server thread/INFO]: Hikejace left the game
+[07:07:12] [Server thread/INFO]: Stopping the server
+[07:07:12] [Server thread/INFO]: Stopping server
+[07:07:12] [Server thread/INFO]: Saving players
+[07:07:12] [Server thread/INFO]: Saving worlds
+[07:07:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:07:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07:07:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07:07:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:07:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:07:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:07:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
