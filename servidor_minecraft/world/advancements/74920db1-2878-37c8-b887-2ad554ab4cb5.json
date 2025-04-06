@@ -358,6 +358,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-03-31 03:38:42 +0000",
+      "minecraft:blaze": "2025-04-06 04:31:33 +0000",
       "minecraft:skeleton": "2025-03-26 03:52:09 +0000",
       "minecraft:elder_guardian": "2025-04-04 05:16:24 +0000",
       "minecraft:zombified_piglin": "2025-04-05 05:21:47 +0000",
@@ -1316,9 +1317,10 @@
       "minecraft:crimson_forest": "2025-03-26 04:51:54 +0000",
       "minecraft:nether_wastes": "2025-03-26 04:46:04 +0000",
       "minecraft:soul_sand_valley": "2025-04-01 05:52:39 +0000",
-      "minecraft:basalt_deltas": "2025-03-26 04:22:55 +0000"
+      "minecraft:basalt_deltas": "2025-03-26 04:22:55 +0000",
+      "minecraft:warped_forest": "2025-04-06 04:33:38 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {

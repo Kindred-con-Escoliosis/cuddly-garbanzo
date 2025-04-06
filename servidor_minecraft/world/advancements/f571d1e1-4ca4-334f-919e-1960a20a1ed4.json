@@ -16,6 +16,7 @@
       "minecraft:river": "2025-03-26 03:47:51 +0000",
       "minecraft:dripstone_caves": "2025-03-26 04:04:29 +0000",
       "minecraft:frozen_peaks": "2025-03-26 04:09:08 +0000",
+      "minecraft:jungle": "2025-04-06 04:29:06 +0000",
       "minecraft:cherry_grove": "2025-03-26 03:53:20 +0000",
       "minecraft:sunflower_plains": "2025-03-26 04:01:51 +0000",
       "minecraft:grove": "2025-03-29 02:30:51 +0000",
@@ -798,6 +799,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-26 04:30:54 +0000",
       "minecraft:phantom": "2025-04-04 04:02:53 +0000",
+      "minecraft:enderman": "2025-04-06 04:30:23 +0000",
       "minecraft:spider": "2025-03-26 04:46:04 +0000",
       "minecraft:zombie": "2025-03-26 04:28:11 +0000",
       "minecraft:creeper": "2025-04-02 04:27:52 +0000",
@@ -1796,6 +1798,96 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-04-05 04:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-04-06 04:27:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-06 04:25:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-04-06 04:25:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-06 04:25:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-04-06 04:25:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-06 04:25:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-06 04:25:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-04-06 04:29:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-04-06 04:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-04-06 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-04-06 04:25:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-04-06 04:25:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-06 04:25:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-06 04:25:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-04-06 04:29:12 +0000"
     },
     "done": true
   },
