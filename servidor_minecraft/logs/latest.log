@@ -58,3 +58,8 @@
 [03:09:23] [Server thread/INFO]: [Not Secure] <SadduranGT> hello
 [03:10:56] [Server thread/INFO]: [MIKE: Teleported MIKE to InmortalPec]
 [03:11:23] [Server thread/INFO]: [MIKE: Teleported MIKE to SadduranGT]
+[03:13:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=140, y=117, z=113} jh{x=139, y=114, z=114}
+[03:13:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=140, y=109, z=119} jh{x=141, y=111, z=117}
+[03:13:52] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=139, y=111, z=128} jh{x=139, y=110, z=127}
+[03:14:19] [Server thread/INFO]: [MIKE: Teleported MIKE to SadduranGT]
+[03:14:53] [Server thread/INFO]: SadduranGT was shot by Skeleton
