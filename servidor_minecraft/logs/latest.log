@@ -96,3 +96,40 @@
 [02:24:02] [Server thread/INFO]: [MIKE: Teleported MIKE to 1640.500000, 58.666298, 5448.500000]
 [02:24:04] [Server thread/WARN]: MIKE moved too quickly! 0.0,-10.105415116132576,0.0
 [02:24:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2317ms or 46 ticks behind
+[02:24:49] [Server thread/INFO]: [MIKE: Teleported MIKE to 1064.500000, 56.398442, 5800.500000]
+[02:24:54] [Server thread/WARN]: Aesthetikkkk moved too quickly! -14.876081304291404,1.5212674731570957,10.392498347695437
+[02:24:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5124ms or 102 ticks behind
+[02:25:31] [Server thread/WARN]: Aesthetikkkk moved too quickly! -11.870667880477185,10.86142830835658,7.332346301877351
+[02:26:04] [Server thread/INFO]: [MIKE: Teleported Aesthetikkkk to MIKE]
+[02:26:29] [Server thread/INFO]: [MIKE: Teleported MIKE to 1944.500000, 57.700680, 5832.500000]
+[02:26:33] [Server thread/WARN]: Aesthetikkkk moved too quickly! -4.529384095922069,-3.841852424896402,16.80514798926015
+[02:26:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4034ms or 80 ticks behind
+[02:27:17] [Server thread/INFO]: [MIKE: Teleported MIKE to 2280.500000, 53.158412, 5896.500000]
+[02:27:20] [Server thread/WARN]: MIKE moved too quickly! 0.0,-10.205415122089974,0.0
+[02:27:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3104ms or 62 ticks behind
+[02:28:19] [Server thread/INFO]: [MIKE: Teleported MIKE to 2904.500000, 61.303739, 4632.500000]
+[02:28:21] [Server thread/WARN]: Aesthetikkkk moved too quickly! -17.070174652321953,-3.46120831696075,2.824829727373981
+[02:28:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[02:29:07] [Server thread/INFO]: [MIKE: Teleported MIKE to 1323.500000, 119.000000, 631.500000]
+[02:31:49] [Server thread/WARN]: Aesthetikkkk moved too quickly! 7.15661469248721,4.093266433965752,-15.675672871975621
+[02:32:16] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
+[02:33:49] [Server thread/INFO]: [MIKE: Teleported MIKE to 1323.500000, 119.000000, 631.500000]
+[02:38:47] [Server thread/WARN]: Aesthetikkkk moved too quickly! -15.604539095999144,7.330349661815006,5.595185094903172
+[02:39:18] [Server thread/WARN]: Aesthetikkkk moved too quickly! -17.096361665553104,-1.77760694614431,4.199087823504669
+[02:43:49] [Server thread/INFO]: Lcdo_Patino[/100.106.19.60:54747] logged in with entity id 77933 at (1347.2440668385739, 123.875, 630.6153369262572)
+[02:43:49] [Server thread/INFO]: Lcdo_Patino joined the game
+[02:43:49] [Server thread/WARN]: Aesthetikkkk moved too quickly! -8.208878138209116,8.973364239389582,13.712783060963375
+[02:45:18] [Server thread/WARN]: Aesthetikkkk moved too quickly! -17.621142118118115,-3.652050843620543,1.2674670834057906
+[02:47:06] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Lcdo_Patino]
+[02:47:24] [Server thread/INFO]: MIKE lost connection: Disconnected
+[02:47:24] [Server thread/INFO]: MIKE left the game
+[02:48:37] [Server thread/WARN]: Lcdo_Patino moved too quickly! -1.8419421593978313,-4.780241558913332,-16.652890802106697
+[02:48:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2789ms or 55 ticks behind
+[02:48:44] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Spectator Mode]
+[02:48:55] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Survival Mode]
+[02:50:36] [Server thread/INFO]: Lcdo_Patino has made the advancement [The End?]
+[02:50:36] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to Aesthetikkkk]
+[02:53:19] [Server thread/INFO]: SadduranGT[/100.90.231.18:59972] logged in with entity id 90018 at (1370.6206844994404, 130.0, 528.020426474722)
+[02:53:19] [Server thread/INFO]: SadduranGT joined the game
+[02:53:21] [Server thread/INFO]: MIKE[/100.93.180.103:51661] logged in with entity id 90150 at (1743.9199219576644, -24.0, 1090.699999988079)
+[02:53:22] [Server thread/INFO]: MIKE joined the game
