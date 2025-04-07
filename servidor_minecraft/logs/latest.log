@@ -63,3 +63,36 @@
 [01:32:48] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
 [01:52:53] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> ya voy
 [01:52:57] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[01:59:06] [Server thread/INFO]: Aesthetikkkk lost connection: Disconnected
+[01:59:06] [Server thread/INFO]: Aesthetikkkk left the game
+[02:03:10] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:49997] logged in with entity id 37568 at (1260.699999988079, 120.0, 574.7819552483845)
+[02:03:10] [Server thread/INFO]: Aesthetikkkk joined the game
+[02:03:56] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[02:04:30] [Server thread/INFO]: [MIKE: Teleported Aesthetikkkk to 1323.500000, 119.000000, 631.500000]
+[02:05:31] [Server thread/WARN]: MIKE moved too quickly! 1.2843921831249645,-1.0601459426008546,18.427953879941924
+[02:15:30] [Server thread/INFO]: [MIKE: Teleported MIKE to -839.500000, 59.778240, 3640.500000]
+[02:16:44] [Server thread/INFO]: [MIKE: Teleported MIKE to -215.500000, 60.439880, 3704.500000]
+[02:16:47] [Server thread/WARN]: MIKE moved too quickly! 0.0,-10.105415116089283,0.0
+[02:16:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2859ms or 57 ticks behind
+[02:17:55] [Server thread/INFO]: [MIKE: Teleported MIKE to -199.500000, 59.498990, 3368.500000]
+[02:19:11] [Server thread/INFO]: [MIKE: Teleported MIKE to -455.500000, 63.000000, 3880.500000]
+[02:19:12] [Server thread/WARN]: MIKE moved too quickly! 0.0,-10.80652611000901,0.0
+[02:19:32] [Server thread/INFO]: [MIKE: Teleported MIKE to 424.500000, 62.164989, 4248.500000]
+[02:20:23] [Server thread/INFO]: [MIKE: Teleported MIKE to -199.500000, 59.974578, 3368.500000]
+[02:20:38] [Server thread/INFO]: [MIKE: Teleported MIKE to 424.500000, 54.177012, 4248.500000]
+[02:20:49] [Server thread/INFO]: [MIKE: Teleported MIKE to 472.500000, 52.916543, 4936.500000]
+[02:20:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2909ms or 58 ticks behind
+[02:21:50] [Server thread/INFO]: [MIKE: Teleported MIKE to 1032.500000, 62.281804, 5256.500000]
+[02:21:54] [Server thread/WARN]: Aesthetikkkk moved too quickly! -10.813711634795823,8.52636211210961,11.772375836910442
+[02:21:54] [Server thread/WARN]: MIKE moved too quickly! 0.0,-10.100964943840665,0.0
+[02:21:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3132ms or 62 ticks behind
+[02:22:46] [Server thread/INFO]: [MIKE: Teleported MIKE to 1336.500000, 61.434577, 5560.500000]
+[02:22:52] [Server thread/WARN]: MIKE moved too quickly! 0.0,-10.794657460167265,0.0
+[02:22:52] [Server thread/WARN]: Aesthetikkkk moved too quickly! -12.648960776183799,-4.9522142132603335,11.812635049056098
+[02:22:52] [Server thread/WARN]: Trying to set block entity dvb@1d3ed144 at position jh{x=1327, y=30, z=5558}, but state Block{minecraft:chest}[facing=north,type=single,waterlogged=false] does not allow it
+[02:22:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7642ms or 152 ticks behind
+[02:22:58] [Server thread/WARN]: Aesthetikkkk moved too quickly! -14.275447357229723,-9.333623737609585,5.21801869712499
+[02:22:58] [Server thread/WARN]: MIKE moved too quickly! 0.30611201758711104,9.978615208185168,-0.8947929726373332
+[02:24:02] [Server thread/INFO]: [MIKE: Teleported MIKE to 1640.500000, 58.666298, 5448.500000]
+[02:24:04] [Server thread/WARN]: MIKE moved too quickly! 0.0,-10.105415116132576,0.0
+[02:24:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2317ms or 46 ticks behind
