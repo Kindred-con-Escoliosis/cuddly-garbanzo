@@ -4329,27 +4329,9 @@
     },
     "done": true
   },
-  "minecraft:end/enter_end_gateway": {
-    "criteria": {
-      "entered_end_gateway": "2025-04-06 05:44:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-04-06 05:26:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
       "has_nether_brick_slab": "2025-04-06 03:43:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2025-04-06 05:30:24 +0000"
     },
     "done": true
   },
@@ -4359,15 +4341,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-04-06 05:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-06 05:26:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-04-06 05:26:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/conduit": {
+  "minecraft:adventure/hero_of_the_village": {
     "criteria": {
-      "has_nautilus_shell": "2025-04-06 05:08:17 +0000"
+      "hero_of_the_village": "2025-04-06 05:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-04-06 05:44:29 +0000"
     },
     "done": true
   },
