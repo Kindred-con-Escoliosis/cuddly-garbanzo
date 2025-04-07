@@ -163,3 +163,28 @@
 [03:11:40] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to MIKE]
 [03:15:50] [Server thread/INFO]: [MIKE: Teleported MIKE to Vazzzco]
 [03:17:25] [Server thread/WARN]: MIKE moved too quickly! 3.0507905167789886,-3.288140649364294,18.723887441696377
+[03:18:03] [Server thread/INFO]: [Hikejace: Teleported Vazzzco to Hikejace]
+[03:18:27] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Lcdo_Patino]
+[03:19:08] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
+[03:19:15] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to SadduranGT]
+[03:24:22] [Server thread/INFO]: Hikejace was shot by MIKE
+[03:26:34] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[03:27:54] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1495, y=131, z=440} jh{x=1495, y=132, z=440}
+[03:27:54] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1495, y=131, z=439} jh{x=1495, y=132, z=440}
+[03:27:54] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1495, y=132, z=439} jh{x=1495, y=132, z=440}
+[03:29:06] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Lcdo_Patino]
+[03:31:17] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to MIKE]
+[03:34:06] [Server thread/INFO]: Hikejace fell from a high place
+[03:34:34] [Server thread/INFO]: [MIKE: Teleported MIKE to Vazzzco]
+[03:36:10] [Server thread/INFO]: [MIKE: Teleported MIKE to 1323.500000, 119.000000, 631.500000]
+[03:36:25] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Hikejace]
+[03:40:22] [Server thread/INFO]: [MIKE: Teleported MIKE to Vazzzco]
+[03:42:16] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
+[03:42:24] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to MIKE]
+[03:44:20] [Server thread/INFO]: MIKE lost connection: Disconnected
+[03:44:20] [Server thread/INFO]: MIKE left the game
+[03:44:47] [Server thread/INFO]: Lcdo_Patino lost connection: Disconnected
+[03:44:47] [Server thread/INFO]: Lcdo_Patino left the game
+[03:46:03] [Server thread/INFO]: SadduranGT has made the advancement [Enchanter]
+[03:48:30] [Server thread/INFO]: MIKE[/100.93.180.103:51879] logged in with entity id 149508 at (217.40757554717257, 1.0, -25.40252442457717)
+[03:48:30] [Server thread/INFO]: MIKE joined the game
