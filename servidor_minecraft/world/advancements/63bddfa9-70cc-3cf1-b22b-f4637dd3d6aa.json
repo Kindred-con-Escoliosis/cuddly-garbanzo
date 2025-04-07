@@ -8,27 +8,28 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-03-26 03:10:53 +0000",
-      "minecraft:flower_forest": "2025-03-29 02:21:11 +0000",
       "minecraft:snowy_slopes": "2025-03-30 02:42:33 +0000",
-      "minecraft:beach": "2025-03-26 03:07:32 +0000",
       "minecraft:old_growth_pine_taiga": "2025-03-26 03:13:45 +0000",
-      "minecraft:dark_forest": "2025-03-30 02:59:48 +0000",
       "minecraft:forest": "2025-03-26 03:36:29 +0000",
       "minecraft:taiga": "2025-03-26 03:14:25 +0000",
+      "minecraft:windswept_forest": "2025-03-30 03:02:13 +0000",
+      "minecraft:jungle": "2025-03-29 02:57:45 +0000",
+      "minecraft:cherry_grove": "2025-03-30 01:26:36 +0000",
+      "minecraft:sunflower_plains": "2025-03-30 02:41:18 +0000",
+      "minecraft:birch_forest": "2025-03-30 02:44:51 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-03-26 03:07:44 +0000",
+      "minecraft:flower_forest": "2025-03-29 02:21:11 +0000",
+      "minecraft:beach": "2025-03-26 03:07:32 +0000",
+      "minecraft:dark_forest": "2025-03-30 02:59:48 +0000",
       "minecraft:river": "2025-03-26 03:13:33 +0000",
       "minecraft:stony_shore": "2025-03-30 02:51:45 +0000",
       "minecraft:dripstone_caves": "2025-03-26 03:27:09 +0000",
       "minecraft:frozen_peaks": "2025-03-30 03:24:25 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-30 02:44:06 +0000",
-      "minecraft:windswept_forest": "2025-03-30 03:02:13 +0000",
       "minecraft:deep_dark": "2025-03-29 03:03:09 +0000",
-      "minecraft:jungle": "2025-03-29 02:57:45 +0000",
-      "minecraft:cherry_grove": "2025-03-30 01:26:36 +0000",
-      "minecraft:sunflower_plains": "2025-03-30 02:41:18 +0000",
       "minecraft:swamp": "2025-03-30 03:01:50 +0000",
+      "minecraft:grove": "2025-04-07 03:00:23 +0000",
       "minecraft:meadow": "2025-03-26 03:15:39 +0000",
-      "minecraft:birch_forest": "2025-03-30 02:44:51 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-03-26 03:07:44 +0000",
       "minecraft:plains": "2025-03-29 02:15:49 +0000",
       "minecraft:jagged_peaks": "2025-04-07 02:49:23 +0000"
     },
@@ -638,6 +639,7 @@
       "minecraft:skeleton": "2025-03-29 02:40:39 +0000",
       "minecraft:piglin": "2025-03-29 22:51:00 +0000",
       "minecraft:phantom": "2025-03-29 22:33:29 +0000",
+      "minecraft:enderman": "2025-04-07 03:02:46 +0000",
       "minecraft:magma_cube": "2025-03-29 03:21:15 +0000",
       "minecraft:spider": "2025-03-26 03:25:16 +0000",
       "minecraft:zombie": "2025-03-29 20:57:26 +0000",
@@ -2990,9 +2992,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-07 02:59:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-04-07 02:59:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-04-07 02:59:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-07 02:59:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-04-07 02:59:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2025-04-07 02:50:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-07 02:59:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-04-07 02:59:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-07 02:59:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-07 02:59:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-07 02:59:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-04-07 02:59:18 +0000"
     },
     "done": true
   },
