@@ -43,3 +43,4 @@
 [00:33:38] [Server thread/INFO]: [MIKE: Teleported MIKE to 121.500000, 73.000000, 620.500000]
 [00:54:27] [Server thread/INFO]: [MIKE: Teleported MIKE to 171.500000, 115.000000, 89.500000]
 [00:54:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2474ms or 49 ticks behind
+[01:08:29] [Server thread/WARN]: MIKE moved wrongly!
