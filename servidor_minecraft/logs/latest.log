@@ -1,338 +1,55 @@
-[00:21:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:21:59] [ServerMain/INFO]: Loaded 1337 recipes
-[00:21:59] [ServerMain/INFO]: Loaded 1448 advancements
-[00:22:00] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[00:22:00] [Server thread/INFO]: Loading properties
-[00:22:00] [Server thread/INFO]: Default game type: SURVIVAL
-[00:22:00] [Server thread/INFO]: Generating keypair
-[00:22:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:22:00] [Server thread/INFO]: Using epoll channel type
-[00:22:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:22:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:22:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:22:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:22:00] [Server thread/INFO]: Preparing level "world"
-[00:22:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:22:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:22:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:22:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:22:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:22:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:22:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:22:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:22:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:22:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:22:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:22:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:22:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:22:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:22:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:22:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:22:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:22:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:22:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:22:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:22:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:22:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:22:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:22:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:22:12] [Server thread/INFO]: Time elapsed: 11078 ms
-[00:22:12] [Server thread/INFO]: Done (11.860s)! For help, type "help"
-[00:22:16] [Server thread/INFO]: MIKE[/100.93.180.103:50033] logged in with entity id 11 at (1301.1854380538964, 151.0, 750.0530857848187)
-[00:22:16] [Server thread/INFO]: MIKE joined the game
-[00:33:38] [Server thread/INFO]: [MIKE: Teleported MIKE to 121.500000, 73.000000, 620.500000]
-[00:54:27] [Server thread/INFO]: [MIKE: Teleported MIKE to 171.500000, 115.000000, 89.500000]
-[00:54:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2474ms or 49 ticks behind
-[01:08:29] [Server thread/WARN]: MIKE moved wrongly!
-[01:21:54] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:58466] logged in with entity id 20335 at (549.6160314692158, 75.44249337892691, 890.0613139954617)
-[01:21:54] [Server thread/INFO]: Aesthetikkkk joined the game
-[01:22:13] [Server thread/INFO]: [Not Secure] <MIKE> la granja de mobs esta re op
-[01:22:21] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> que tenia de malo
-[01:22:29] [Server thread/INFO]: [Not Secure] <MIKE> faltaba quedarse afk, en 5 minutos me dio stack y medio de polvor
-[01:22:38] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[01:22:46] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[01:23:00] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[01:23:03] [Server thread/INFO]: [Not Secure] <MIKE> arriba
-[01:23:17] [Server thread/INFO]: [Not Secure] <MIKE> ya le hice la zona afk
-[01:23:37] [Server thread/INFO]: [Not Secure] <MIKE> metete al ds
-[01:23:46] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> ya voy
-[01:25:03] [Server thread/INFO]: [Not Secure] <MIKE> la zona afk es arriba del todo
-[01:26:16] [Server thread/INFO]: [Not Secure] <MIKE> entras al ds o nel?
-[01:26:22] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> ya voy
-[01:27:48] [Server thread/WARN]: Aesthetikkkk moved too quickly! 2.183170406307454,2.1754232959521005,-9.545473830231572
-[01:32:48] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
-[01:52:53] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> ya voy
-[01:52:57] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[01:59:06] [Server thread/INFO]: Aesthetikkkk lost connection: Disconnected
-[01:59:06] [Server thread/INFO]: Aesthetikkkk left the game
-[02:03:10] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:49997] logged in with entity id 37568 at (1260.699999988079, 120.0, 574.7819552483845)
-[02:03:10] [Server thread/INFO]: Aesthetikkkk joined the game
-[02:03:56] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[02:04:30] [Server thread/INFO]: [MIKE: Teleported Aesthetikkkk to 1323.500000, 119.000000, 631.500000]
-[02:05:31] [Server thread/WARN]: MIKE moved too quickly! 1.2843921831249645,-1.0601459426008546,18.427953879941924
-[02:15:30] [Server thread/INFO]: [MIKE: Teleported MIKE to -839.500000, 59.778240, 3640.500000]
-[02:16:44] [Server thread/INFO]: [MIKE: Teleported MIKE to -215.500000, 60.439880, 3704.500000]
-[02:16:47] [Server thread/WARN]: MIKE moved too quickly! 0.0,-10.105415116089283,0.0
-[02:16:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2859ms or 57 ticks behind
-[02:17:55] [Server thread/INFO]: [MIKE: Teleported MIKE to -199.500000, 59.498990, 3368.500000]
-[02:19:11] [Server thread/INFO]: [MIKE: Teleported MIKE to -455.500000, 63.000000, 3880.500000]
-[02:19:12] [Server thread/WARN]: MIKE moved too quickly! 0.0,-10.80652611000901,0.0
-[02:19:32] [Server thread/INFO]: [MIKE: Teleported MIKE to 424.500000, 62.164989, 4248.500000]
-[02:20:23] [Server thread/INFO]: [MIKE: Teleported MIKE to -199.500000, 59.974578, 3368.500000]
-[02:20:38] [Server thread/INFO]: [MIKE: Teleported MIKE to 424.500000, 54.177012, 4248.500000]
-[02:20:49] [Server thread/INFO]: [MIKE: Teleported MIKE to 472.500000, 52.916543, 4936.500000]
-[02:20:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2909ms or 58 ticks behind
-[02:21:50] [Server thread/INFO]: [MIKE: Teleported MIKE to 1032.500000, 62.281804, 5256.500000]
-[02:21:54] [Server thread/WARN]: Aesthetikkkk moved too quickly! -10.813711634795823,8.52636211210961,11.772375836910442
-[02:21:54] [Server thread/WARN]: MIKE moved too quickly! 0.0,-10.100964943840665,0.0
-[02:21:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3132ms or 62 ticks behind
-[02:22:46] [Server thread/INFO]: [MIKE: Teleported MIKE to 1336.500000, 61.434577, 5560.500000]
-[02:22:52] [Server thread/WARN]: MIKE moved too quickly! 0.0,-10.794657460167265,0.0
-[02:22:52] [Server thread/WARN]: Aesthetikkkk moved too quickly! -12.648960776183799,-4.9522142132603335,11.812635049056098
-[02:22:52] [Server thread/WARN]: Trying to set block entity dvb@1d3ed144 at position jh{x=1327, y=30, z=5558}, but state Block{minecraft:chest}[facing=north,type=single,waterlogged=false] does not allow it
-[02:22:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7642ms or 152 ticks behind
-[02:22:58] [Server thread/WARN]: Aesthetikkkk moved too quickly! -14.275447357229723,-9.333623737609585,5.21801869712499
-[02:22:58] [Server thread/WARN]: MIKE moved too quickly! 0.30611201758711104,9.978615208185168,-0.8947929726373332
-[02:24:02] [Server thread/INFO]: [MIKE: Teleported MIKE to 1640.500000, 58.666298, 5448.500000]
-[02:24:04] [Server thread/WARN]: MIKE moved too quickly! 0.0,-10.105415116132576,0.0
-[02:24:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2317ms or 46 ticks behind
-[02:24:49] [Server thread/INFO]: [MIKE: Teleported MIKE to 1064.500000, 56.398442, 5800.500000]
-[02:24:54] [Server thread/WARN]: Aesthetikkkk moved too quickly! -14.876081304291404,1.5212674731570957,10.392498347695437
-[02:24:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5124ms or 102 ticks behind
-[02:25:31] [Server thread/WARN]: Aesthetikkkk moved too quickly! -11.870667880477185,10.86142830835658,7.332346301877351
-[02:26:04] [Server thread/INFO]: [MIKE: Teleported Aesthetikkkk to MIKE]
-[02:26:29] [Server thread/INFO]: [MIKE: Teleported MIKE to 1944.500000, 57.700680, 5832.500000]
-[02:26:33] [Server thread/WARN]: Aesthetikkkk moved too quickly! -4.529384095922069,-3.841852424896402,16.80514798926015
-[02:26:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4034ms or 80 ticks behind
-[02:27:17] [Server thread/INFO]: [MIKE: Teleported MIKE to 2280.500000, 53.158412, 5896.500000]
-[02:27:20] [Server thread/WARN]: MIKE moved too quickly! 0.0,-10.205415122089974,0.0
-[02:27:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3104ms or 62 ticks behind
-[02:28:19] [Server thread/INFO]: [MIKE: Teleported MIKE to 2904.500000, 61.303739, 4632.500000]
-[02:28:21] [Server thread/WARN]: Aesthetikkkk moved too quickly! -17.070174652321953,-3.46120831696075,2.824829727373981
-[02:28:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[02:29:07] [Server thread/INFO]: [MIKE: Teleported MIKE to 1323.500000, 119.000000, 631.500000]
-[02:31:49] [Server thread/WARN]: Aesthetikkkk moved too quickly! 7.15661469248721,4.093266433965752,-15.675672871975621
-[02:32:16] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
-[02:33:49] [Server thread/INFO]: [MIKE: Teleported MIKE to 1323.500000, 119.000000, 631.500000]
-[02:38:47] [Server thread/WARN]: Aesthetikkkk moved too quickly! -15.604539095999144,7.330349661815006,5.595185094903172
-[02:39:18] [Server thread/WARN]: Aesthetikkkk moved too quickly! -17.096361665553104,-1.77760694614431,4.199087823504669
-[02:43:49] [Server thread/INFO]: Lcdo_Patino[/100.106.19.60:54747] logged in with entity id 77933 at (1347.2440668385739, 123.875, 630.6153369262572)
-[02:43:49] [Server thread/INFO]: Lcdo_Patino joined the game
-[02:43:49] [Server thread/WARN]: Aesthetikkkk moved too quickly! -8.208878138209116,8.973364239389582,13.712783060963375
-[02:45:18] [Server thread/WARN]: Aesthetikkkk moved too quickly! -17.621142118118115,-3.652050843620543,1.2674670834057906
-[02:47:06] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Lcdo_Patino]
-[02:47:24] [Server thread/INFO]: MIKE lost connection: Disconnected
-[02:47:24] [Server thread/INFO]: MIKE left the game
-[02:48:37] [Server thread/WARN]: Lcdo_Patino moved too quickly! -1.8419421593978313,-4.780241558913332,-16.652890802106697
-[02:48:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2789ms or 55 ticks behind
-[02:48:44] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Spectator Mode]
-[02:48:55] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Survival Mode]
-[02:50:36] [Server thread/INFO]: Lcdo_Patino has made the advancement [The End?]
-[02:50:36] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to Aesthetikkkk]
-[02:53:19] [Server thread/INFO]: SadduranGT[/100.90.231.18:59972] logged in with entity id 90018 at (1370.6206844994404, 130.0, 528.020426474722)
-[02:53:19] [Server thread/INFO]: SadduranGT joined the game
-[02:53:21] [Server thread/INFO]: MIKE[/100.93.180.103:51661] logged in with entity id 90150 at (1743.9199219576644, -24.0, 1090.699999988079)
-[02:53:22] [Server thread/INFO]: MIKE joined the game
-[02:57:14] [Server thread/INFO]: Hikejace[/100.119.199.16:54985] logged in with entity id 96063 at (1392.2619588987286, 189.5, 350.7072084787353)
-[02:57:14] [Server thread/INFO]: Hikejace joined the game
-[02:57:25] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
-[03:00:31] [Server thread/INFO]: SadduranGT was shot by Skeleton
-[03:01:02] [Server thread/WARN]: Hikejace moved too quickly! -2.7824811940990912,-2.138587845139739,17.659930968732283
-[03:01:04] [Server thread/INFO]: [Aesthetikkkk: Made SadduranGT a server operator]
-[03:01:05] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to Hikejace]
-[03:01:07] [Server thread/INFO]: [Hikejace: Teleported Hikejace to Lcdo_Patino]
-[03:02:53] [Server thread/WARN]: MIKE moved wrongly!
-[03:03:33] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to Hikejace]
-[03:03:45] [Server thread/INFO]: Vazzzco[/100.82.32.24:49977] logged in with entity id 103757 at (1439.5485766941672, 150.0, 416.43436509388783)
-[03:03:45] [Server thread/INFO]: Vazzzco joined the game
-[03:03:51] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> ds puta
-[03:04:40] [Server thread/INFO]: [Not Secure] <Vazzzco> pere
-[03:04:41] [Server thread/INFO]: [Not Secure] <Vazzzco> ya voy
-[03:04:58] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]
-[03:05:04] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> zzzz
-[03:05:06] [Server thread/INFO]: Vazzzco lost connection: Disconnected
-[03:05:06] [Server thread/INFO]: Vazzzco left the game
-[03:05:12] [Server thread/INFO]: [Aesthetikkkk: Set the time to 1000]
-[03:05:12] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[03:06:33] [Server thread/INFO]: [MIKE: Teleported MIKE to 1323.500000, 119.000000, 631.500000]
-[03:07:41] [Server thread/INFO]: Vazzzco[/100.82.32.24:50112] logged in with entity id 106714 at (1378.8461600504372, 130.0, 534.9250000119209)
-[03:07:41] [Server thread/INFO]: Vazzzco joined the game
-[03:08:01] [Server thread/INFO]: [Hikejace: Teleported Vazzzco to Hikejace]
-[03:10:18] [Server thread/INFO]: [Aesthetikkkk: Teleported SadduranGT to Aesthetikkkk]
-[03:11:30] [Server thread/INFO]: [Aesthetikkkk: Set the weather to clear]
-[03:11:40] [Server thread/INFO]: [Lcdo_Patino: Teleported Lcdo_Patino to MIKE]
-[03:15:50] [Server thread/INFO]: [MIKE: Teleported MIKE to Vazzzco]
-[03:17:25] [Server thread/WARN]: MIKE moved too quickly! 3.0507905167789886,-3.288140649364294,18.723887441696377
-[03:18:03] [Server thread/INFO]: [Hikejace: Teleported Vazzzco to Hikejace]
-[03:18:27] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Lcdo_Patino]
-[03:19:08] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[03:19:15] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to SadduranGT]
-[03:24:22] [Server thread/INFO]: Hikejace was shot by MIKE
-[03:26:34] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
-[03:27:54] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1495, y=131, z=440} jh{x=1495, y=132, z=440}
-[03:27:54] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1495, y=131, z=439} jh{x=1495, y=132, z=440}
-[03:27:54] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1495, y=132, z=439} jh{x=1495, y=132, z=440}
-[03:29:06] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Lcdo_Patino]
-[03:31:17] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to MIKE]
-[03:34:06] [Server thread/INFO]: Hikejace fell from a high place
-[03:34:34] [Server thread/INFO]: [MIKE: Teleported MIKE to Vazzzco]
-[03:36:10] [Server thread/INFO]: [MIKE: Teleported MIKE to 1323.500000, 119.000000, 631.500000]
-[03:36:25] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Hikejace]
-[03:40:22] [Server thread/INFO]: [MIKE: Teleported MIKE to Vazzzco]
-[03:42:16] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
-[03:42:24] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to MIKE]
-[03:44:20] [Server thread/INFO]: MIKE lost connection: Disconnected
-[03:44:20] [Server thread/INFO]: MIKE left the game
-[03:44:47] [Server thread/INFO]: Lcdo_Patino lost connection: Disconnected
-[03:44:47] [Server thread/INFO]: Lcdo_Patino left the game
-[03:46:03] [Server thread/INFO]: SadduranGT has made the advancement [Enchanter]
-[03:48:30] [Server thread/INFO]: MIKE[/100.93.180.103:51879] logged in with entity id 149508 at (217.40757554717257, 1.0, -25.40252442457717)
-[03:48:30] [Server thread/INFO]: MIKE joined the game
-[03:54:56] [Server thread/INFO]: [Aesthetikkkk: Set the time to 1000]
-[03:55:56] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Hikejace]
-[03:58:56] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1492, y=128, z=443} jh{x=1495, y=128, z=452}
-[04:00:02] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
-[04:00:10] [Server thread/INFO]: [MIKE: Teleported MIKE to SadduranGT]
-[04:00:16] [Server thread/INFO]: [MIKE: Teleported MIKE to Vazzzco]
-[04:01:48] [Server thread/INFO]: [MIKE: Teleported MIKE to Hikejace]
-[04:01:59] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1498, y=130, z=447} jh{x=1496, y=127, z=450}
-[04:04:17] [Server thread/INFO]: [MIKE: Teleported MIKE to SadduranGT]
-[04:04:52] [Server thread/INFO]: [Aesthetikkkk: Set the time to 1000]
-[04:05:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1499, y=131, z=438} jh{x=1483, y=131, z=437}
-[04:06:47] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[04:06:57] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
-[04:09:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1484, y=169, z=707} jh{x=1484, y=168, z=708}
-[04:09:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1484, y=169, z=707} jh{x=1484, y=168, z=708}
-[04:09:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1485, y=169, z=707} jh{x=1484, y=168, z=709}
-[04:09:33] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1489, y=168, z=712} jh{x=1490, y=167, z=712}
-[04:09:33] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1489, y=168, z=712} jh{x=1490, y=167, z=712}
-[04:09:33] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1489, y=168, z=712} jh{x=1490, y=167, z=712}
-[04:09:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1485, y=170, z=707} jh{x=1484, y=168, z=708}
-[04:09:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1485, y=170, z=707} jh{x=1484, y=168, z=708}
-[04:10:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1491, y=172, z=704} jh{x=1491, y=171, z=702}
-[04:10:13] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1495, y=171, z=705} jh{x=1496, y=168, z=707}
-[04:10:13] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1495, y=171, z=705} jh{x=1496, y=168, z=707}
-[04:10:13] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1495, y=171, z=705} jh{x=1496, y=168, z=707}
-[04:10:13] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1495, y=171, z=705} jh{x=1496, y=168, z=707}
-[04:10:14] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1494, y=171, z=703} jh{x=1495, y=169, z=703}
-[04:10:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1495, y=171, z=700} jh{x=1493, y=170, z=700}
-[04:10:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1495, y=171, z=700} jh{x=1493, y=170, z=700}
-[04:10:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1495, y=171, z=700} jh{x=1493, y=170, z=700}
-[04:10:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1495, y=171, z=700} jh{x=1493, y=170, z=700}
-[04:10:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1495, y=171, z=700} jh{x=1493, y=170, z=700}
-[04:10:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1495, y=171, z=702} jh{x=1493, y=170, z=700}
-[04:10:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1495, y=171, z=702} jh{x=1493, y=170, z=700}
-[04:12:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1502, y=168, z=724} jh{x=1503, y=166, z=725}
-[04:12:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1502, y=168, z=724} jh{x=1503, y=166, z=725}
-[04:12:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1502, y=168, z=724} jh{x=1503, y=166, z=725}
-[04:12:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1501, y=168, z=717} jh{x=1500, y=166, z=716}
-[04:12:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1501, y=168, z=717} jh{x=1500, y=166, z=716}
-[04:12:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1501, y=168, z=717} jh{x=1500, y=166, z=716}
-[04:12:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1501, y=168, z=718} jh{x=1500, y=166, z=716}
-[04:12:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1501, y=168, z=718} jh{x=1500, y=166, z=716}
-[04:12:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1501, y=168, z=718} jh{x=1500, y=166, z=716}
-[04:12:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1502, y=168, z=718} jh{x=1500, y=166, z=716}
-[04:12:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1502, y=168, z=718} jh{x=1500, y=166, z=716}
-[04:12:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1502, y=168, z=718} jh{x=1500, y=166, z=716}
-[04:12:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1502, y=168, z=718} jh{x=1500, y=166, z=716}
-[04:12:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1504, y=168, z=718} jh{x=1500, y=166, z=716}
-[04:12:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1504, y=168, z=718} jh{x=1500, y=166, z=716}
-[04:12:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1504, y=168, z=718} jh{x=1500, y=166, z=716}
-[04:12:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1504, y=168, z=718} jh{x=1500, y=166, z=716}
-[04:12:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1504, y=168, z=718} jh{x=1500, y=166, z=716}
-[04:12:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1504, y=168, z=718} jh{x=1500, y=166, z=716}
-[04:12:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1504, y=168, z=718} jh{x=1500, y=166, z=716}
-[04:12:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1504, y=168, z=718} jh{x=1500, y=166, z=716}
-[04:12:38] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1499, y=168, z=713} jh{x=1499, y=166, z=713}
-[04:12:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1499, y=168, z=713} jh{x=1499, y=166, z=713}
-[04:12:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1500, y=170, z=701} jh{x=1500, y=169, z=699}
-[04:12:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1500, y=170, z=700} jh{x=1500, y=169, z=699}
-[04:12:52] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1494, y=171, z=698} jh{x=1493, y=170, z=699}
-[04:12:52] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1494, y=171, z=698} jh{x=1493, y=170, z=699}
-[04:12:52] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1494, y=171, z=698} jh{x=1493, y=170, z=699}
-[04:12:52] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1494, y=171, z=698} jh{x=1493, y=170, z=699}
-[04:13:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1509, y=171, z=708} jh{x=1510, y=169, z=709}
-[04:13:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1509, y=171, z=708} jh{x=1510, y=169, z=709}
-[04:15:19] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Hikejace]
-[04:15:39] [Server thread/INFO]: Hikejace fell from a high place
-[04:15:41] [Server thread/INFO]: [Aesthetikkkk: Set the time to 1000]
-[04:15:59] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
-[04:16:58] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1493, y=134, z=435} jh{x=1496, y=132, z=435}
-[04:17:21] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1505, y=168, z=713} jh{x=1504, y=166, z=713}
-[04:17:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1489, y=132, z=435} jh{x=1488, y=133, z=435}
-[04:17:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1489, y=132, z=435} jh{x=1488, y=133, z=435}
-[04:17:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1512, y=168, z=702} jh{x=1511, y=166, z=701}
-[04:17:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1512, y=168, z=702} jh{x=1511, y=166, z=701}
-[04:17:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1512, y=168, z=702} jh{x=1511, y=166, z=701}
-[04:17:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1511, y=167, z=699} jh{x=1511, y=166, z=701}
-[04:17:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1511, y=167, z=699} jh{x=1511, y=166, z=701}
-[04:17:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1510, y=168, z=701} jh{x=1511, y=166, z=701}
-[04:17:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1510, y=168, z=701} jh{x=1511, y=166, z=701}
-[04:17:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1510, y=168, z=701} jh{x=1511, y=166, z=701}
-[04:17:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1510, y=168, z=701} jh{x=1511, y=166, z=701}
-[04:17:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1509, y=168, z=701} jh{x=1511, y=166, z=701}
-[04:17:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1509, y=168, z=701} jh{x=1511, y=166, z=701}
-[04:17:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1509, y=168, z=701} jh{x=1511, y=166, z=701}
-[04:17:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1508, y=168, z=701} jh{x=1511, y=166, z=701}
-[04:17:41] [Server thread/INFO]: Hikejace was blown up by Creeper
-[04:18:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1521, y=168, z=713} jh{x=1519, y=166, z=713}
-[04:18:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1521, y=168, z=713} jh{x=1519, y=166, z=713}
-[04:18:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1522, y=168, z=713} jh{x=1521, y=166, z=712}
-[04:18:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1522, y=168, z=713} jh{x=1521, y=166, z=712}
-[04:18:31] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1518, y=168, z=712} jh{x=1517, y=167, z=712}
-[04:18:31] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1518, y=168, z=712} jh{x=1517, y=167, z=712}
-[04:18:31] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1517, y=168, z=711} jh{x=1516, y=167, z=711}
-[04:20:45] [Server thread/INFO]: Hikejace lost connection: Disconnected
-[04:20:45] [Server thread/INFO]: Hikejace left the game
-[04:21:26] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1489, y=167, z=711} jh{x=1490, y=167, z=712}
-[04:21:41] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1493, y=167, z=713} jh{x=1502, y=167, z=706}
-[04:23:14] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1512, y=168, z=722} jh{x=1513, y=166, z=722}
-[04:23:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1524, y=170, z=725} jh{x=1523, y=168, z=724}
-[04:26:33] [Server thread/INFO]: [Aesthetikkkk: Set the time to 1000]
-[04:27:19] [Server thread/INFO]: [MIKE: Teleported MIKE to Vazzzco]
-[04:27:37] [Server thread/INFO]: SadduranGT lost connection: Disconnected
-[04:27:37] [Server thread/INFO]: SadduranGT left the game
-[04:36:38] [Server thread/INFO]: [Aesthetikkkk: Set the weather to clear]
-[04:36:49] [Server thread/INFO]: [Aesthetikkkk: Set the time to 1000]
-[04:47:47] [Server thread/INFO]: [Aesthetikkkk: Set the time to 1000]
-[04:56:32] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[04:56:37] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to MIKE]
-[04:57:11] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[04:57:33] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to MIKE]
-[04:59:22] [Server thread/INFO]: [MIKE: Set the time to 1000]
-[05:11:39] [Server thread/INFO]: [MIKE: Teleported Aesthetikkkk to MIKE]
-[05:12:18] [Server thread/INFO]: [Aesthetikkkk: Set the time to 1000]
-[05:21:56] [Server thread/INFO]: [Vazzzco: Set the time to 1000]
-[05:28:38] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=43, y=62, z=944} jh{x=43, y=60, z=944}
-[05:28:38] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=43, y=62, z=944} jh{x=43, y=60, z=944}
-[05:30:50] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[05:32:01] [Server thread/INFO]: [Aesthetikkkk: Set the time to 1000]
-[05:35:46] [Server thread/INFO]: [Not Secure] <MIKE> ya 4 stacks de polvora
-[05:42:01] [Server thread/INFO]: [Vazzzco: Set the time to 1000]
-[05:44:25] [Server thread/INFO]: [Not Secure] <MIKE> ya me aburri y voy para otro juego, cualquier cosa me avisan al ds
-[05:44:27] [Server thread/INFO]: MIKE lost connection: Disconnected
-[05:44:27] [Server thread/INFO]: MIKE left the game
-[05:51:21] [Server thread/INFO]: [Vazzzco: Set the time to 1000]
-[06:01:00] [Server thread/INFO]: [Vazzzco: Set the time to 1000]
-[06:09:41] [Server thread/INFO]: Aesthetikkkk lost connection: Disconnected
-[06:09:41] [Server thread/INFO]: Aesthetikkkk left the game
-[06:11:43] [Server thread/INFO]: [Vazzzco: Set the time to 1000]
-[06:22:12] [Server thread/INFO]: [Vazzzco: Set the time to 1000]
-[06:23:45] [Server thread/INFO]: [Vazzzco: Gave 5 [Tropical Fish] to Vazzzco]
-[06:25:48] [Server thread/INFO]: [Vazzzco: Gave 10 [Raw Salmon] to Vazzzco]
-[06:31:36] [Server thread/INFO]: [Vazzzco: Set the time to 1000]
-[06:38:07] [Server thread/INFO]: Vazzzco has made the advancement [The Parrots and the Bats]
-[06:40:23] [Server thread/INFO]: Vazzzco lost connection: Disconnected
-[06:40:23] [Server thread/INFO]: Vazzzco left the game
-[06:41:23] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[06:45:50] [Server thread/INFO]: Stopping the server
-[06:45:50] [Server thread/INFO]: Stopping server
-[06:45:50] [Server thread/INFO]: Saving players
-[06:45:50] [Server thread/INFO]: Saving worlds
-[06:45:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[06:45:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[06:45:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[06:45:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06:45:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06:45:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06:45:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:21:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:21:13] [ServerMain/INFO]: Loaded 1337 recipes
+[22:21:13] [ServerMain/INFO]: Loaded 1448 advancements
+[22:21:13] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[22:21:13] [Server thread/INFO]: Loading properties
+[22:21:13] [Server thread/INFO]: Default game type: SURVIVAL
+[22:21:13] [Server thread/INFO]: Generating keypair
+[22:21:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:21:14] [Server thread/INFO]: Using epoll channel type
+[22:21:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:21:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:21:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:21:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:21:14] [Server thread/INFO]: Preparing level "world"
+[22:21:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 30%
+[22:21:30] [Worker-Main-1/INFO]: Preparing spawn area: 93%
+[22:21:30] [Server thread/INFO]: Time elapsed: 15602 ms
+[22:21:30] [Server thread/INFO]: Done (16.278s)! For help, type "help"
+[22:22:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[22:27:33] [Server thread/INFO]: Vazzzco[/100.82.32.24:53904] logged in with entity id 11 at (1356.2387802079318, 122.0, 660.999039315258)
+[22:27:33] [Server thread/INFO]: Vazzzco joined the game
+[22:28:46] [Server thread/INFO]: [Vazzzco: Set the time to 1000]
+[22:32:43] [Server thread/INFO]: [Vazzzco: Set the time to 1000]
+[22:37:01] [Server thread/INFO]: [Vazzzco: Set the weather to clear]
