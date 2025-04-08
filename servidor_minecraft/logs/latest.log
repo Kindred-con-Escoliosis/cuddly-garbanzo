@@ -138,3 +138,70 @@
 [04:50:39] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Hikejace]
 [04:50:43] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to MIKE]
 [04:52:59] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Hikejace]
+[04:56:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1476, y=167, z=688} jh{x=1672, y=165, z=108}
+[04:56:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1476, y=167, z=688} jh{x=1672, y=165, z=108}
+[04:56:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1672, y=166, z=107} jh{x=1672, y=165, z=108}
+[04:56:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1672, y=166, z=107} jh{x=1672, y=165, z=108}
+[04:56:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1672, y=166, z=107} jh{x=1672, y=165, z=108}
+[04:56:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1672, y=166, z=107} jh{x=1672, y=165, z=108}
+[04:56:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1672, y=166, z=107} jh{x=1672, y=165, z=108}
+[04:56:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1672, y=166, z=107} jh{x=1672, y=165, z=108}
+[04:56:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1672, y=166, z=107} jh{x=1672, y=165, z=108}
+[04:56:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1672, y=166, z=107} jh{x=1672, y=165, z=108}
+[04:56:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1672, y=166, z=107} jh{x=1672, y=165, z=108}
+[04:56:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1672, y=166, z=107} jh{x=1672, y=165, z=108}
+[04:56:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1672, y=166, z=107} jh{x=1672, y=165, z=108}
+[04:56:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1812, y=202, z=252} jh{x=1811, y=201, z=251}
+[04:56:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1812, y=202, z=252} jh{x=1811, y=201, z=251}
+[04:56:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1805, y=201, z=251} jh{x=1805, y=200, z=250}
+[04:56:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1805, y=201, z=251} jh{x=1805, y=200, z=250}
+[04:56:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1805, y=201, z=251} jh{x=1805, y=200, z=250}
+[04:56:52] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1805, y=202, z=249} jh{x=1804, y=201, z=249}
+[04:56:52] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1805, y=202, z=249} jh{x=1804, y=201, z=249}
+[04:56:53] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1810, y=203, z=249} jh{x=1810, y=201, z=250}
+[04:56:53] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1810, y=203, z=249} jh{x=1810, y=201, z=250}
+[04:56:54] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1811, y=203, z=250} jh{x=1812, y=203, z=249}
+[04:56:54] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1811, y=203, z=250} jh{x=1812, y=203, z=249}
+[04:56:56] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1811, y=205, z=248} jh{x=1811, y=203, z=248}
+[04:56:56] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1812, y=204, z=247} jh{x=1812, y=204, z=248}
+[04:57:01] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1805, y=202, z=248} jh{x=1804, y=202, z=249}
+[04:57:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1797, y=202, z=244} jh{x=1796, y=200, z=244}
+[04:57:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1797, y=202, z=244} jh{x=1796, y=200, z=244}
+[04:57:14] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1803, y=204, z=242} jh{x=1803, y=203, z=241}
+[04:57:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1799, y=204, z=238} jh{x=1800, y=203, z=238}
+[04:57:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1797, y=204, z=236} jh{x=1798, y=203, z=236}
+[04:57:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1808, y=211, z=235} jh{x=1808, y=210, z=236}
+[04:57:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1808, y=211, z=235} jh{x=1808, y=210, z=236}
+[04:57:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1804, y=212, z=231} jh{x=1804, y=211, z=230}
+[04:57:53] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1814, y=212, z=231} jh{x=1815, y=211, z=232}
+[04:57:54] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1816, y=214, z=232} jh{x=1817, y=213, z=232}
+[04:57:54] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1815, y=212, z=231} jh{x=1816, y=212, z=233}
+[04:58:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1819, y=214, z=251} jh{x=1818, y=212, z=252}
+[04:58:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1819, y=214, z=251} jh{x=1818, y=212, z=252}
+[04:58:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1819, y=214, z=250} jh{x=1820, y=213, z=250}
+[04:58:04] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1822, y=213, z=255} jh{x=1822, y=212, z=253}
+[04:58:05] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1822, y=213, z=255} jh{x=1822, y=212, z=253}
+[04:58:06] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1825, y=214, z=255} jh{x=1826, y=212, z=255}
+[04:58:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1827, y=214, z=255} jh{x=1826, y=214, z=254}
+[04:58:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1827, y=221, z=245} jh{x=1829, y=220, z=246}
+[04:58:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1827, y=221, z=245} jh{x=1829, y=220, z=246}
+[04:58:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1827, y=221, z=245} jh{x=1829, y=220, z=246}
+[04:58:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1827, y=221, z=245} jh{x=1829, y=220, z=246}
+[04:58:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1827, y=221, z=245} jh{x=1829, y=220, z=246}
+[04:58:24] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1824, y=220, z=245} jh{x=1824, y=219, z=244}
+[04:58:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1829, y=224, z=241} jh{x=1829, y=223, z=240}
+[04:58:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1828, y=224, z=241} jh{x=1829, y=223, z=240}
+[04:58:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1830, y=224, z=243} jh{x=1830, y=223, z=242}
+[04:58:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1825, y=223, z=234} jh{x=1824, y=222, z=234}
+[04:58:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1825, y=223, z=234} jh{x=1824, y=222, z=234}
+[04:58:59] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1839, y=223, z=250} jh{x=1840, y=222, z=250}
+[04:58:59] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1841, y=224, z=251} jh{x=1841, y=223, z=250}
+[04:59:04] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1844, y=227, z=250} jh{x=1843, y=225, z=250}
+[04:59:24] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1837, y=227, z=244} jh{x=1837, y=225, z=244}
+[04:59:26] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1835, y=227, z=240} jh{x=1835, y=226, z=239}
+[04:59:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1835, y=227, z=243} jh{x=1834, y=225, z=243}
+[05:03:02] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Hikejace]
+[05:11:01] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[05:12:03] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[05:12:19] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
+[05:20:50] [Server thread/INFO]: [Aesthetikkkk: Set the time to 1000]
