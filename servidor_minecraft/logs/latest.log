@@ -58,3 +58,8 @@
 [00:21:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=2109, y=136, z=-182} jh{x=1474, y=170, z=726}
 [00:28:32] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=2109, y=136, z=-182} jh{x=1472, y=169, z=716}
 [00:30:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1473, y=167, z=697} jh{x=1475, y=168, z=697}
+[00:33:41] [Server thread/INFO]: Hikejace was slain by Zombie
+[00:33:49] [Server thread/INFO]: [Not Secure] <Hikejace> ...
+[00:36:43] [Server thread/INFO]: Vazzzco was shot by Skeleton
+[00:39:24] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Hikejace]
+[00:47:54] [Server thread/INFO]: Vazzzco experienced kinetic energy
