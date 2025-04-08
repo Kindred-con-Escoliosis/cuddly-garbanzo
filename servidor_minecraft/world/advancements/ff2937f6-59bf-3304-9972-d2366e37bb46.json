@@ -3223,6 +3223,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-08 03:56:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_slab": {
     "criteria": {
       "has_tuff": "2025-04-08 03:25:25 +0000"
