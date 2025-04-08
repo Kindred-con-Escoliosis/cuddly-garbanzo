@@ -4697,5 +4697,11 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-04-08 04:05:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4082
 }
