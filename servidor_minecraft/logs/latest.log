@@ -75,3 +75,18 @@
 [03:46:51] [Server thread/INFO]: MIKE lost connection: Disconnected
 [03:46:51] [Server thread/INFO]: MIKE left the game
 [03:49:21] [Server thread/INFO]: Hikejace has made the advancement [Into Fire]
+[03:59:36] [Server thread/INFO]: MIKE[/100.93.180.103:55803] logged in with entity id 40982 at (-54.86754542533321, 45.0, 54.70926539181627)
+[03:59:36] [Server thread/INFO]: MIKE joined the game
+[04:00:23] [Server thread/INFO]: Vazzzco[/100.82.32.24:51552] logged in with entity id 41531 at (1500.0468617490253, 167.0, 708.0145970491388)
+[04:00:23] [Server thread/INFO]: Vazzzco joined the game
+[04:00:27] [Server thread/WARN]: MIKE moved too quickly! -17.652048839444156,1.1505833448862717,-0.17293111938299432
+[04:01:12] [Server thread/INFO]: MIKE lost connection: Disconnected
+[04:01:12] [Server thread/INFO]: MIKE left the game
+[04:06:01] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> zzzzz
+[04:07:16] [Server thread/INFO]: [Vazzzco: Set the time to 1000]
+[04:11:40] [Server thread/INFO]: Vazzzco has completed the challenge [Serious Dedication]
+[04:14:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1502, y=168, z=706} jh{x=1502, y=167, z=706}
+[04:16:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1884, y=110, z=364} jh{x=1885, y=109, z=365}
+[04:17:32] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
+[04:17:45] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Hikejace]
+[04:22:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1813, y=103, z=579} jh{x=1833, y=106, z=578}
