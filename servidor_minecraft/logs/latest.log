@@ -105,3 +105,16 @@
 [05:48:06] [Server thread/INFO]: Hikejace lost connection: Disconnected
 [05:48:06] [Server thread/INFO]: Hikejace left the game
 [05:50:37] [Server thread/INFO]: [Vazzzco: Set the weather to clear]
+[05:55:47] [Server thread/INFO]: Vazzzco lost connection: Disconnected
+[05:55:47] [Server thread/INFO]: Vazzzco left the game
+[05:56:14] [Server thread/INFO]: Stopping the server
+[05:56:14] [Server thread/INFO]: Stopping server
+[05:56:14] [Server thread/INFO]: Saving players
+[05:56:14] [Server thread/INFO]: Saving worlds
+[05:56:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:56:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:56:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:56:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:56:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:56:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:56:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
