@@ -4619,6 +4619,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-04-11 05:40:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_orange_tulip": {
     "criteria": {
       "has_orange_tulip": "2025-04-11 04:20:17 +0000"
@@ -4643,6 +4649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-04-11 05:40:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-04-11 04:20:06 +0000"
@@ -4652,6 +4664,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-04-11 04:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-04-11 05:40:19 +0000"
     },
     "done": true
   },
