@@ -85,3 +85,5 @@
 [04:42:26] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1418, y=92, z=455} jh{x=1418, y=93, z=454}
 [04:42:26] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1418, y=92, z=455} jh{x=1418, y=93, z=454}
 [05:50:37] [Server thread/INFO]: [MIKE: Set the time to 1000]
+[06:02:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1416, y=102, z=440} jh{x=1416, y=101, z=440}
+[06:08:06] [Server thread/INFO]: [MIKE: Set the time to 1000]
