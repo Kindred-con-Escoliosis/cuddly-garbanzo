@@ -374,6 +374,7 @@
       "minecraft:wither_skeleton": "2025-04-02 06:59:47 +0000",
       "minecraft:ravager": "2025-04-06 05:21:33 +0000",
       "minecraft:ghast": "2025-04-06 04:39:05 +0000",
+      "minecraft:ender_dragon": "2025-04-12 03:25:08 +0000",
       "minecraft:cave_spider": "2025-03-26 03:41:42 +0000",
       "minecraft:guardian": "2025-04-04 05:15:05 +0000",
       "minecraft:vindicator": "2025-04-01 03:09:33 +0000",
@@ -4670,6 +4671,24 @@
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-04-11 05:40:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-04-12 03:25:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/spyglass_at_dragon": {
+    "criteria": {
+      "spyglass_at_dragon": "2025-04-12 03:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-04-12 03:26:37 +0000"
     },
     "done": true
   },
