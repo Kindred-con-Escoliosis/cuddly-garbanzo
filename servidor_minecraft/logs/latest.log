@@ -87,3 +87,16 @@
 [05:50:37] [Server thread/INFO]: [MIKE: Set the time to 1000]
 [06:02:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1416, y=102, z=440} jh{x=1416, y=101, z=440}
 [06:08:06] [Server thread/INFO]: [MIKE: Set the time to 1000]
+[06:11:48] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1406, y=103, z=484} jh{x=1412, y=104, z=484}
+[06:11:48] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1406, y=103, z=484} jh{x=1412, y=104, z=484}
+[06:11:48] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1406, y=103, z=484} jh{x=1412, y=104, z=484}
+[06:14:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1462, y=98, z=479} jh{x=1463, y=98, z=478}
+[06:14:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1462, y=98, z=479} jh{x=1463, y=98, z=478}
+[06:14:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1472, y=98, z=481} jh{x=1473, y=97, z=482}
+[06:14:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1472, y=98, z=481} jh{x=1473, y=97, z=482}
+[06:14:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1472, y=98, z=481} jh{x=1473, y=97, z=482}
+[06:14:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1472, y=98, z=481} jh{x=1473, y=97, z=482}
+[06:14:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1472, y=98, z=481} jh{x=1473, y=97, z=482}
+[06:14:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1472, y=98, z=481} jh{x=1473, y=97, z=482}
+[06:14:59] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1482, y=95, z=492} jh{x=1481, y=95, z=493}
+[06:18:32] [Server thread/INFO]: [MIKE: Set the time to 1000]
