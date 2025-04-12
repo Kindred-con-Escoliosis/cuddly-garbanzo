@@ -101,3 +101,16 @@
 [06:14:59] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1482, y=95, z=492} jh{x=1481, y=95, z=493}
 [06:18:32] [Server thread/INFO]: [MIKE: Set the time to 1000]
 [06:50:19] [Server thread/INFO]: [MIKE: Set the time to 1000]
+[06:53:22] [Server thread/INFO]: MIKE lost connection: Disconnected
+[06:53:22] [Server thread/INFO]: MIKE left the game
+[06:53:33] [Server thread/INFO]: Stopping the server
+[06:53:33] [Server thread/INFO]: Stopping server
+[06:53:33] [Server thread/INFO]: Saving players
+[06:53:33] [Server thread/INFO]: Saving worlds
+[06:53:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:53:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06:53:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06:53:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:53:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:53:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:53:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
