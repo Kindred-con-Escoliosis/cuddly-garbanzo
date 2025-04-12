@@ -4722,6 +4722,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-04-12 05:31:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/green_bundle": {
     "criteria": {
       "has_green_dye": "2025-04-12 04:09:09 +0000"
@@ -4755,6 +4761,12 @@
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-04-12 04:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-04-12 05:31:29 +0000"
     },
     "done": true
   },
