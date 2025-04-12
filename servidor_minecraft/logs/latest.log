@@ -80,3 +80,7 @@
 [04:07:35] [Server thread/INFO]: [MIKE: Set the time to 1000]
 [04:08:58] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
 [04:17:44] [Server thread/INFO]: [Aesthetikkkk: Set the time to 1000]
+[04:29:30] [Server thread/INFO]: Aesthetikkkk lost connection: Disconnected
+[04:29:30] [Server thread/INFO]: Aesthetikkkk left the game
+[04:42:26] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1418, y=92, z=455} jh{x=1418, y=93, z=454}
+[04:42:26] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1418, y=92, z=455} jh{x=1418, y=93, z=454}
