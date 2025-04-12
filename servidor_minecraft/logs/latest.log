@@ -1,120 +1,56 @@
-[03:39:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:39:34] [ServerMain/INFO]: Loaded 1337 recipes
-[03:39:34] [ServerMain/INFO]: Loaded 1448 advancements
-[03:39:34] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[03:39:34] [Server thread/INFO]: Loading properties
-[03:39:34] [Server thread/INFO]: Default game type: SURVIVAL
-[03:39:34] [Server thread/INFO]: Generating keypair
-[03:39:35] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:39:35] [Server thread/INFO]: Using epoll channel type
-[03:39:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:39:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:39:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:39:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:39:35] [Server thread/INFO]: Preparing level "world"
-[03:39:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:39:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:39:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:39:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:39:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:39:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:39:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:39:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:39:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:39:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:39:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:39:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:39:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:39:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:39:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:39:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:39:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:39:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:39:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:39:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:39:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:39:46] [Worker-Main-1/INFO]: Preparing spawn area: 16%
-[03:39:46] [Worker-Main-1/INFO]: Preparing spawn area: 57%
-[03:39:46] [Server thread/INFO]: Time elapsed: 10714 ms
-[03:39:46] [Server thread/INFO]: Done (11.437s)! For help, type "help"
-[03:40:36] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:61381] logged in with entity id 12 at (1288.517016385617, 181.0, 710.3000000119209)
-[03:40:36] [Server thread/INFO]: Aesthetikkkk joined the game
-[03:40:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2407ms or 48 ticks behind
-[03:44:49] [Server thread/INFO]: Vazzzco[/100.82.32.24:50487] logged in with entity id 1268 at (1500.8477231934828, 172.0, 720.692814221932)
-[03:44:49] [Server thread/INFO]: Vazzzco joined the game
-[03:49:53] [Server thread/INFO]: [Aesthetikkkk: Set the time to 1000]
-[03:52:01] [Server thread/INFO]: SadduranGT[/100.90.231.18:53091] logged in with entity id 6985 at (1432.3187079944664, 126.0, 517.0546052890984)
-[03:52:01] [Server thread/INFO]: SadduranGT joined the game
-[03:53:16] [Server thread/INFO]: SadduranGT lost connection: Timed out
-[03:53:16] [Server thread/INFO]: SadduranGT left the game
-[03:53:24] [Server thread/INFO]: SadduranGT[/100.90.231.18:53107] logged in with entity id 7553 at (1433.300000011921, 125.0384814701342, 512.8611896832613)
-[03:53:24] [Server thread/INFO]: SadduranGT joined the game
-[03:53:43] [Server thread/INFO]: Hikejace[/100.119.199.16:58884] logged in with entity id 7722 at (1388.8662733232736, 198.5, 347.1437603093077)
-[03:53:43] [Server thread/INFO]: Hikejace joined the game
-[03:55:49] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Hikejace]
-[03:57:22] [Server thread/INFO]: Hikejace fell from a high place
-[03:58:56] [Server thread/INFO]: Aesthetikkkk lost connection: Disconnected
-[03:58:56] [Server thread/INFO]: Aesthetikkkk left the game
-[03:59:50] [Server thread/INFO]: [Hikejace: Teleported Hikejace to Vazzzco]
-[03:59:55] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:61461] logged in with entity id 10759 at (1408.0380321392363, 125.0, 523.2927901809617)
-[03:59:55] [Server thread/INFO]: Aesthetikkkk joined the game
-[04:01:50] [Server thread/INFO]: Aesthetikkkk was slain by Zombie
-[04:01:56] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to SadduranGT]
-[04:03:30] [Server thread/INFO]: [Aesthetikkkk: Set the time to 1000]
-[04:03:43] [Server thread/INFO]: [Hikejace: Teleported Vazzzco to Hikejace]
-[04:03:45] [Server thread/INFO]: [Aesthetikkkk: Teleported Vazzzco to Aesthetikkkk]
-[04:04:34] [Server thread/INFO]: [Aesthetikkkk: Set the weather to clear]
-[04:14:33] [Server thread/INFO]: [Aesthetikkkk: Set the weather to clear]
-[04:14:33] [Server thread/INFO]: [Aesthetikkkk: Teleported Vazzzco to Aesthetikkkk]
-[04:14:36] [Server thread/INFO]: [Aesthetikkkk: Set the time to 1000]
-[04:15:09] [Server thread/INFO]: [Aesthetikkkk: Teleported Hikejace to Aesthetikkkk]
-[04:16:04] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Spectator Mode]
-[04:18:49] [Server thread/INFO]: SadduranGT has completed the challenge [Serious Dedication]
-[04:19:55] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Survival Mode]
-[04:20:21] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Vazzzco]
-[04:21:03] [Server thread/INFO]: SadduranGT lost connection: Disconnected
-[04:21:03] [Server thread/INFO]: SadduranGT left the game
-[04:26:23] [Server thread/WARN]: Aesthetikkkk moved wrongly!
-[04:26:24] [Server thread/INFO]: Aesthetikkkk fell from a high place
-[04:26:33] [Server thread/INFO]: [Aesthetikkkk: Set the time to 1000]
-[04:26:38] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Spectator Mode]
-[04:27:11] [Server thread/INFO]: [Aesthetikkkk: Set own game mode to Survival Mode]
-[04:36:26] [Server thread/INFO]: [Aesthetikkkk: Set the time to 1000]
-[04:46:41] [Server thread/INFO]: [Aesthetikkkk: Set the time to 1000]
-[04:57:30] [Server thread/INFO]: [Aesthetikkkk: Set the time to 1000]
-[05:06:34] [Server thread/INFO]: [Vazzzco: Teleported Hikejace to Vazzzco]
-[05:08:02] [Server thread/WARN]: Aesthetikkkk moved wrongly!
-[05:08:35] [Server thread/INFO]: [Hikejace: Teleported Hikejace to Aesthetikkkk]
-[05:09:53] [Server thread/INFO]: [Aesthetikkkk: Set the time to 1000]
-[05:19:03] [Server thread/INFO]: Hikejace was impaled on a stalagmite
-[05:19:11] [Server thread/INFO]: [Aesthetikkkk: Set the weather to clear]
-[05:19:46] [Server thread/INFO]: [Aesthetikkkk: Set the time to 1000]
-[05:20:40] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Hikejace]
-[05:22:03] [Server thread/INFO]: [Hikejace: Teleported Hikejace to Aesthetikkkk]
-[05:23:06] [Server thread/INFO]: [Hikejace: Teleported Hikejace to Aesthetikkkk]
-[05:25:24] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
-[05:28:05] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Hikejace]
-[05:28:05] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Hikejace]
-[05:29:02] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Hikejace]
-[05:29:39] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Hikejace]
-[05:29:50] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to Hikejace]
-[05:30:06] [Server thread/INFO]: [Vazzzco: Set the time to 1000]
-[05:39:59] [Server thread/INFO]: [Aesthetikkkk: Set the time to 1000]
-[05:48:05] [Server thread/INFO]: Aesthetikkkk lost connection: Disconnected
-[05:48:05] [Server thread/INFO]: Aesthetikkkk left the game
-[05:48:06] [Server thread/INFO]: Hikejace lost connection: Disconnected
-[05:48:06] [Server thread/INFO]: Hikejace left the game
-[05:50:37] [Server thread/INFO]: [Vazzzco: Set the weather to clear]
-[05:55:47] [Server thread/INFO]: Vazzzco lost connection: Disconnected
-[05:55:47] [Server thread/INFO]: Vazzzco left the game
-[05:56:14] [Server thread/INFO]: Stopping the server
-[05:56:14] [Server thread/INFO]: Stopping server
-[05:56:14] [Server thread/INFO]: Saving players
-[05:56:14] [Server thread/INFO]: Saving worlds
-[05:56:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:56:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[05:56:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[05:56:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:56:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:56:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:56:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:36:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:36:24] [ServerMain/INFO]: Loaded 1337 recipes
+[02:36:24] [ServerMain/INFO]: Loaded 1448 advancements
+[02:36:25] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[02:36:25] [Server thread/INFO]: Loading properties
+[02:36:25] [Server thread/INFO]: Default game type: SURVIVAL
+[02:36:25] [Server thread/INFO]: Generating keypair
+[02:36:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:36:25] [Server thread/INFO]: Using epoll channel type
+[02:36:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:36:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:36:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:36:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:36:25] [Server thread/INFO]: Preparing level "world"
+[02:36:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:36:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:36] [Server thread/INFO]: Time elapsed: 10292 ms
+[02:36:37] [Server thread/INFO]: Done (11.087s)! For help, type "help"
+[02:37:36] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:38:08] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:61592] logged in with entity id 12 at (1415.1391833594992, 183.0, 341.3646300675764)
+[02:38:08] [Server thread/INFO]: Aesthetikkkk joined the game
+[02:38:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2243ms or 44 ticks behind
+[02:38:36] [Server thread/INFO]: MIKE[/100.93.180.103:61933] logged in with entity id 251 at (-94.04052437907418, 46.0, 51.38490508902536)
+[02:38:36] [Server thread/INFO]: MIKE joined the game
+[02:38:56] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
+[02:39:37] [Server thread/WARN]: Aesthetikkkk moved too quickly! -2.9911387441045463,-6.656005305261971,15.875976938882502
+[02:39:52] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
+[02:41:07] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
+[02:43:45] [Server thread/INFO]: [Aesthetikkkk: Set the weather to clear]
+[02:47:02] [Server thread/INFO]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[02:47:56] [Server thread/INFO]: Aesthetikkkk lost connection: Timed out
+[02:47:56] [Server thread/INFO]: Aesthetikkkk left the game
+[02:51:50] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:49984] logged in with entity id 8704 at (1213.813200127997, 110.0, 650.6209615481773)
+[02:51:50] [Server thread/INFO]: Aesthetikkkk joined the game
+[02:54:50] [Server thread/INFO]: [MIKE: Teleported MIKE to Aesthetikkkk]
+[02:55:43] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1146, y=63, z=502} jh{x=1145, y=62, z=502}
