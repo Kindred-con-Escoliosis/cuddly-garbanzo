@@ -42,3 +42,27 @@
 [03:00:16] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [03:06:54] [Server thread/INFO]: MIKE[/100.93.180.103:62770] logged in with entity id 12 at (1410.3374361931708, 94.9375, 451.3038773974449)
 [03:06:54] [Server thread/INFO]: MIKE joined the game
+[03:11:02] [Server thread/INFO]: Aesthetikkkk[/100.92.108.83:59747] logged in with entity id 2052 at (1412.6930613218888, 108.0, 483.70019964500744)
+[03:11:02] [Server thread/INFO]: Aesthetikkkk joined the game
+[03:11:20] [Server thread/INFO]: [Not Secure] <MIKE> melo o no melo?
+[03:11:28] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> melito
+[03:11:31] [Server thread/INFO]: [Not Secure] <Aesthetikkkk> vc?
+[03:11:34] [Server thread/INFO]: [Not Secure] <MIKE> voy
+[03:12:52] [Server thread/INFO]: [Aesthetikkkk: Set the time to 1000]
+[03:14:10] [Server thread/INFO]: MIKE lost connection: Disconnected
+[03:14:10] [Server thread/INFO]: MIKE left the game
+[03:14:12] [Server thread/INFO]: Aesthetikkkk lost connection: Disconnected
+[03:14:12] [Server thread/INFO]: Aesthetikkkk left the game
+[03:14:22] [Server thread/INFO]: Incorrect argument for command
+[03:14:22] [Server thread/INFO]: stop <--[HERE]
+[03:14:29] [Server thread/INFO]: Stopping the server
+[03:14:29] [Server thread/INFO]: Stopping server
+[03:14:29] [Server thread/INFO]: Saving players
+[03:14:29] [Server thread/INFO]: Saving worlds
+[03:14:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:14:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:14:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:14:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:14:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:14:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:14:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
